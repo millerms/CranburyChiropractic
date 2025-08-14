@@ -343,9 +343,11 @@
     padding: 0 0.5rem;
   }
   .contact-actions .btn {
-    min-width: 130px;
     padding: 0.75rem 1.25rem;
     font-size: 0.9rem;
+    min-width: 0;
+    max-width: 100%;
+    width: auto;
     flex: 1 1 auto; /* allow buttons to shrink */
   }
 }
