@@ -381,7 +381,7 @@
 }
 
 .hours-table th {
-  padding: 0.75rem;
+  padding: 0.25rem;
   font-weight: 600;
   color: #1e293b;
   border-bottom: 2px solid #e2e8f0;
@@ -404,7 +404,7 @@
 /* Table body */
 .hours-table tbody th,
 .hours-table tbody td {
-  padding: 0.625rem 0.75rem;
+  padding: 0.425rem 0.5rem;
   border-bottom: 1px solid #f1f5f9;
   vertical-align: middle;
 }
@@ -473,7 +473,7 @@
   .hours-table { font-size: 0.9rem; table-layout: fixed; }
   .hours-table thead th {
     font-size: 0.85rem;
-    padding: 0.6rem 0.9rem;
+    padding: 0.4rem 0.6rem;
     white-space: nowrap;        /* keep MORNING/AFTERNOON on one line */
     letter-spacing: 0;          /* avoid forced wrapping from tracking */
     text-transform: none;       /* remove uppercase to save width */
@@ -483,7 +483,7 @@
   .hours-table tbody th,
   .hours-table tbody td {
     white-space: nowrap;        /* keep times on one line */
-    padding: 0.55rem 0.9rem;
+    padding: 0.4rem 0.75rem;
   }
 }
 
