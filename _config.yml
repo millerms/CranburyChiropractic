@@ -8,7 +8,7 @@ locale: en-US
 title: "Cranbury Chiropractic"
 description: "Evidence-based chiropractic care in Fairfield County, CT."
 url: "https://millerms.github.io"  # production URL (can be your GitHub Pages URL while testing)
-baseurl: "/CranburyChiropractic"                             # empty means the site is served at the domain root
+baseurl: ""    # empty means the site is served at the domain root
 
 tagline: "Cranbury Chiropractic Center, LLC"
 logo: "/assets/images/logo.png"          # add a file at this path when ready
