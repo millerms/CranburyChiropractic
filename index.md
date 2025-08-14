@@ -69,10 +69,15 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
 {: .notice--primary}
 
 ---
+# Our Core Services
+
 {% include feature_row id="feature_row" %}
+
+# Our Clinical Approach
+
 {% include feature_row id="feature_row_neuro" type="center" %}
 
-### What to Expect
+# What to Expect
 
 - **First visit focus:** Your initial appointment centers on a thorough, accessible diagnosis. We take time to review your health history, discuss your goals, and perform a detailed assessment of movement, balance, and reflexes. You’ll receive a clear explanation of what’s driving your symptoms and a chance to ask questions in plain language.
 
@@ -81,7 +86,7 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
 - **Ongoing progress tracking:** At each visit, we monitor your motion, pain levels, and functional improvements using both your feedback and objective measures. This ensures your care is effective, transparent, and responsive—so you always know what’s working and what comes next.
 
 
-## Location & Hours
+# Location & Hours
 {: .section-title}
 
 <section class="contact-hours">
