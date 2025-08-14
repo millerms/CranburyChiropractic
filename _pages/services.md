@@ -42,14 +42,15 @@ This technique is highly adaptable, allowing Dr. Miller to tailor each adjustmen
 
 ---
 
-### Class IV Laser Therapy
 
-Laser therapy uses specific wavelengths of light to stimulate healing, reduce inflammation, and ease pain. Our Class IV laser delivers a higher level of energy for deeper tissue penetration and faster results.
+### Cold Laser Therapy (Low-Level Laser Therapy)
+
+Cold laser therapy, also known as low-level laser therapy (LLLT), uses gentle, non-heating light energy to stimulate cellular repair, reduce inflammation, and relieve pain. This non-invasive treatment is safe, comfortable, and suitable for a wide range of musculoskeletal and nerve-related conditions. Our technology allows for precise targeting of affected tissues to support faster recovery and improved function, all without medication or surgery.
 
 Common benefits include:
 - Reduced swelling and inflammation
-- Accelerated tissue repair
-- Relief from acute and chronic pain
+- Accelerated tissue healing and repair
+- Relief from both acute and chronic pain
 
 ---
 

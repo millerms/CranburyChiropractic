@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic"
 author_profile: false
-excerpt: "Evidence-based chiropractic care specializing in precise adjustments, advanced Class IV laser therapy, and comprehensive balance and posture assessment. We deliver personalized, neurologically informed treatment plans for pain relief, performance, and lifelong wellness in Fairfield County."
+excerpt: "Evidence-based chiropractic care specializing in precise adjustments. We deliver personalized, neurologically informed treatment plans for pain relief, performance, and lifelong wellness in Fairfield County."
 
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
@@ -20,21 +20,21 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Chiropractic Care"
     title: "Chiropractic Care"
-    excerpt: "Hands-on adjustments and targeted manual therapy to restore mobility, reduce pain, and improve function."
+    excerpt: "Evidence-based, hands-on spinal and joint adjustments tailored to your needs. Our approach relieves pain, restores mobility, and supports your nervous system for long-term function and comfort. All care is delivered with a focus on safety, accessibility, and patient education."
     url: "/services/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-sport.jpg
-    alt: "Laser Therapy"
-    title: "Laser Therapy"
-    excerpt: "Class IV laser treatments to reduce inflammation, speed recovery, and support tissue healing."
+    alt: "Cold Laser Therapy"
+    title: "Cold Laser Therapy"
+    excerpt: "Cold laser therapy (low-level laser therapy) uses gentle, non-heating light energy to reduce inflammation, promote tissue healing, and relieve pain—without medication or invasive procedures. This safe, comfortable treatment is suitable for a wide range of musculoskeletal and nerve-related conditions."
     url: "/services/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Balance and Posture Testing"
     title: "Balance and Posture Testing"
-    excerpt: "Comprehensive assessments to identify imbalances and create corrective strategies for stability and alignment."
+    excerpt: "Comprehensive movement, balance, and posture assessments identify subtle imbalances and risk factors. We use these insights to create personalized, accessible strategies that improve stability, prevent injury, and enhance your quality of life."
     url: "/services/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
@@ -69,16 +69,16 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
 {: .notice--primary}
 
 ---
-
+{% include feature_row id="feature_row" %}
 {% include feature_row id="feature_row_neuro" type="center" %}
 
 ### What to Expect
 
-- **First visit focus:** a clear diagnosis. We review your history, check movement, balance, and reflexes, and explain what’s driving your pain in plain language.
-- **Treatment plan:** right‑sized care using adjustments, targeted soft‑tissue work, neurologic drills, Class IV laser, and simple exercises you can actually do.
-- **Progress you can feel:** we track changes in motion, pain, and function each visit so you know what’s working.
+- **First visit focus:** Your initial appointment centers on a thorough, accessible diagnosis. We take time to review your health history, discuss your goals, and perform a detailed assessment of movement, balance, and reflexes. You’ll receive a clear explanation of what’s driving your symptoms and a chance to ask questions in plain language.
 
-{% include feature_row id="feature_row" %}
+- **Personalized treatment plan:** Every care plan is tailored to your needs, comfort, and lifestyle. We use evidence-based chiropractic adjustments, targeted soft-tissue therapy, neurologic drills, cold laser therapy (low-level laser), and simple, accessible exercises you can do at home. All interventions are explained and adapted for your preferences and abilities.
+
+- **Ongoing progress tracking:** At each visit, we monitor your motion, pain levels, and functional improvements using both your feedback and objective measures. This ensures your care is effective, transparent, and responsive—so you always know what’s working and what comes next.
 
 
 ## Location & Hours
