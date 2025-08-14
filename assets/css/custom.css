@@ -185,7 +185,7 @@
 @media (max-width: 900px) {
   .page__content .contact-hours {
     display: block;
-    margin: 1.25rem 0.25rem;
+    margin: 1rem 0.25rem;
     padding: 0;
   }
   .page__content .contact-hours .location-details {
@@ -199,8 +199,8 @@
     height: 240px;
   }
   .page__content .contact-hours .hours {
-    padding: 1.1rem 0.5rem;
-    gap: 1.1rem;
+    padding: 1rem 0.5rem;
+    gap: 1rem;
     min-width: 0;
   }
   .section-subtitle {
@@ -221,7 +221,7 @@
     font-size: 0.85rem;
     align-items: center;
     text-align: center;
-    margin: 0.5rem 0 0 0;
+    margin: 0.25rem 0 0 0;
     width: 100%;
     border-radius: 6px;
     border: 1px solid #e2e8f0;
@@ -347,8 +347,12 @@
     font-size: 0.9rem;
     min-width: 0;
     max-width: 100%;
-    width: auto;
+    width: 100%;
+    box-sizing: border-box;
     flex: 1 1 auto; /* allow buttons to shrink */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
   }
 }
 /* End of custom styles */

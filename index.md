@@ -154,6 +154,6 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
     <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
-    <span class="btn-label">Call<br> (203) 846-3424</span>
+    <span class="btn-label">Call (203) 846-3424</span>
   </a>
 </div>
