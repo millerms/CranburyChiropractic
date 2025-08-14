@@ -16,7 +16,7 @@
   justify-items: stretch;
   margin: 2.5rem auto;
   max-width: 1200px;
-  padding: 0 1rem;
+  padding: 0 0.25rem;
 }
 
 /* Map styles */
@@ -185,7 +185,12 @@
 @media (max-width: 900px) {
   .page__content .contact-hours {
     display: block;
-    margin: 1.5rem 1rem;
+    margin: 1.25rem 0.25rem;
+    padding: 0;
+  }
+  .page__content .contact-hours .location-details {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
   }
   .page__content .contact-hours .map {
     margin-bottom: 1.25rem;
