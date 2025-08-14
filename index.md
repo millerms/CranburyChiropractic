@@ -7,7 +7,7 @@ excerpt: "Evidence-based chiropractic care specializing in precise adjustments, 
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
-  overlay_image: "/assets/images/hero.jpg"
+  #overlay_image: "/assets/images/hero.jpg"
   actions:
     - label: "Book on Zocdoc"
       url: "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
@@ -17,21 +17,21 @@ header:
       url: "tel:+12038463424"
 
 feature_row:
-  - image_path: /assets/images/feature-back.jpg
+  - #image_path: /assets/images/feature-back.jpg
     alt: "Chiropractic Care"
     title: "Chiropractic Care"
     excerpt: "Hands-on adjustments and targeted manual therapy to restore mobility, reduce pain, and improve function."
     url: "/services/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature-sport.jpg
+  - #image_path: /assets/images/feature-sport.jpg
     alt: "Laser Therapy"
     title: "Laser Therapy"
     excerpt: "Class IV laser treatments to reduce inflammation, speed recovery, and support tissue healing."
     url: "/services/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature-family.jpg
+  - #image_path: /assets/images/feature-family.jpg
     alt: "Balance and Posture Testing"
     title: "Balance and Posture Testing"
     excerpt: "Comprehensive assessments to identify imbalances and create corrective strategies for stability and alignment."
