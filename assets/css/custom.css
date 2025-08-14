@@ -50,16 +50,16 @@
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  align-items: flex-start;
+  align-items: center;
+  text-align: center;
 }
 
 .section-subtitle {
   color: var(--color-primary);
-  font-size: 0.875rem;
+  font-size: 0.85rem;
   font-weight: 600;
-  text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin: 0 0 1rem;
+  margin: 0 0 0.25rem;
 }
 
 .address-block {
@@ -73,13 +73,15 @@
 .hours-table-wrapper {
   background: var(--color-bg-lighter);
   border-radius: var(--radius-sm);
-  padding: 0.5rem;
-  margin-top: 0.5rem;
+  padding: 0.25rem;
+  margin-top: 0.25rem;
 }
 
 /* Modern table styles */
 .hours-table {
-  width: 100%;
+  width: auto;
+  min-width: 0;
+  max-width: 100%;
   border-collapse: separate;
   border-spacing: 0;
   margin: 0.75rem 0 0;
@@ -95,7 +97,7 @@
   background: var(--color-bg-light);
   color: var(--color-primary);
   font-weight: 600;
-  text-align: left;
+  text-align: center;
   padding: clamp(0.55rem, 0.6vw + 0.4rem, 0.9rem) clamp(0.75rem, 1vw, 1.1rem);
   border-bottom: 2px solid var(--color-border);
   font-size: clamp(0.85rem, 0.4vw + 0.8rem, 1rem);
@@ -136,7 +138,7 @@
   font-size: 1rem;
   font-weight: 600;
   margin: 0 0 0.75rem;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.025em;
 }
 
@@ -198,7 +200,7 @@
   }
   .section-subtitle {
     font-size: 0.85rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.25rem;
   }
   .contact-info address {
     font-size: 0.92rem;
@@ -212,6 +214,8 @@
   }
   .hours-table {
     font-size: 0.85rem;
+    align-items: center;
+    text-align: center;
     margin: 0.5rem 0 0 0;
     width: 100%;
     border-radius: 6px;
@@ -274,6 +278,7 @@
   justify-content: center;
 }
 
+
 .contact-actions .btn {
   flex: 1;
   min-width: 140px;
@@ -283,14 +288,20 @@
   font-weight: 500;
   font-size: 0.95rem;
   border-radius: var(--radius-sm);
-  transition: all 0.2s ease;
   text-decoration: none;
+  background-color: rgba(15, 76, 92, 0.07); /* semi-transparent version of --color-primary */
+  color: var(--color-text);
+  border: 1.5px solid var(--color-border);
+  box-shadow: 0 1px 4px rgba(15, 76, 92, 0.06);
+  transition: background 0.18s, border 0.18s, box-shadow 0.18s;
 }
 
+
 .contact-actions .btn--primary {
-  background-color: var(--color-primary);
+  background-color: rgba(15, 76, 92, 0.13); /* slightly more opaque for primary */
   color: white;
-  border: 1px solid var(--color-primary);
+  border: 1.5px solid var(--color-primary);
+  box-shadow: 0 2px 8px rgba(15, 76, 92, 0.10);
 }
 
 .contact-actions .btn--primary:hover {
@@ -300,11 +311,6 @@
   box-shadow: 0 4px 6px rgba(15, 76, 92, 0.15);
 }
 
-.contact-actions .btn {
-  background-color: var(--color-bg-light);
-  color: var(--color-text);
-  border: 1px solid var(--color-border);
-}
 
 .contact-actions .btn:hover {
   background-color: white;
@@ -376,14 +382,14 @@
   color: #1e293b;
   border-bottom: 2px solid #e2e8f0;
   font-size: 0.75rem;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.05em;
 }
 
 /* Day column header */
 .hours-table thead th:first-child {
   width: 4rem;
-  text-align: left;
+  text-align: center;
 }
 
 /* Time columns */
@@ -403,7 +409,7 @@
 .hours-table tbody th {
   font-weight: 600;
   color: #1e293b;
-  text-align: left;
+  text-align: center;
 }
 
 /* Time slots */
@@ -469,7 +475,7 @@
     text-transform: none;       /* remove uppercase to save width */
     text-align: center;
   }
-  .hours-table thead th:first-child { text-align: left; width: 4.75rem; }
+  .hours-table thead th:first-child { text-align: center; width: 4.75rem; }
   .hours-table tbody th,
   .hours-table tbody td {
     white-space: nowrap;        /* keep times on one line */
@@ -482,4 +488,32 @@
   .page__content .contact-hours .hours .contact-info,
   .page__content .contact-hours .hours .hours-info { text-align: center; }
 }
-/* ===== END FINAL CLEAN POLISH ===== */
+
+/* === FINAL CENTERING OVERRIDES (both desktop & mobile) === */
+/* Center the right column content within its grid column */
+.page__content .contact-hours .location-details {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Constrain inner blocks so they don't stretch edge-to-edge */
+.page__content .contact-hours .location-details .contact-info,
+.page__content .contact-hours .location-details .hours-info {
+  max-width: 520px;
+  width: auto;
+  min-width: 0;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Center the hours table within its container */
+.page__content .contact-hours .location-details .hours-info .hours-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Center headers and data for the table on all breakpoints */
+.hours-table thead th,
+.hours-table tbody th,
+.hours-table td { text-align: center; }
+/* If any earlier rules force the first column left, override that */
+.hours-table thead th:first-child,
+.hours-table tbody th { text-align: center; }

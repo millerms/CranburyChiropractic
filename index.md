@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic"
 author_profile: false
-excerpt: "Friendly, evidence-based chiropractic care including adjustments, Class IV laser therapy, balance and posture testing, and more for pain relief, performance, and family wellness in Fairfield County."
+excerpt: "Evidence-based chiropractic care specializing in precise adjustments, advanced Class IV laser therapy, and comprehensive balance and posture assessment. We deliver personalized, neurologically informed treatment plans for pain relief, performance, and lifelong wellness in Fairfield County."
 
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
@@ -39,13 +39,13 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 
-feature_row2:
-  - title: "Evidence-Based Care"
-    excerpt: "We combine chiropractic adjustments, Class IV laser therapy, balance and posture testing, soft-tissue work, and exercise prescription aligned with current research."
-  - title: "Personalized Plans"
-    excerpt: "No one-size-fits-all. We tailor treatment to your goals, schedule, and activity level."
-  - title: "Convenient Location"
-    excerpt: "Easy parking and flexible hours for busy families and professionals."
+#feature_row2:
+#  - title: "Evidence-Based Care"
+#    excerpt: "We combine chiropractic adjustments, Class IV laser therapy, balance and posture testing, soft-tissue work, and exercise prescription aligned with current research."
+#  - title: "Personalized Plans"
+#    excerpt: "No one-size-fits-all. We tailor treatment to your goals, schedule, and activity level."
+#  - title: "Convenient Location"
+#    excerpt: "Easy parking and flexible hours for busy families and professionals."
 
 feature_row_neuro:
   - title: "Neurologic Approach"
@@ -61,12 +61,14 @@ feature_row_neuro:
 ---
 
 <div class="page__lead" markdown="1">
-Welcome. We help people move better and feel better with clear plans and practical guidance. Whether you’re dealing with a new injury, nagging pain, or just want to stay active, we’ll meet you where you are.
+Cranbury Chiropractic is your partner in pain relief, performance, and lifelong wellness. We combine time-tested chiropractic methods with modern tools and neurologic assessment to help you move better, recover faster, and stay active.
 </div>
 
 > “My style is neurologically based and I continually monitor how your nervous system is functioning and how it responds to the treatment that you received. Our nervous systems are incredibly complex and are self healing. If we can find the restriction or imbalance and address that, the body will usually heal itself.”  
 > — **Dr. Paul Miller**
 {: .notice--primary}
+
+---
 
 {% include feature_row id="feature_row_neuro" type="center" %}
 
@@ -78,12 +80,6 @@ Welcome. We help people move better and feel better with clear plans and practic
 
 {% include feature_row id="feature_row" %}
 
-{% include feature_row id="feature_row2" type="center" %}
-
-[Request an Appointment](/contact/){: .btn .btn--primary }  
-[Call (203) 846-3424](tel:+12038463424){: .btn }
-
----
 
 ## Location & Hours
 {: .section-title}
@@ -109,9 +105,7 @@ Welcome. We help people move better and feel better with clear plans and practic
         <div class="address-block">
           <span class="address-line">488 Main Ave.</span>
           <span class="address-line">Norwalk, CT 06851</span>
-        </div>
-        <div class="phone-block">
-          <a href="tel:+12038463424" class="phone-link">(203) 846-3424</a>
+          <span href="tel:+12038463424" class="phone-link">(203) 846-3424</span>
         </div>
       </address>
     </div>
@@ -163,6 +157,6 @@ Welcome. We help people move better and feel better with clear plans and practic
     <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
-    <span class="btn-label">Call (203) 846-3424</span>
+    <span class="btn-label">Call<br> (203) 846-3424</span>
   </a>
 </div>
