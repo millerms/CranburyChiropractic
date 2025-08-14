@@ -99,15 +99,12 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
 
   <div class="location-details">
     <div class="contact-info" style="min-width:0;word-break:break-word;">
-      <h3 class="section-subtitle">Visit Us</h3>
-      <address>
-        <strong class="business-name">Cranbury Chiropractic Center</strong>
         <div class="address-block">
+          <strong class="business-name">Cranbury Chiropractic Center</strong>
           <span class="address-line">488 Main Ave.</span>
           <span class="address-line">Norwalk, CT 06851</span>
           <span href="tel:+12038463424" class="phone-link">(203) 846-3424</span>
         </div>
-      </address>
     </div>
 
     <div class="hours-info" style="min-width:0;word-break:break-word;">
@@ -123,22 +120,22 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
           </thead>
           <tbody>
             <tr>
-              <th scope="row">Mon</th>
+              <th scope="row">MON</th>
               <td>8:00 &ndash; 1:00</td>
               <td>3:00 &ndash; 6:00</td>
             </tr>
             <tr>
-              <th scope="row">Wed</th>
+              <th scope="row">WED</th>
               <td>8:00 &ndash; 1:00</td>
               <td>3:00 &ndash; 6:00</td>
             </tr>
             <tr>
-              <th scope="row">Fri</th>
+              <th scope="row">FRI</th>
               <td>8:00 &ndash; 1:00</td>
               <td>3:00 &ndash; 6:00</td>
             </tr>
             <tr>
-              <th scope="row">Sat</th>
+              <th scope="row">SAT</th>
               <td>8:00 &ndash; 11:00</td>
               <td>Closed</td>
             </tr>
