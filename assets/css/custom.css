@@ -1,3 +1,485 @@
-.page__hero--overlay {
-  background-image: linear-gradient(rgba(16, 61, 45, 0.8), rgba(16, 61, 45, 0.8)), url("/cranbury-chiropractic/assets/images/hero.jpg") !important;
+/***** Find Us & Hours layout *****/
+/* Component variables */
+:root {
+  --shadow-sm: 0 1px 2px rgba(15, 76, 92, 0.05);
+  --shadow-md: 0 2px 4px rgba(15, 76, 92, 0.08);
+  --radius-sm: 6px;
+  --radius-md: 8px;
 }
+
+/* Base layout */
+.page__content .contact-hours {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+  justify-items: stretch;
+  margin: 2.5rem auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
+/* Map styles */
+.page__content .contact-hours .map {
+  background: white;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+  transition: box-shadow 0.2s ease;
+}
+
+.page__content .contact-hours .map:hover {
+  box-shadow: 0 4px 6px rgba(15, 76, 92, 0.1);
+}
+
+.page__content .contact-hours .map iframe {
+  width: 100%;
+  height: 420px;
+  border: 0;
+  display: block;
+}
+
+/* Info section styles */
+.page__content .contact-hours .location-details {
+  background: white;
+  border-radius: var(--radius-md);
+  padding: 1.75rem;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.section-subtitle {
+  color: var(--color-primary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 1rem;
+}
+
+.address-block {
+  margin: 0.5rem 0;
+}
+
+.phone-block {
+  margin-top: 0.75rem;
+}
+
+.hours-table-wrapper {
+  background: var(--color-bg-lighter);
+  border-radius: var(--radius-sm);
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Modern table styles */
+.hours-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0.75rem 0 0;
+  font-size: 0.85rem;
+  background: var(--color-bg-lighter);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.hours-table thead th {
+  background: var(--color-bg-light);
+  color: var(--color-primary);
+  font-weight: 600;
+  text-align: left;
+  padding: clamp(0.55rem, 0.6vw + 0.4rem, 0.9rem) clamp(0.75rem, 1vw, 1.1rem);
+  border-bottom: 2px solid var(--color-border);
+  font-size: clamp(0.85rem, 0.4vw + 0.8rem, 1rem);
+}
+
+.hours-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.hours-table td {
+  padding: 0.875rem 1rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+}
+
+.hours-table td:first-child {
+  font-weight: 600;
+  color: var(--color-text);
+  width: 30%;
+}
+
+/* Section styling */
+.section-title {
+  font-size: 1.75rem;
+  color: #1e293b;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* Contact info styling */
+.contact-info {
+  margin-bottom: 0;
+}
+
+.contact-hours h3 {
+  color: #1e293b;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.contact-hours address {
+  font-style: normal;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  color: #475569;
+  display: grid;
+  gap: 0.25rem;
+  margin: 0;
+}
+
+.contact-hours address strong {
+  color: #1e293b;
+  font-weight: 600;
+  display: block;
+  margin: 0 0 0.25rem 0;
+  line-height: 1.25;
+}
+
+.contact-hours .address-line,
+.contact-hours .phone {
+  display: block;
+}
+
+.contact-hours .phone {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.contact-hours .phone-link {
+  color: #0f4c5c;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.contact-hours .phone-link:hover {
+  color: #2d6a4f;
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .page__content .contact-hours {
+    display: block;
+    margin: 1.5rem 1rem;
+  }
+  .page__content .contact-hours .map {
+    margin-bottom: 1.25rem;
+  }
+  .page__content .contact-hours .map iframe {
+    height: 240px;
+  }
+  .page__content .contact-hours .hours {
+    padding: 1.1rem 0.5rem;
+    gap: 1.1rem;
+    min-width: 0;
+  }
+  .section-subtitle {
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+  .contact-info address {
+    font-size: 0.92rem;
+    word-break: break-word;
+    min-width: 0;
+  }
+  .hours-table-wrapper {
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+  }
+  .hours-table {
+    font-size: 0.85rem;
+    margin: 0.5rem 0 0 0;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #e2e8f0;
+    background: #f8fafc;
+    min-width: 0;
+    table-layout: fixed;
+    word-break: break-word;
+  }
+  .hours-table thead th {
+    padding: 0.5rem 0.5rem;
+    font-size: 0.8rem;
+  }
+  .hours-table td, .hours-table th {
+    padding: 0.5rem 0.5rem;
+    min-width: 0;
+    word-break: break-word;
+  }
+  .page__content .contact-hours .hours { display: block; }
+  .page__content .contact-hours .hours .contact-info,
+  .page__content .contact-hours .hours .hours-info {
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .page__content .contact-hours .hours .hours-info .hours-table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Very small screens */
+@media (max-width: 400px) {
+  .hours-table {
+    font-size: 0.8125rem;
+  }
+
+  .hours-table thead th {
+    padding: 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .hours-table td {
+    padding: 0.5rem;
+  }
+}
+
+/* Ensure proper spacing between sections */
+.page__content .contact-hours .location-details > *:last-child {
+  margin-bottom: 0;
+}
+/* ===== END OF FINAL OVERRIDES ===== */
+/* Contact actions */
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 2.5rem;
+  justify-content: center;
+}
+
+.contact-actions .btn {
+  flex: 1;
+  min-width: 140px;
+  max-width: 200px;
+  text-align: center;
+  padding: 0.875rem 1.5rem;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.contact-actions .btn--primary {
+  background-color: var(--color-primary);
+  color: white;
+  border: 1px solid var(--color-primary);
+}
+
+.contact-actions .btn--primary:hover {
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(15, 76, 92, 0.15);
+}
+
+.contact-actions .btn {
+  background-color: var(--color-bg-light);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+}
+
+.contact-actions .btn:hover {
+  background-color: white;
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(15, 76, 92, 0.1);
+}
+
+.contact-actions .btn:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.contact-actions .btn:active {
+  transform: translateY(0);
+}
+
+/* Responsive button adjustments */
+@media (max-width: 600px) {
+  .contact-actions {
+    gap: 0.625rem;
+    margin-top: 2rem;
+    padding: 0 0.5rem;
+  }
+  
+  .contact-actions .btn {
+    min-width: 130px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+  }
+}
+/* End of custom styles */
+/* Custom styles for contact hours */
+
+/* Typography and spacing */
+.page__content .contact-hours h3 {
+  font-size: clamp(1.15rem, 0.6vw + 1rem, 1.45rem);
+  margin: 0 0 0.5rem 0;
+}
+
+.page__content .contact-hours .hours p {
+  font-size: clamp(1rem, 0.25vw + 0.95rem, 1.1rem);
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+}
+
+/* Hours table styling */
+.hours-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: #fff;
+  font-size: 0.875rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+/* Table header */
+.hours-table thead {
+  background: #f8fafc;
+}
+
+.hours-table th {
+  padding: 0.75rem;
+  font-weight: 600;
+  color: #1e293b;
+  border-bottom: 2px solid #e2e8f0;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Day column header */
+.hours-table thead th:first-child {
+  width: 4rem;
+  text-align: left;
+}
+
+/* Time columns */
+.hours-table thead th:not(:first-child) {
+  text-align: center;
+}
+
+/* Table body */
+.hours-table tbody th,
+.hours-table tbody td {
+  padding: 0.625rem 0.75rem;
+  border-bottom: 1px solid #f1f5f9;
+  vertical-align: middle;
+}
+
+/* Day column */
+.hours-table tbody th {
+  font-weight: 600;
+  color: #1e293b;
+  text-align: left;
+}
+
+/* Time slots */
+.hours-table tbody td {
+  color: #475569;
+  text-align: center;
+}
+
+/* Last row */
+.hours-table tbody tr:last-child th,
+.hours-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+/* Closed indicator */
+.hours-table td:last-child:contains("Closed") {
+  color: #94a3b8;
+  font-size: 0.8125rem;
+  letter-spacing: 0.025em;
+}
+
+/* ------------------------------
+   Small-window polish
+   ------------------------------ */
+@media (max-width: 900px) {
+  /* Keep map full-width on top (you already stack it), then two-column grid for content */
+  .page__content .contact-hours .hours {
+    grid-template-columns: 1.1fr 1fr;   /* Address a touch wider than Hours */
+    gap: 1rem 1.2rem;
+  }
+
+  /* Tighter type and padding on narrow screens */
+  .page__content .contact-hours h3 {
+    font-size: clamp(1.05rem, 0.8vw + 0.9rem, 1.25rem);
+    margin-bottom: 0.4rem;
+  }
+  .page__content .contact-hours .hours p {
+    font-size: clamp(0.95rem, 0.4vw + 0.85rem, 1.02rem);
+    margin-bottom: 0.75rem;
+  }
+
+  .hours-table {
+    font-size: clamp(0.9rem, 0.6vw + 0.8rem, 1rem);
+  }
+  .hours-table td,
+  .hours-table thead th {
+    padding: 0.5rem 0.75rem;
+  }
+}
+
+/* ===== FINAL CLEAN POLISH (desktop + mobile) ===== */
+/* Desktop: smaller, single-line times and tighter address */
+@media (min-width: 901px) {
+  .page__content .contact-hours h3.section-subtitle { font-size: 1rem; }
+  .page__content .contact-hours .contact-info address { font-size: 0.92rem; }
+
+  .hours-table { font-size: 0.9rem; table-layout: fixed; }
+  .hours-table thead th {
+    font-size: 0.85rem;
+    padding: 0.6rem 0.9rem;
+    white-space: nowrap;        /* keep MORNING/AFTERNOON on one line */
+    letter-spacing: 0;          /* avoid forced wrapping from tracking */
+    text-transform: none;       /* remove uppercase to save width */
+    text-align: center;
+  }
+  .hours-table thead th:first-child { text-align: left; width: 4.75rem; }
+  .hours-table tbody th,
+  .hours-table tbody td {
+    white-space: nowrap;        /* keep times on one line */
+    padding: 0.55rem 0.9rem;
+  }
+}
+
+/* Mobile: ensure both blocks are centered under the map */
+@media (max-width: 900px) {
+  .page__content .contact-hours .hours .contact-info,
+  .page__content .contact-hours .hours .hours-info { text-align: center; }
+}
+/* ===== END FINAL CLEAN POLISH ===== */
