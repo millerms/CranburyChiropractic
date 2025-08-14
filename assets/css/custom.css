@@ -280,9 +280,9 @@
 
 
 .contact-actions .btn {
-  flex: 1;
-  min-width: 140px;
-  max-width: 200px;
+  flex: 1 1 240px;
+  min-width: 180px;
+  max-width: 320px;
   text-align: center;
   padding: 0.875rem 1.5rem;
   font-weight: 500;
@@ -332,15 +332,19 @@
 /* Responsive button adjustments */
 @media (max-width: 600px) {
   .contact-actions {
+    flex-direction: column;
     gap: 0.625rem;
     margin-top: 2rem;
     padding: 0 0.5rem;
+    align-items: stretch;
   }
-  
   .contact-actions .btn {
-    min-width: 130px;
-    padding: 0.75rem 1.25rem;
-    font-size: 0.9rem;
+    min-width: 0;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.85rem 1.25rem;
+    font-size: 0.97rem;
   }
 }
 /* End of custom styles */

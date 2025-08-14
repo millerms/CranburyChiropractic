@@ -150,7 +150,7 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
 </section>
 
 <div class="contact-actions">
-  <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn btn--primary">
+  <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>
   <a href="/contact/" class="btn">
