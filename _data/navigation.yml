@@ -1,12 +1,13 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Services"
+    url: "/services/"
+  - title: "Meet the Doctor"
+    url: "/doctor/"
+  - title: "New Patients"
+    url: "/new-patients/"
+  - title: "Insurance & Pricing"
+    url: "/insurance/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Blog"
+    url: "/blog/"

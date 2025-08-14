@@ -4,12 +4,36 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "custom"
 
 # Site Settings
-locale: "en-US"
-title: "Site Title"
-description: "An amazing website."
-url: ""
-baseurl: ""
-repository: ""
+locale: en-US
+title: "Cranbury Chiropractic"
+description: "Evidence-based chiropractic care in Fairfield County, CT."
+url: "https://millerms.github.io"  # production URL (can be your GitHub Pages URL while testing)
+baseurl: "/CranburyChiropractic"                             # empty means the site is served at the domain root
+
+tagline: "Cranbury Chiropractic Center, LLC"
+logo: "/assets/images/logo.png"          # add a file at this path when ready
+favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
+logo_alt: "Cranbury Chiropractic Logo"
+logo_text: "Cranbury Chiropractic"
+
+atom_feed:
+  hide: true
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Services"
+    url: "/services/"
+  - title: "Meet the Doctor"
+    url: "/doctor/"
+  - title: "New Patients"
+    url: "/new-patients/"
+  - title: "Insurance & Pricing"
+    url: "/insurance/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Blog"
+    url: "/blog/"
 
 # Site Author
 author:
@@ -42,6 +66,17 @@ footer:
       # url:
   since: "2013"
 
+keywords:
+  - Cranbury Chiropractic
+  - Chiropractic Care
+  - Cranbury CT
+  - Norwalk CT
+  - Back Pain Relief
+  - Neck Pain Relief
+  - Sports Injury
+  - Family Chiropractic
+  - Wellness
+
 # Reading Files
 include:
   - .htaccess
@@ -62,6 +97,7 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
+  - Gemfile.lockbun
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -75,6 +111,7 @@ exclude:
   - tmp
   - /docs
   - /test
+  - _site
 
 keep_files:
   - .git
@@ -128,6 +165,16 @@ defaults:
       comments: 
       share: true
       related: true
+
+# ----------------------
+# Collections
+# ----------------------
+# Keep using `_pages/` as a collection that outputs to clean URLs
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    permalink_style: pretty
 
 # Optional Integrations (commented out for future use)
 

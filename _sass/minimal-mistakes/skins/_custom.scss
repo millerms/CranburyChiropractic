@@ -3,19 +3,42 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #eeeeee !default;
-$text-color: #222831 !default;
-$muted-text-color: #393e46 !default;
-$primary-color: #0092ca !default;
-$border-color: mix(#fff, #393e46, 75%) !default;
+$background-color: #f7f9f8 !default;
+$text-color: #0f172a !default;
+$muted-text-color: #334155 !default;
+$primary-color: #104a7d !default;
+$border-color: #e2e8f0 !default;
 $footer-background-color: $primary-color !default;
-$link-color: #393e46 !default;
+$link-color: #104a7d !default;
+$link-color-hover: darken($link-color, 10%);
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$overlay-color: rgba(16, 61, 45, 0.8) !default; // semi-transparent dark green
+
+/* Header/nav + footer */
+$nav-background-color: #ffffff;
+$footer-background-color: #10245b;   // solid deep slate for predictable contrast
+$footer-text-color: #e2e8f0;
+$footer-link-color: #ffffff;
+$footer-link-hover-color: lighten($footer-link-color, 10%);
+$footer-border-color: #334155;
+$header-background-color: $nav-background-color;
+$header-text-color: $text-color;
+$header-link-color: $primary-color;
+$header-link-hover-color: $link-color-hover;
+
+/* Buttons */
+$button-background-color: $primary-color;
+$button-color: #ffffff;
+$button-border-color: transparent;
+$button-hover-background-color: darken($button-background-color, 10%);
+$button-hover-color: #ffffff;
+$button-hover-border-color: transparent;
+
 
 .page__footer {
-  color: #fff !important; // override
+  color: $footer-text-color !important; // override
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
