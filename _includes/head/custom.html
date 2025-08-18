@@ -7,20 +7,31 @@ var BASEURL = "{{ '/' | relative_url }}".replace(/\/$/, '');
 
 function buildServicesDropdown() {
   var nav = document.querySelector('nav.greedy-nav');
-  if (!nav || !Array.isArray(window.SERVICES_MENU)) return;
 
-  // Find the top-level Services link in the visible links
-  var links = nav.querySelectorAll('ul.visible-links > li > a');
+  // Clean-up: remove any previously injected Services submenus to avoid duplicates (especially on mobile overlay)
+  if (nav) {
+    nav.querySelectorAll('.services-submenu').forEach(function(el){ el.parentElement && el.parentElement.classList.remove('submenu-open'); el.remove(); });
+  }
+
+  // Prefer a Services link in visible links; fall back to any top-level link
   var targetLi = null;
-
-  links.forEach(function(a){
-    var text = (a.textContent || '').trim().toLowerCase();
-    var href = (a.getAttribute('href') || '').replace(/\/+$/, ''); // strip trailing slash
-    // Match by text label or by URL ending in /services (baseurl-safe)
-    if (text === 'services' || /\/services$/i.test(href)) {
-      targetLi = a.parentElement;
+  var linkSets = [
+    'ul.visible-links > li > a',
+    'ul.hidden-links > li > a',
+    'ul > li > a' // fallback for modal/other layouts
+  ];
+  for (var i = 0; i < linkSets.length && !targetLi; i++) {
+    var candidates = nav.querySelectorAll(linkSets[i]);
+    for (var j = 0; j < candidates.length; j++) {
+      var a = candidates[j];
+      var text = (a.textContent || '').trim().toLowerCase();
+      var href = (a.getAttribute('href') || '').replace(/\/+$/, '');
+      if (text === 'services' || /\/services$/i.test(href)) {
+        targetLi = a.parentElement;
+        break;
+      }
     }
-  });
+  }
 
   if (!targetLi) return;
 
@@ -44,6 +55,7 @@ function buildServicesDropdown() {
   if (!ul.children.length) return;
 
   targetLi.appendChild(ul);
+  targetLi.classList.remove('submenu-open');
 
   // Prevent duplicate listeners if this runs multiple times
   if (targetLi.dataset.dropdownInit === '1') return;
@@ -104,6 +116,8 @@ function buildServicesDropdown() {
   document.addEventListener('touchstart', function (evt) {
     if (!targetLi.contains(evt.target)) closeMenu();
   }, { passive: true });
+
+  window.addEventListener('resize', function(){ targetLi.classList.remove('submenu-open'); });
 }
 
 // Run after DOM and again after window load (in case the nav compacts/expands)
