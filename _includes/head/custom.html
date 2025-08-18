@@ -128,3 +128,72 @@ document.addEventListener('DOMContentLoaded', function(){
 });
 window.addEventListener('load', buildServicesDropdown);
 </script>
+<script>
+// Scroll reveal (IntersectionObserver) – adds .is-revealed when elements enter viewport
+(function(){
+  if (window.__revealInit) return; // guard against double init
+  window.__revealInit = true;
+
+  var prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Common elements to auto‑reveal site‑wide
+  var autoSelectors = [
+    '.page__lead',
+    '.page__content h2', '.page__content h3',
+    '.feature__wrapper .feature__item',
+    '.home-tile',
+    '.contact-hours .map',
+    '.contact-hours .location-details > *',
+    '.archive__item'
+  ];
+
+  function markAutoReveal() {
+    try {
+      var nodes = document.querySelectorAll(autoSelectors.join(','));
+      nodes.forEach(function(el){
+        if (el.classList.contains('reveal') || el.classList.contains('is-revealed')) return;
+        el.classList.add('reveal');
+        if (el.classList.contains('home-tile') || el.classList.contains('feature__item')) {
+          el.classList.add('reveal--up');
+        }
+      });
+    } catch(e) { /* noop */ }
+  }
+
+  function initObserver(){
+    if (prefersReduced) {
+      document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('is-revealed'); });
+      return;
+    }
+
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(entry){
+        if (entry.isIntersecting) {
+          var el = entry.target;
+          // Optional stagger within sibling groups
+          var delay = 0;
+          if (el.parentElement) {
+            var siblings = Array.from(el.parentElement.children)
+              .filter(function(n){ return n.classList && n.classList.contains('reveal') && !n.classList.contains('is-revealed'); });
+            var idx = siblings.indexOf(el);
+            if (idx > -1) delay = Math.min(idx * 60, 240);
+          }
+          el.style.transitionDelay = delay + 'ms';
+          el.classList.add('is-revealed');
+          io.unobserve(el);
+        }
+      });
+    }, { rootMargin: '0px 0px -10% 0px', threshold: 0.12 });
+
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  }
+
+  function start(){ markAutoReveal(); initObserver(); }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', start);
+  } else {
+    start();
+  }
+})();
+</script>

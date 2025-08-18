@@ -68,38 +68,39 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 
 > “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  
 > ~ **Dr. Paul Miller**
-{: .notice--primary}
+{: .notice--primary .reveal .reveal--fade }
 
 ---
 
 
 ## What We Treat & How We Help
-
-<div class="home-tile-grid">
-  <div class="home-tile">
-    <h3>Neurologic Approach</h3>
-    <p>We align sensory input with motor control — the umbrella for all care here. Short drills + the right techniques so progress lasts.</p>
-    <a class="btn btn--primary" href="{{ '/services/neurologic-approach/' | relative_url }}">Learn more</a>
-  </div>
-  <div class="home-tile">
-    <h3>Balance & Stability</h3>
-    <p>Focused balance care using visual, vestibular (inner ear), and proprioceptive drills — with a computerized balance tracker and risk‑of‑fall score.</p>
-    <a class="btn btn--primary" href="{{ '/services/balance-stability/' | relative_url }}">Learn more</a>
-  </div>
-  <div class="home-tile">
-    <h3>Full-Spine & Extremities</h3>
-    <p>Precise, hands‑on adjustments for the spine and joints like ankles, knees, shoulders, and wrists — paired with simple exercises when helpful.</p>
-    <a class="btn btn--primary" href="{{ '/services/full-spine-extremities/' | relative_url }}">Learn more</a>
-  </div>
-  <div class="home-tile">
-    <h3>Cold Laser Therapy (Class III)</h3>
-    <p>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support recovery. Non‑thermal; most feel little to no heat, and sessions typically take 5–15 minutes—often paired with adjustments and exercise.</p>
-    <a class="btn btn--primary" href="{{ '/services/laser-therapy/' | relative_url }}">Learn more</a>
-  </div>
-  <div class="home-tile">
-    <h3>Shockwave Therapy (ESWT)</h3>
-    <p>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger) — typically a short series, intensity tailored to comfort.</p>
-    <a class="btn btn--primary" href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Learn more</a>
+<div class="reveal reveal--up">
+  <div class="home-tile-grid"> 
+    <div class="home-tile">
+      <h3>Neurologic Approach</h3>
+      <p>We align sensory input with motor control — the umbrella for all care here. Short drills + the right techniques so progress lasts.</p>
+      <a class="btn btn--primary" href="{{ '/services/neurologic-approach/' | relative_url }}">Learn more</a>
+    </div>
+    <div class="home-tile">
+      <h3>Balance & Stability</h3>
+      <p>Focused balance care using visual, vestibular (inner ear), and proprioceptive drills — with a computerized balance tracker and risk‑of‑fall score.</p>
+      <a class="btn btn--primary" href="{{ '/services/balance-stability/' | relative_url }}">Learn more</a>
+    </div>
+    <div class="home-tile">
+      <h3>Full-Spine & Extremities</h3>
+      <p>Precise, hands‑on adjustments for the spine and joints like ankles, knees, shoulders, and wrists — paired with simple exercises when helpful.</p>
+      <a class="btn btn--primary" href="{{ '/services/full-spine-extremities/' | relative_url }}">Learn more</a>
+    </div>
+    <div class="home-tile">
+      <h3>Cold Laser Therapy (Class III)</h3>
+      <p>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support recovery. Non‑thermal; most feel little to no heat, and sessions typically take 5–15 minutes—often paired with adjustments and exercise.</p>
+      <a class="btn btn--primary" href="{{ '/services/laser-therapy/' | relative_url }}">Learn more</a>
+    </div>
+    <div class="home-tile">
+      <h3>Shockwave Therapy (ESWT)</h3>
+      <p>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger) — typically a short series, intensity tailored to comfort.</p>
+      <a class="btn btn--primary" href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Learn more</a>
+    </div>
   </div>
 </div>
 
@@ -140,80 +141,83 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 
 
 ## What to Expect
-
+{: .reveal .reveal--up }
 - **Evaluate:** Short, focused screens to find the *limiter* (what’s holding you back). We review your history, check movement/coordination, and use tools like a balance tracker when helpful.
+{: .reveal .reveal--up }
 - **Plan:** Right‑sized care matched to your goals — targeted drills, adjustments or manual work when appropriate, and simple home exercises you’ll actually do.
+{: .reveal .reveal--up }
 - **Treat:** Precise, gentle techniques; add‑ons like Class III cold laser or shockwave when appropriate. We explain each step and adapt to your comfort.
+{: .reveal .reveal--up }
 - **Track:** Quick rechecks so you can feel and see progress. We adjust the plan based on what works for you.
-
-
+{: .reveal .reveal--up }
 
 ## Location & Hours
-{: .section-title}
-
-<section class="contact-hours">
-  <div class="map">
-    <iframe 
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12017.780646219726!2d-73.43573584758363!3d41.14663669559827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e81d06e09b8725%3A0x6a009dd40432130c!2s488%20Main%20Ave%2C%20Norwalk%2C%20CT%2006851!5e0!3m2!1sen!2sus!4v1755148035773!5m2!1sen!2sus" 
-        width="600" 
-        height="450"
-        style="border:0;" 
-        allowfullscreen="" 
-        loading="lazy" 
-        referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-  </div>
-
-  <div class="location-details">
-    <div class="contact-info" style="min-width:0;word-break:break-word;">
-        <div class="address-block">
-          <strong class="business-name">Cranbury Chiropractic Center</strong>
-          <span class="address-line">488 Main Ave.</span>
-          <span class="address-line">Norwalk, CT 06851</span>
-          <a href="tel:+12038463424" class="phone-link">(203) 846-3424</a>
-        </div>
+{: .reveal .reveal--up }
+<div class="reveal reveal--up">
+  <section class="contact-hours">
+    <div class="map">
+      <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12017.780646219726!2d-73.43573584758363!3d41.14663669559827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e81d06e09b8725%3A0x6a009dd40432130c!2s488%20Main%20Ave%2C%20Norwalk%2C%20CT%2006851!5e0!3m2!1sen!2sus!4v1755148035773!5m2!1sen!2sus" 
+          width="600" 
+          height="450"
+          style="border:0;" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
     </div>
 
-    <div class="hours-info" style="min-width:0;word-break:break-word;">
-      <h3 class="section-subtitle">Office Hours</h3>
-      <div class="hours-table-wrapper">
-        <table class="hours-table" aria-label="Office Hours" style="min-width:0;table-layout:fixed;word-break:break-word;">
-          <thead>
-            <tr>
-              <th scope="col">Day</th>
-              <th scope="col">Morning</th>
-              <th scope="col">Afternoon</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">MON</th>
-              <td>8:00 &ndash; 1:00</td>
-              <td>3:00 &ndash; 6:00</td>
-            </tr>
-            <tr>
-              <th scope="row">WED</th>
-              <td>8:00 &ndash; 1:00</td>
-              <td>3:00 &ndash; 6:00</td>
-            </tr>
-            <tr>
-              <th scope="row">FRI</th>
-              <td>8:00 &ndash; 1:00</td>
-              <td>3:00 &ndash; 6:00</td>
-            </tr>
-            <tr>
-              <th scope="row">SAT</th>
-              <td>8:00 &ndash; 11:00</td>
-              <td>Closed</td>
-            </tr>
-          </tbody>
-        </table>
+    <div class="location-details">
+      <div class="contact-info" style="min-width:0;word-break:break-word;">
+          <div class="address-block">
+            <strong class="business-name">Cranbury Chiropractic Center</strong>
+            <span class="address-line">488 Main Ave.</span>
+            <span class="address-line">Norwalk, CT 06851</span>
+            <a href="tel:+12038463424" class="phone-link">(203) 846-3424</a>
+          </div>
+      </div>
+
+      <div class="hours-info" style="min-width:0;word-break:break-word;">
+        <h3 class="section-subtitle">Office Hours</h3>
+        <div class="hours-table-wrapper">
+          <table class="hours-table" aria-label="Office Hours" style="min-width:0;table-layout:fixed;word-break:break-word;">
+            <thead>
+              <tr>
+                <th scope="col">Day</th>
+                <th scope="col">Morning</th>
+                <th scope="col">Afternoon</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">MON</th>
+                <td>8:00 &ndash; 1:00</td>
+                <td>3:00 &ndash; 6:00</td>
+              </tr>
+              <tr>
+                <th scope="row">WED</th>
+                <td>8:00 &ndash; 1:00</td>
+                <td>3:00 &ndash; 6:00</td>
+              </tr>
+              <tr>
+                <th scope="row">FRI</th>
+                <td>8:00 &ndash; 1:00</td>
+                <td>3:00 &ndash; 6:00</td>
+              </tr>
+              <tr>
+                <th scope="row">SAT</th>
+                <td>8:00 &ndash; 11:00</td>
+                <td>Closed</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 
-<div class="contact-actions">
+<div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>

@@ -630,3 +630,38 @@
       0 2px 6px rgba(0,0,0,.18);
   }
 }
+
+/* ===== Modern micro-interactions & scroll reveals ===== */
+html { scroll-behavior: smooth; }
+
+/* Accessible focus outline (keyboard only) */
+:focus-visible { outline: 2px solid var(--color-primary, #103d2d); outline-offset: 2px; }
+
+/* Subtle lift on cards/tiles */
+.home-tile { transition: transform .22s ease, box-shadow .22s ease; }
+.home-tile:hover, .home-tile:focus-within {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(15,76,92,0.12);
+}
+
+/* Scroll reveal utility */
+:root { --reveal-duration: .5s; --reveal-ease: cubic-bezier(.215,.61,.355,1); }
+.reveal { opacity: 0; transform: translateY(12px); filter: blur(.25px);
+  transition: opacity var(--reveal-duration) var(--reveal-ease),
+              transform var(--reveal-duration) var(--reveal-ease),
+              filter var(--reveal-duration) var(--reveal-ease);
+  will-change: opacity, transform, filter;
+}
+.reveal.is-revealed { opacity: 1; transform: none; filter: none; }
+.reveal--fade { transform: none; }
+.reveal--up { transform: translateY(16px); }
+.reveal--scale { transform: scale(.985); }
+
+/* Reduced-motion: disable fancy transitions */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .reveal { opacity: 1 !important; transform: none !important; filter: none !important; }
+}
+
+/* Optional: tighten vertical rhythm for revealed section titles */
+.section-title.reveal { margin-top: 1.2rem; }
