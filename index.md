@@ -41,7 +41,7 @@ feature_row:
 
 #feature_row2:
 #  - title: "Evidence-Based Care"
-#    excerpt: "We combine chiropractic adjustments, Class IV laser therapy, balance and posture testing, soft-tissue work, and exercise prescription aligned with current research."
+#    excerpt: "We combine chiropractic adjustments, cold laser therapy, balance and posture testing, soft-tissue work, and exercise prescription aligned with current research."
 #  - title: "Personalized Plans"
 #    excerpt: "No one-size-fits-all. We tailor treatment to your goals, schedule, and activity level."
 #  - title: "Convenient Location"
@@ -62,7 +62,7 @@ feature_row_neuro:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neurologic approach across everything we do, pairing precise adjustments with simple, targeted drills and modern tools (like Class IV laser and shockwave) so changes stick and you can get back to what you love.
+Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neurologic approach across everything we do, pairing precise adjustments with simple, targeted drills and modern tools (like Class III cold laser and shockwave) so changes stick and you can get back to what you love.
 </div>
 
 
@@ -92,8 +92,8 @@ Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neu
     <a class="btn btn--primary" href="{{ '/services/full-spine-extremities/' | relative_url }}">Learn more</a>
   </div>
   <div class="home-tile">
-    <h3>Laser Therapy (Class IV)</h3>
-    <p>Photobiomodulation (light energy) that may calm irritation and support recovery — often used alongside adjustments and exercise.</p>
+    <h3>Cold Laser Therapy (Class III)</h3>
+    <p>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support recovery. Non‑thermal; most feel little to no heat, and sessions typically take 5–15 minutes—often paired with adjustments and exercise.</p>
     <a class="btn btn--primary" href="{{ '/services/laser-therapy/' | relative_url }}">Learn more</a>
   </div>
   <div class="home-tile">
@@ -143,7 +143,7 @@ Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neu
 
 - **Evaluate:** Short, focused screens to find the *limiter* (what’s holding you back). We review your history, check movement/coordination, and use tools like a balance tracker when helpful.
 - **Plan:** Right‑sized care matched to your goals — targeted drills, adjustments or manual work when appropriate, and simple home exercises you’ll actually do.
-- **Treat:** Precise, gentle techniques; add‑ons like Class IV laser or shockwave when appropriate. We explain each step and adapt to your comfort.
+- **Treat:** Precise, gentle techniques; add‑ons like Class III cold laser or shockwave when appropriate. We explain each step and adapt to your comfort.
 - **Track:** Quick rechecks so you can feel and see progress. We adjust the plan based on what works for you.
 
 

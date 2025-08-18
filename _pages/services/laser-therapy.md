@@ -1,18 +1,18 @@
 ---
 layout: single
-title: "Laser Therapy (Class IV)"
+title: "Cold Laser Therapy (Class III)"
 permalink: /services/laser-therapy/
-description: "Class IV photobiomodulation—light energy used alongside care to help calm irritation and support recovery."
+description: "Class III low‑level (\"cold\") laser—photobiomodulation used alongside care to help calm irritation and support recovery."
 sidebar:
   nav: "services"
 classes: wide
 ---
 
 ### Overview
-Class IV laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it can help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise.
+Class III (low‑level, “cold”) laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it may help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually doesn’t feel hot.
 
 ### How it works
-Laser light is absorbed by cells and can increase cellular energy (ATP), improve micro-circulation, and influence chemical messengers involved in irritation and healing. Class IV devices allow **shorter sessions** and **deeper reach** than earlier classes. Treatments are non-invasive and comfortable.
+Low‑level laser light is absorbed by cells and can influence mitochondrial activity (ATP production), local circulation, and chemical messengers involved in irritation and healing. Treatments are non‑invasive and comfortable; we use protective eyewear.
 
 ### When it may help
 - Irritated joints or soft tissues after overuse/sprains/strains  
@@ -21,8 +21,8 @@ Laser light is absorbed by cells and can increase cellular energy (ATP), improve
 - As an add-on to your active care plan
 
 ### What to expect
-1. **Quick screen** – confirm laser is appropriate for you  
-2. **Treatment** – usually under 10 minutes; you may feel gentle warmth  
+1. **Quick screen** – confirm cold laser is appropriate for you  
+2. **Treatment** – typically **5–15 minutes**; usually no heat (sometimes mild warmth)  
 3. **No downtime** – you can resume your day  
 4. **Series** – some people benefit from several sessions
 
@@ -31,17 +31,17 @@ Laser light is absorbed by cells and can increase cellular energy (ATP), improve
 - Range-of-motion and functional milestones  
 - Your own report of “how it feels” over time
 
-> We’ll tell you if laser isn’t the right match or if another service is a better first step.
+> We’ll tell you if cold laser isn’t the right match or if another service is a better first step.
 
 ### FAQs
 **Is it safe?**  
-Used appropriately, yes. We follow safety protocols and provide eye protection.
+Used appropriately, yes. Cold laser is non‑invasive and we follow safety protocols, including protective eyewear.
 
 **Will I feel anything?**  
-Most feel a mild warmth; some feel nothing. It’s non-invasive.
+Most people feel little to no sensation; sometimes a mild warmth. Treatments are non‑thermal.
 
 **How many sessions will I need?**  
-Varies by condition and goals. We reassess and adjust.
+It varies by condition and goals. With Class III devices, a **short series** is common. We reassess and adjust as you go.
 
 **Can I combine it with other care?**  
 Yes—often paired with adjustments and exercises.

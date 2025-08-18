@@ -4,16 +4,10 @@ title: "Services"
 classes: wide
 permalink: /services/
 description: "Overview of chiropractic care at Cranbury Chiropractic — neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."
-header:
-  overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
 excerpt: ""
 sidebar:
   nav: "services"
 ---
-
-# All Services
-
 ## Our Approach to Care
 At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
 
@@ -62,11 +56,11 @@ We keep it practical, explain each step, and build a plan that fits your goals a
   </li>
 
   <li>
-    <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Laser Therapy (Class IV)</strong></a><br>
+    <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Cold Laser Therapy (Class III)</strong></a><br>
     <ul>
-      <li>Photobiomodulation: light energy to help calm irritation and support recovery.</li>
-      <li>Non-invasive; sessions are quick and comfortable.</li>
-      <li>Often used alongside adjustments and exercise.</li>
+      <li>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support tissue recovery.</li>
+      <li>Non‑thermal; most feel little to no heat. Sessions typically 5–15 minutes with protective eyewear.</li>
+      <li>Used alongside adjustments and exercise as part of a right‑sized plan.</li>
     </ul>
   </li>
 

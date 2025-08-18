@@ -11,7 +11,7 @@ classes: wide
 ### Overview
 Shockwave therapy (ESWT) uses **pulsed acoustic waves** on stubborn, localized problem areas. The waves create a small, controlled mechanical stimulus that can encourage your body’s normal repair responses. We often use ESWT when a spot hasn’t responded to rest or routine care.
 
-### How it works (plain English)
+### How it works
 The pulsed waves create tiny mechanical stresses that may increase local circulation, influence tissue signaling, and help reorganize irritated tissue. Sessions are brief and intensity is adjusted to your comfort.
 
 ### When it may help
