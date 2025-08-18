@@ -32,8 +32,8 @@ We keep it practical, explain each step, and build a plan that fits your goals a
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
     <ul>
       <li>The umbrella for all care here—aligns sensory input with motor control.</li>
-      <li>Targeted drills plus adjustments/exercise so changes “stick.”</li>
-      <li>Great for recurring aches, coordination/timing issues, and “doesn’t feel normal yet.”</li>
+      <li>Targeted drills plus adjustments/exercise so changes stick.</li>
+      <li>Great for recurring aches, coordination/timing issues, and anything that “doesn’t feel normal yet.”</li>
     </ul>
   </li>
 
@@ -41,7 +41,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
     <a href="{{ '/services/balance-stability/' | relative_url }}"><strong>Balance & Stability</strong></a><br>
     <ul>
       <li>Focused balance care using visual, vestibular, and proprioceptive drills.</li>
-      <li>Includes a computerized **balance tracker** with a risk-of-fall score you can see.</li>
+      <li>Includes a computerized <i>balance tracker</i> with a risk-of-fall score you can see.</li>
       <li>Simple progressions: gaze drills, head/eye work, stance progressions, foot/ankle work.</li>
     </ul>
   </li>
@@ -58,7 +58,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
   <li>
     <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Cold Laser Therapy (Class III)</strong></a><br>
     <ul>
-      <li>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support tissue recovery.</li>
+      <li>Low‑level (<i>"cold"</i>) laser (Class III) photobiomodulation to help calm irritation and support tissue recovery.</li>
       <li>Non‑thermal; most feel little to no heat. Sessions typically 5–15 minutes with protective eyewear.</li>
       <li>Used alongside adjustments and exercise as part of a right‑sized plan.</li>
     </ul>
