@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic"
 author_profile: false
-excerpt: "Evidence-based chiropractic care specializing in precise adjustments. We deliver personalized, neurologically informed treatment plans for pain relief, performance, and lifelong wellness in Fairfield County."
+excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical drills, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active."
 
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
@@ -60,33 +60,95 @@ feature_row_neuro:
     btn_class: "btn--primary"
 ---
 
+
 <div class="page__lead" markdown="1">
-Cranbury Chiropractic is your partner in pain relief, performance, and lifelong wellness. We combine time-tested chiropractic methods with modern tools and neurologic assessment to help you move better, recover faster, and stay active.
+Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neurologic approach across everything we do, pairing precise adjustments with simple, targeted drills and modern tools (like Class IV laser and shockwave) so changes stick and you can get back to what you love.
 </div>
 
-> “My style is neurologically based and I continually monitor how your nervous system is functioning and how it responds to the treatment that you received. Our nervous systems are incredibly complex and are self healing. If we can find the restriction or imbalance and address that, the body will usually heal itself.”  
+
+> “My style is neurologically based. I continually monitor how your nervous system is functioning and how it responds to treatment. Our nervous systems are incredibly complex and self-healing. If we can find the restriction or imbalance and address that, the body will usually heal itself.”  
 > — **Dr. Paul Miller**
 {: .notice--primary}
 
 ---
-# Our Core Services
-
-{% include feature_row id="feature_row" %}
-
-# Our Clinical Approach
-
-{% include feature_row id="feature_row_neuro" type="center" %}
-
-# What to Expect
-
-- **First visit focus:** Your initial appointment centers on a thorough, accessible diagnosis. We take time to review your health history, discuss your goals, and perform a detailed assessment of movement, balance, and reflexes. You’ll receive a clear explanation of what’s driving your symptoms and a chance to ask questions in plain language.
-
-- **Personalized treatment plan:** Every care plan is tailored to your needs, comfort, and lifestyle. We use evidence-based chiropractic adjustments, targeted soft-tissue therapy, neurologic drills, cold laser therapy (low-level laser), and simple, accessible exercises you can do at home. All interventions are explained and adapted for your preferences and abilities.
-
-- **Ongoing progress tracking:** At each visit, we monitor your motion, pain levels, and functional improvements using both your feedback and objective measures. This ensures your care is effective, transparent, and responsive—so you always know what’s working and what comes next.
 
 
-# Location & Hours
+## What We Treat & How We Help
+
+<div class="home-tile-grid">
+  <div class="home-tile">
+    <h3>Neurologic Approach</h3>
+    <p>We align sensory input with motor control — the umbrella for all care here. Short drills + the right techniques so progress lasts.</p>
+    <a class="btn btn--primary" href="{{ '/services/neurologic-approach/' | relative_url }}">Learn more</a>
+  </div>
+  <div class="home-tile">
+    <h3>Balance & Stability</h3>
+    <p>Focused balance care using visual, vestibular (inner ear), and proprioceptive drills — with a computerized balance tracker and risk‑of‑fall score.</p>
+    <a class="btn btn--primary" href="{{ '/services/balance-stability/' | relative_url }}">Learn more</a>
+  </div>
+  <div class="home-tile">
+    <h3>Full-Spine & Extremities</h3>
+    <p>Precise, hands‑on adjustments for the spine and joints like ankles, knees, shoulders, and wrists — paired with simple exercises when helpful.</p>
+    <a class="btn btn--primary" href="{{ '/services/full-spine-extremities/' | relative_url }}">Learn more</a>
+  </div>
+  <div class="home-tile">
+    <h3>Laser Therapy (Class IV)</h3>
+    <p>Photobiomodulation (light energy) that may calm irritation and support recovery — often used alongside adjustments and exercise.</p>
+    <a class="btn btn--primary" href="{{ '/services/laser-therapy/' | relative_url }}">Learn more</a>
+  </div>
+  <div class="home-tile">
+    <h3>Shockwave Therapy (ESWT)</h3>
+    <p>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger) — typically a short series, intensity tailored to comfort.</p>
+    <a class="btn btn--primary" href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Learn more</a>
+  </div>
+</div>
+
+<style>
+.home-tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 2.5rem 0 2rem 0;
+}
+.home-tile {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(15,76,92,0.07);
+  padding: 1.5rem 1.25rem 1.25rem 1.25rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.home-tile h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+  color: #1e293b;
+}
+.home-tile p {
+  font-size: 0.98rem;
+  color: #475569;
+  margin-bottom: 1.1rem;
+}
+.home-tile .btn {
+  margin-top: auto;
+}
+</style>
+
+
+
+
+## What to Expect
+
+- **Evaluate:** Short, focused screens to find the *limiter* (what’s holding you back). We review your history, check movement/coordination, and use tools like a balance tracker when helpful.
+- **Plan:** Right‑sized care matched to your goals — targeted drills, adjustments or manual work when appropriate, and simple home exercises you’ll actually do.
+- **Treat:** Precise, gentle techniques; add‑ons like Class IV laser or shockwave when appropriate. We explain each step and adapt to your comfort.
+- **Track:** Quick rechecks so you can feel and see progress. We adjust the plan based on what works for you.
+
+
+
+## Location & Hours
 {: .section-title}
 
 <section class="contact-hours">
@@ -108,7 +170,7 @@ Cranbury Chiropractic is your partner in pain relief, performance, and lifelong 
           <strong class="business-name">Cranbury Chiropractic Center</strong>
           <span class="address-line">488 Main Ave.</span>
           <span class="address-line">Norwalk, CT 06851</span>
-          <span href="tel:+12038463424" class="phone-link">(203) 846-3424</span>
+          <a href="tel:+12038463424" class="phone-link">(203) 846-3424</a>
         </div>
     </div>
 

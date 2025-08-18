@@ -1,72 +1,101 @@
 ---
-layout: splash
+layout: single
 title: "Services"
+classes: wide
 permalink: /services/
+description: "Overview of chiropractic care at Cranbury Chiropractic — neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
 excerpt: ""
+sidebar:
+  nav: "services"
 ---
 
+# All Services
 
 ## Our Approach to Care
+At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
 
-At Cranbury Chiropractic, every treatment plan is tailored to you — not a cookie-cutter routine. We combine time‑tested chiropractic methods with modern tools and neurologic assessment to help you move better, recover faster, and stay active.
-
----
-
-### Neurologic Approach
-
-Your nervous system is the communication network between your brain and body. When signals are clear, muscles, joints, and tissues work together smoothly. When those signals are interrupted or altered, pain, stiffness, or instability can follow.
-
-Dr. Paul Miller uses a neurologic approach to:
-- Evaluate how your nervous system is communicating with muscles and joints
-- Check balance, reflexes, and movement patterns
-- Monitor how you respond during and after care
-
-By finding and addressing the key restriction or imbalance, we help restore clear signaling so your body can do what it’s designed to do — heal itself.
+We keep it practical, explain each step, and build a plan that fits your goals and schedule.
 
 ---
 
-### Diversified Technique
+## How Your Visit Works
+- **Evaluate** — Short, focused screens to find the *limiter* (what’s holding you back).  
+- **Plan** — Right-sized care: targeted drills, adjustments or manual work when helpful, simple exercises you’ll actually do.  
+- **Treat** — Precise, gentle techniques; add-ons like laser or shockwave when appropriate.  
+- **Track** — Quick rechecks so you can feel and see progress.
 
-The Diversified Technique is one of the most widely used hands‑on chiropractic methods. It focuses on restoring normal movement in joints that aren’t moving as they should.
-
-What to expect:
-- Careful assessment to identify the specific joints that need adjusting
-- Gentle positioning and a quick, controlled thrust to restore motion
-- A “popping” sound may occur — this is simply gas being released from the joint space, not bones grinding
-- Many patients notice immediate improvements in mobility and comfort
-
-This technique is highly adaptable, allowing Dr. Miller to tailor each adjustment to your needs and comfort level.
+> Results vary. If we think another specialist is a better first step, we’ll say so and help coordinate care.
 
 ---
 
+## Explore Our Services
 
-### Cold Laser Therapy (Low-Level Laser Therapy)
+<ul class="services-index">
+  <li>
+    <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
+    <ul>
+      <li>The umbrella for all care here—aligns sensory input with motor control.</li>
+      <li>Targeted drills plus adjustments/exercise so changes “stick.”</li>
+      <li>Great for recurring aches, coordination/timing issues, and “doesn’t feel normal yet.”</li>
+    </ul>
+  </li>
 
-Cold laser therapy, also known as low-level laser therapy (LLLT), uses gentle, non-heating light energy to stimulate cellular repair, reduce inflammation, and relieve pain. This non-invasive treatment is safe, comfortable, and suitable for a wide range of musculoskeletal and nerve-related conditions. Our technology allows for precise targeting of affected tissues to support faster recovery and improved function, all without medication or surgery.
+  <li>
+    <a href="{{ '/services/balance-stability/' | relative_url }}"><strong>Balance & Stability</strong></a><br>
+    <ul>
+      <li>Focused balance care using visual, vestibular, and proprioceptive drills.</li>
+      <li>Includes a computerized **balance tracker** with a risk-of-fall score you can see.</li>
+      <li>Simple progressions: gaze drills, head/eye work, stance progressions, foot/ankle work.</li>
+    </ul>
+  </li>
 
-Common benefits include:
-- Reduced swelling and inflammation
-- Accelerated tissue healing and repair
-- Relief from both acute and chronic pain
+  <li>
+    <a href="{{ '/services/full-spine-extremities/' | relative_url }}"><strong>Full-Spine & Extremities</strong></a><br>
+    <ul>
+      <li>Precise, hands-on adjustments for the spine and joints like ankles, knees, shoulders, and wrists.</li>
+      <li>Paired with activation/mobility or soft-tissue work when helpful.</li>
+      <li>Aim: smoother motion, better control, and comfort in real-world tasks.</li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Laser Therapy (Class IV)</strong></a><br>
+    <ul>
+      <li>Photobiomodulation: light energy to help calm irritation and support recovery.</li>
+      <li>Non-invasive; sessions are quick and comfortable.</li>
+      <li>Often used alongside adjustments and exercise.</li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}"><strong>Shockwave Therapy (ESWT)</strong></a><br>
+    <ul>
+      <li>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger).</li>
+      <li>Typically a short series (e.g., 3–6 sessions), intensity adjusted to comfort.</li>
+      <li>Pairs well with an active plan so gains last.</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
-### Balance and Posture Testing
-
-Good balance and posture aren’t just for athletes — they’re essential for everyone. We assess your stability and alignment to find imbalances that may be contributing to pain or risk of injury.
-
-This may include:
-- Postural analysis
-- Balance and coordination tests
-- Corrective strategies and exercises
+## Not sure where to start?
+If you want a single place to begin, the **Neurologic Approach** page explains how we find your limiter and shape care. If steadiness is your main concern, jump straight to **Balance & Stability**.
 
 ---
 
 ## Ready to Get Started?
-
-Whether you’re dealing with a recent injury, chronic pain, or want to stay at your best, our blend of neurologic assessment and personalized chiropractic care can help.
-
-[Request an Appointment](/contact/){: .btn .btn--primary }
+<div class="contact-actions">
+  <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
+    <span class="btn-label">Book on Zocdoc</span>
+  </a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn">
+    <span class="btn-label">Request Appointment</span>
+  </a>
+  <a href="tel:+12038463424" class="btn">
+    <span class="btn-label">Call (203) 846-3424</span>
+  </a>
+</div>

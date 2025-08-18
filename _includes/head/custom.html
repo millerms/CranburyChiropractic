@@ -1,8 +1,81 @@
-<!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- Load custom CSS after theme styles -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<!-- end custom head snippets -->
+<script>
+// Build a Services dropdown in the masthead using _data/navigation.yml > services
+window.SERVICES_MENU = {{ site.data.navigation.services | jsonify }};
+
+function buildServicesDropdown() {
+  var nav = document.querySelector('nav.greedy-nav');
+  if (!nav || !Array.isArray(window.SERVICES_MENU)) return;
+
+  // Find the top-level Services link in the visible links
+  var links = nav.querySelectorAll('ul.visible-links > li > a');
+  var targetLi = null;
+
+  links.forEach(function(a){
+    var text = (a.textContent || '').trim().toLowerCase();
+    var href = (a.getAttribute('href') || '').replace(/\/+$/, ''); // strip trailing slash
+    // Match by text label or by URL ending in /services (baseurl-safe)
+    if (text === 'services' || /\/services$/i.test(href)) {
+      targetLi = a.parentElement;
+    }
+  });
+
+  if (!targetLi) return;
+
+  targetLi.classList.add('has-submenu');
+
+  // Build submenu (skip the index/"All Services")
+  var ul = document.createElement('ul');
+  ul.className = 'submenu services-submenu';
+  (window.SERVICES_MENU || []).forEach(function (item) {
+    if (!item || !item.url || !item.title) return;
+    var isIndex = /\/services\/?$/i.test(item.url) || /all services/i.test(item.title);
+    if (isIndex) return;
+    var li2 = document.createElement('li');
+    var a2 = document.createElement('a');
+    a2.href = item.url;
+    a2.textContent = item.title;
+    li2.appendChild(a2);
+    ul.appendChild(li2);
+  });
+
+  if (!ul.children.length) return;
+
+  targetLi.appendChild(ul);
+
+  // Accessibility + interactions (hover + keyboard + click to toggle)
+  var trigger = targetLi.querySelector('a');
+  trigger.setAttribute('aria-haspopup', 'true');
+  trigger.setAttribute('aria-expanded', 'false');
+
+  function openMenu(){ targetLi.classList.add('submenu-open'); trigger.setAttribute('aria-expanded','true'); }
+  function closeMenu(){ targetLi.classList.remove('submenu-open'); trigger.setAttribute('aria-expanded','false'); }
+
+  targetLi.addEventListener('mouseenter', openMenu);
+  targetLi.addEventListener('mouseleave', closeMenu);
+
+  targetLi.addEventListener('focusin', openMenu);
+  targetLi.addEventListener('focusout', function(e){
+    if (!targetLi.contains(e.relatedTarget)) closeMenu();
+  });
+
+  // Optional: click toggles the dropdown (does not prevent navigating if you click a submenu item)
+  trigger.addEventListener('click', function(e){
+    // If submenu is closed, open it and prevent immediate navigation
+    if (!targetLi.classList.contains('submenu-open')) {
+      e.preventDefault();
+      openMenu();
+    }
+    // If already open, let it navigate to /services/
+  });
+}
+
+// Run after DOM and again after window load (in case the nav compacts/expands)
+document.addEventListener('DOMContentLoaded', function(){
+  buildServicesDropdown();
+  // Retry once after layout settles
+  setTimeout(buildServicesDropdown, 0);
+});
+window.addEventListener('load', buildServicesDropdown);
+</script>

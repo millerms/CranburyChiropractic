@@ -11,3 +11,17 @@ main:
     url: "/contact/"
   - title: "Blog"
     url: "/blog/"
+
+services:
+  - title: "All Services"
+    url: "/services/"
+  - title: "Neurologic Approach"
+    url: "/services/neurologic-approach/"
+  - title: "Balance & Stability"
+    url: "/services/balance-stability/"
+  - title: "Full-Spine & Extremities"
+    url: "/services/full-spine-extremities/"
+  - title: "Laser Therapy (Class IV)"
+    url: "/services/laser-therapy/"
+  - title: "Shockwave Therapy (ESWT)"
+    url: "/services/shockwave-therapy-eswt/"

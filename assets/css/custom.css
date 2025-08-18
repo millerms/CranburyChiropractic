@@ -7,6 +7,9 @@
   --radius-md: 8px;
 }
 
+/* Hide prev/next pagination on single layouts */
+.layout--single nav.pagination { display: none !important; }
+
 /* Base layout */
 .page__content .contact-hours {
   display: grid;
@@ -529,3 +532,42 @@
 /* If any earlier rules force the first column left, override that */
 .hours-table thead th:first-child,
 .hours-table tbody th { text-align: center; }
+
+/* ===== Masthead Services dropdown ===== */
+.greedy-nav .has-submenu { position: relative; }
+.greedy-nav .has-submenu > a { position: relative; }
+.greedy-nav .has-submenu > a::after {
+  content: ""; display: inline-block; width: 0; height: 0; margin-left: 6px;
+  border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid currentColor;
+  vertical-align: middle; opacity: 0.7;
+}
+.greedy-nav .submenu {
+  display: none; position: absolute; left: 0; top: 100%; z-index: 1000;
+  min-width: 240px; padding: 8px 0; margin: 8px 0 0 0;
+  background: #fff; border: 1px solid var(--color-border); border-radius: 6px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+.greedy-nav .submenu li { list-style: none; }
+.greedy-nav .submenu a {
+  display: block; padding: 8px 14px; text-decoration: none;
+  color: var(--color-text); white-space: nowrap;
+}
+.greedy-nav .submenu a:hover { background: var(--color-bg-light); color: var(--color-primary); }
+
+/* Open submenu on hover or keyboard focus */
+.greedy-nav .has-submenu:hover > .submenu,
+.greedy-nav .has-submenu.submenu-open > .submenu { display: block; }
+
+/* Hide dropdown on narrow screens (mobile menu takes over) */
+@media (max-width: 800px) {
+  .greedy-nav .has-submenu > .submenu { display: none !important; }
+}
+
+/* ===== Masthead dropdown visibility fixes ===== */
+.masthead,
+.masthead .greedy-nav,
+.masthead .greedy-nav .visible-links { overflow: visible; }
+
+.masthead { position: relative; z-index: 1000; }
+
+.greedy-nav .submenu { z-index: 10000; margin-top: 8px; }
