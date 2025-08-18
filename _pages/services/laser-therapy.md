@@ -34,8 +34,15 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
 > We’ll tell you if cold laser isn’t the right match or if another service is a better first step.
 
 ### FAQs
+
 **Is it safe?**  
 Used appropriately, yes. Cold laser is non‑invasive and we follow safety protocols, including protective eyewear.
+
+
+**Why Class III ("cold") and not Class IV?**  
+- Outcomes depend on the right **dose** (wavelength, energy, and time), not just the device class.  
+- Class III is **non‑thermal and comfortable**, and pairs well with adjustments and exercises.  
+- Class IV can deliver dose faster, but it’s **not inherently more effective**; we focus on delivering the right dose safely.
 
 **Will I feel anything?**  
 Most people feel little to no sensation; sometimes a mild warmth. Treatments are non‑thermal.

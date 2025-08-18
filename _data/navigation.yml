@@ -21,7 +21,7 @@ services:
     url: "/services/balance-stability/"
   - title: "Full-Spine & Extremities"
     url: "/services/full-spine-extremities/"
-  - title: "Laser Therapy (Class IV)"
+  - title: "Cold Laser Therapy (Class III)"
     url: "/services/laser-therapy/"
   - title: "Shockwave Therapy (ESWT)"
     url: "/services/shockwave-therapy-eswt/"
