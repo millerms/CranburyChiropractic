@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Cranbury Chiropractic"
+title: "Cranbury Chiropractic Center"
 author_profile: false
 excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical drills, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active."
 
