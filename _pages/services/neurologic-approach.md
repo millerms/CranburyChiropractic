@@ -13,7 +13,7 @@ Your nervous system is the “operating system” for movement, comfort, and con
 
 Our neurologic approach is a practical way to find the **limiter** in your system and match treatment to it. We use this lens across all care, whether it’s balance work, adjustments, laser therapy, or shockwave therapy. The goal is to help you move better, recover faster, and stay active.
 
-### What we assess (beyond balance)
+### What we assess
 - **Sensory input**
   - **Visual**: eye movements, tracking, convergence
   - **Vestibular (inner ear)**: head-motion tolerance, head/eye coordination
