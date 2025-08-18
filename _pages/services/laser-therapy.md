@@ -11,7 +11,7 @@ classes: wide
 ### Overview
 Class IV laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it can help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise.
 
-### How it works (plain English)
+### How it works
 Laser light is absorbed by cells and can increase cellular energy (ATP), improve micro-circulation, and influence chemical messengers involved in irritation and healing. Class IV devices allow **shorter sessions** and **deeper reach** than earlier classes. Treatments are non-invasive and comfortable.
 
 ### When it may help
