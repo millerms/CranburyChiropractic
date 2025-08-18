@@ -3,6 +3,7 @@
 <script>
 // Build a Services dropdown in the masthead using _data/navigation.yml > services
 window.SERVICES_MENU = {{ site.data.navigation.services | jsonify }};
+var BASEURL = "{{ '/' | relative_url }}".replace(/\/$/, '');
 
 function buildServicesDropdown() {
   var nav = document.querySelector('nav.greedy-nav');
@@ -34,7 +35,7 @@ function buildServicesDropdown() {
     if (isIndex) return;
     var li2 = document.createElement('li');
     var a2 = document.createElement('a');
-    a2.href = item.url;
+    a2.href = BASEURL + item.url; // prefix baseurl for GitHub Pages project sites
     a2.textContent = item.title;
     li2.appendChild(a2);
     ul.appendChild(li2);

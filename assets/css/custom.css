@@ -533,19 +533,32 @@
 .hours-table thead th:first-child,
 .hours-table tbody th { text-align: center; }
 
+/* ====================================== */
 /* ===== Masthead Services dropdown ===== */
+/* ====================================== */
 .greedy-nav .has-submenu { position: relative; }
-.greedy-nav .has-submenu > a { position: relative; }
+.greedy-nav .has-submenu > a { position: relative; touch-action: manipulation; }
 .greedy-nav .has-submenu > a::after {
   content: ""; display: inline-block; width: 0; height: 0; margin-left: 6px;
   border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid currentColor;
   vertical-align: middle; opacity: 0.7;
 }
 .greedy-nav .submenu {
-  display: none; position: absolute; left: 0; top: 100%; z-index: 1000;
+  /* Desktop / wide: animate dropdown */
+  position: absolute; left: 0; top: 100%; z-index: 1000;
   min-width: 240px; padding: 8px 0; margin: 8px 0 0 0;
   background: #fff; border: 1px solid var(--color-border); border-radius: 6px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  /* animation state */
+  opacity: 0; visibility: hidden; transform: translateY(-4px);
+  transition: opacity .18s ease, transform .18s ease, visibility 0s linear .18s;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .greedy-nav .submenu { transition: none; }
+  .greedy-nav .has-submenu:hover > .submenu,
+  .greedy-nav .has-submenu.submenu-open > .submenu { transition: none; }
 }
 .greedy-nav .submenu li { list-style: none; }
 .greedy-nav .submenu a {
@@ -554,13 +567,35 @@
 }
 .greedy-nav .submenu a:hover { background: var(--color-bg-light); color: var(--color-primary); }
 
-/* Open submenu on hover or keyboard focus */
+/* Open submenu on hover, focus, or JS toggle */
 .greedy-nav .has-submenu:hover > .submenu,
-.greedy-nav .has-submenu.submenu-open > .submenu { display: block; }
+.greedy-nav .has-submenu.submenu-open > .submenu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+  transition: opacity .18s ease, transform .18s ease;
+  pointer-events: auto;
+}
 
-/* Hide dropdown on narrow screens (mobile menu takes over) */
 @media (max-width: 800px) {
-  .greedy-nav .has-submenu > .submenu { display: none !important; }
+  /* Mobile: slide-down animation */
+  .greedy-nav .has-submenu > .submenu {
+    position: static;            /* stack below parent link */
+    min-width: 100%;
+    margin: 0.25rem 0 0 0;
+    border-radius: 6px;
+    box-shadow: none;            /* flatter on mobile */
+    overflow: hidden;
+    max-height: 0;               /* collapsed by default */
+    opacity: 0;                  /* fade for polish */
+    border: 1px solid var(--color-border);
+    border-color: transparent;   /* hide border when closed */
+    transition: max-height .25s ease, opacity .2s ease, border-color .2s ease;
+  }
+  .greedy-nav .has-submenu.submenu-open > .submenu {
+    max-height: 600px;           /* enough for several items */
+    opacity: 1;
+    border-color: var(--color-border);
+  }
+  .greedy-nav .submenu a { padding: 10px 12px; }
 }
 
 /* ===== Masthead dropdown visibility fixes ===== */
