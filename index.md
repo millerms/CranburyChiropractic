@@ -7,7 +7,7 @@ excerpt: "Neurology‑informed chiropractic care with precise adjustments, pract
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
-  #overlay_image: "/assets/images/hero.jpg"
+  overlay_image: "/assets/images/biking-italy.webp"
   actions:
     - label: "Book on Zocdoc"
       url: "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"

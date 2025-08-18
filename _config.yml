@@ -11,8 +11,9 @@ url: "https://millerms.github.io"  # production URL (can be your GitHub Pages UR
 baseurl: "/CranburyChiropractic"                             # empty means the site is served at the domain root
 
 tagline: "Cranbury Chiropractic Center, LLC"
-logo: "/assets/images/logo.png"          # add a file at this path when ready
-favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
+logo: "/assets/icons/cranbury-mark.svg"
+logo_width: 34   # adjust to taste
+#favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
 logo_alt: "Cranbury Chiropractic Logo"
 logo_text: "Cranbury Chiropractic"
 
