@@ -66,8 +66,8 @@ Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neu
 </div>
 
 
-> “My style is neurologically based. I continually monitor how your nervous system is functioning and how it responds to treatment. Our nervous systems are incredibly complex and self-healing. If we can find the restriction or imbalance and address that, the body will usually heal itself.”  
-> — **Dr. Paul Miller**
+> “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  
+> ~ **Dr. Paul Miller**
 {: .notice--primary}
 
 ---
