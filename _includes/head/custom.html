@@ -44,6 +44,10 @@ function buildServicesDropdown() {
 
   targetLi.appendChild(ul);
 
+  // Prevent duplicate listeners if this runs multiple times
+  if (targetLi.dataset.dropdownInit === '1') return;
+  targetLi.dataset.dropdownInit = '1';
+
   // Accessibility + interactions (hover + keyboard + click to toggle)
   var trigger = targetLi.querySelector('a');
   trigger.setAttribute('aria-haspopup', 'true');
@@ -60,15 +64,45 @@ function buildServicesDropdown() {
     if (!targetLi.contains(e.relatedTarget)) closeMenu();
   });
 
-  // Optional: click toggles the dropdown (does not prevent navigating if you click a submenu item)
-  trigger.addEventListener('click', function(e){
-    // If submenu is closed, open it and prevent immediate navigation
+  // Click/tap toggle: first click opens menu; second navigates to /services/
+  trigger.addEventListener('click', function (e) {
     if (!targetLi.classList.contains('submenu-open')) {
       e.preventDefault();
       openMenu();
     }
-    // If already open, let it navigate to /services/
+    // if already open, allow navigation to the parent Services page
   });
+
+  // Touch support: reliably open on first tap without navigating
+  trigger.addEventListener('touchstart', function (e) {
+    if (!targetLi.classList.contains('submenu-open')) {
+      e.preventDefault(); // needs non-passive listener
+      openMenu();
+    }
+  }, { passive: false });
+
+  // Keyboard support: Space/Enter toggles when closed; navigates when open; Esc closes
+  trigger.addEventListener('keydown', function (e) {
+    if (e.key === ' ' || e.key === 'Enter') {
+      e.preventDefault();
+      if (!targetLi.classList.contains('submenu-open')) {
+        openMenu();
+      } else {
+        window.location.href = trigger.getAttribute('href');
+      }
+    } else if (e.key === 'Escape') {
+      closeMenu();
+      trigger.focus();
+    }
+  });
+
+  // Close when tapping/clicking outside the menu
+  document.addEventListener('click', function (evt) {
+    if (!targetLi.contains(evt.target)) closeMenu();
+  });
+  document.addEventListener('touchstart', function (evt) {
+    if (!targetLi.contains(evt.target)) closeMenu();
+  }, { passive: true });
 }
 
 // Run after DOM and again after window load (in case the nav compacts/expands)
