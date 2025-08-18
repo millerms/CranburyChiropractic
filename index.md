@@ -62,7 +62,7 @@ feature_row_neuro:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — where care is tailored to you. We use a neurologic approach across everything we do, pairing precise adjustments with simple, targeted drills and modern tools (like Class III cold laser and shockwave) so changes stick and you can get back to what you love.
+Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here for back, neck, or joint pain, we use a neurologic approach across everything we do: precise adjustments, simple targeted drills, and modern tools (Class III cold laser and shockwave) so progress lasts and you can get back to what you love.
 </div>
 
 
