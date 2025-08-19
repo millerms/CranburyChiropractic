@@ -51,7 +51,9 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 When he’s not in the office, Dr. Miller is usually in motion or outside. He’s an avid mountain biker and keeps his legs fresh with indoor spin sessions. At home, he tends a few beehives and helps his wife, Pat, in the garden. He also loves to travel, explore new trails, and bring back ideas that keep the clinic fresh.
 {: .reveal .reveal--fade }
 
-Contact Dr. Miller Today!
+Contact Dr. Miller Today:
+{: .reveal .reveal--fade }
+
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
