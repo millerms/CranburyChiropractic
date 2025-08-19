@@ -122,7 +122,7 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 
 ## What to Expect
 {: .reveal .reveal--up }
-**First visit:** We start with a quick screen to find your key limiter (balance, range of motion, or strength). Then we evaluate how you move and feel, looking at how different areas influence each other.
+**First visit:** We start with a quick screen to find your key limiter (balance, range of motion, or strength). Then we evaluate how you move and feel, looking at how different areas influence each other. We gather your history and goals to build a right-sized plan that fits your life. We use different tools to gather data, like functional tests, x-rays, or computerized balance tests, depending on your needs.
 {: .reveal .reveal--up }
 
 **Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters.
