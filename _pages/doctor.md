@@ -28,7 +28,8 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 - **Doctor of Chiropractic (DC),** New York Chiropractic College — 1979  
   Pre‑chiropractic studies at **Fairfield University** and the **University of Bridgeport**
 - **Founder, Cranbury Chiropractic Center** — Norwalk, CT (est. 1979)
-- **Invited speaker, Norwalk Hospital** — presented on non‑surgical approaches to low back pain (1997)
+- **Invited speaker, Norwalk Hospital** — first doctor of chiropractic to present on non‑surgical approaches to low back pain (1997)
+- **Member, American Chiropractic Association** — supports evidence-based chiropractic care
 {: .reveal .reveal--up }
 
 ### Philosophy & Approach
@@ -48,7 +49,7 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 {: .reveal .reveal--up }
 
 ### Outside the Clinic
-When he’s not in the office, Dr. Miller is usually in motion or outside. He’s an avid mountain biker, skier, and keeps his legs fresh with indoor spin sessions. At home, he tends a few beehives and helps his wife, Pat, in the garden. They raised two sons and enjoy spending time with their family. He also loves to travel, explore new trails, and bring back ideas that keep the clinic fresh.
+When he’s not in the office, Dr. Miller is usually in motion or outside. He’s an avid mountain biker, skier, and keeps his legs fresh with indoor spin sessions. At home, he tends a few beehives and helps his wife, Pat, in the garden. They raised two sons, Alex and Mike, and enjoy spending time with their family. He also loves to travel, explore new trails, and bring back ideas that keep the clinic fresh.
 {: .reveal .reveal--fade }
 
 Contact Dr. Miller Today:
