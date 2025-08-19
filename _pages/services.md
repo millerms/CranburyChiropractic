@@ -78,6 +78,14 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Pairs well with an active plan so gains last.</li>
     </ul>
   </li>
+  <li class="reveal reveal--up">
+    <a href="{{ '/services/diversified-technique/' | relative_url }}"><strong>Diversified Technique</strong></a><br>
+    <ul>
+      <li>A widely used, hands‑on chiropractic method.</li>
+      <li>Precise adjustments—not one‑size‑fits‑all—to restore motion in specific joints.</li>
+      <li>Gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement.</li>
+    </ul>
+  </li>
 </ul>
 
 ---
