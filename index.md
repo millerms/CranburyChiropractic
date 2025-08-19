@@ -2,8 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical drills, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active."
-
+excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical drills, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active." 
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
@@ -15,6 +14,9 @@ header:
       url: "/contact/"
     - label: "Call (203) 846-3424"
       url: "tel:+12038463424"
+  actions_class: "reveal reveal--up"
+  caption: >-
+    <span class="review-links">Read our reviews on <a href="https://www.google.com/search?q=Cranbury+Chiropractic+Center,+258+Main+St,+Norwalk,+CT+06851,+USA&ludocid=2814058968207648493#lrd=0x89e81db3ff08e843:0x270d8bb8d904e6ed,1" target="_blank" rel="noopener"><strong>Google</strong></a> or <a href="https://www.zocdoc.com/doctor/paul-l-miller-dc-136069" target="_blank" rel="noopener"><strong>Zocdoc</strong></a>.</span>
 
 feature_row:
   - #image_path: /assets/images/feature-back.jpg
@@ -125,7 +127,7 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 **First visit:** We start with a quick screen to find your key limiter (balance, range of motion, or strength). Then we evaluate how you move and feel, looking at how different areas influence each other. We gather your history and goals to build a right-sized plan that fits your life. We use different tools to gather data, like functional tests, x-rays, or computerized balance tests, depending on your needs.
 {: .reveal .reveal--up }
 
-**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, home care, laser therapy, or shockwave therapy. We explain each step and why it matters.
+**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters.
 {: .reveal .reveal--up }
 
 **Educate:** You’ll get clear, practical homework that fits your schedule—no long workouts or complex drills. We empower you to take an active role in your care.

@@ -665,3 +665,42 @@ html { scroll-behavior: smooth; }
 
 /* Optional: tighten vertical rhythm for revealed section titles */
 .section-title.reveal { margin-top: 1.2rem; }
+
+/* Place hero caption under buttons and style review links */
+.page__hero--overlay .page__hero-caption {
+  position: static; /* make it flow under buttons */
+  margin-top: .75rem;
+  margin-left: .5rem;
+  text-align: center;
+  font-size: .95rem;
+  color: #fff;
+  opacity: .98;
+  background: transparent !important; /* remove dark strip */
+  padding: 0; /* no box look */
+  /* Subtle outline so text reads over busy photos */
+  text-shadow:
+    0 1px 2px rgba(0,0,0,.34),
+    0 2px 4px rgba(0,0,0,.2);
+  -webkit-text-stroke: 0.35px rgba(0,0,0,.45);
+}
+.page__hero--overlay .page__hero-caption .review-links a {
+  color: #fff;
+  text-decoration: underline;
+  background: transparent !important;
+  text-shadow:
+    0 1px 2px rgba(0,0,0,.34),
+    0 3px 10px rgba(0,0,0,.2);
+  -webkit-text-stroke: 0.35px rgba(0,0,0,.45);
+}
+.page__hero--overlay .page__hero-caption .review-links a:hover,
+.page__hero--overlay .page__hero-caption .review-links a:focus {
+  text-decoration: none;
+}
+@media (max-width: 600px) {
+  .page__hero--overlay .page__hero-caption {
+    -webkit-text-stroke-width: 0.3px;
+    text-shadow:
+      0 1px 2px rgba(0,0,0,.28),
+      0 2px 6px rgba(0,0,0,.18);
+  }
+}
