@@ -25,3 +25,5 @@ services:
     url: "/services/laser-therapy/"
   - title: "Shockwave Therapy (ESWT)"
     url: "/services/shockwave-therapy-eswt/"
+  - title: "Diversified Technique"
+    url: "/services/diversified-technique/"

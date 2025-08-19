@@ -10,55 +10,65 @@ classes: wide
 
 ### Overview
 Class III (low‑level, “cold”) laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it may help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually doesn’t feel hot.
+{: .reveal .reveal--fade }
 
 ### How it works
 Low‑level laser light is absorbed by cells and can influence mitochondrial activity (ATP production), local circulation, and chemical messengers involved in irritation and healing. Treatments are non‑invasive and comfortable; we use protective eyewear.
+{: .reveal .reveal--fade }
 
 ### When it may help
 - Irritated joints or soft tissues after overuse/sprains/strains  
 - Tendon complaints (e.g., achilles, rotator cuff, elbow)  
 - Plantar fascia or other persistent sore spots  
 - As an add-on to your active care plan
+{: .reveal .reveal--fade }
 
 ### What to expect
 1. **Quick screen** – confirm cold laser is appropriate for you  
 2. **Treatment** – typically **5–15 minutes**; usually no heat (sometimes mild warmth)  
 3. **No downtime** – you can resume your day  
 4. **Series** – some people benefit from several sessions
+{: .reveal .reveal--fade }
 
 ### How we measure progress
 - Comfort during activities and daily tasks  
 - Range-of-motion and functional milestones  
 - Your own report of “how it feels” over time
+{: .reveal .reveal--fade }
 
 > We’ll tell you if cold laser isn’t the right match or if another service is a better first step.
+>{: .reveal .reveal--fade }
 
 ### FAQs
+  **Is it safe?**  
+  Yes, Class III lasers are generally safe when used appropriately. They’re non‑thermal and most people feel little to no sensation during treatment.
+  {: .reveal .reveal--fade }
 
-**Is it safe?**  
-Used appropriately, yes. Cold laser is non‑invasive and we follow safety protocols, including protective eyewear.
+  **Why Class III ("cold") and not Class IV?**  
+  - Outcomes depend on the right **dose** (wavelength, energy, and time), not just the device class.  
+  - Class III is **non‑thermal and comfortable**, and pairs well with adjustments and exercises.  
+  - Class IV can deliver dose faster, but it’s **not inherently more effective**; we focus on delivering the right dose safely.
+  {: .reveal .reveal--fade }
 
+  **Will I feel anything?**  
+  Most people feel little to no sensation. Some may notice mild warmth.
+  {: .reveal .reveal--fade }
 
-**Why Class III ("cold") and not Class IV?**  
-- Outcomes depend on the right **dose** (wavelength, energy, and time), not just the device class.  
-- Class III is **non‑thermal and comfortable**, and pairs well with adjustments and exercises.  
-- Class IV can deliver dose faster, but it’s **not inherently more effective**; we focus on delivering the right dose safely.
+  **How many sessions will I need?**  
+  It varies by condition, but many benefit from a **short series** (3–6 sessions). We reassess and adjust as needed.
+  {: .reveal .reveal--fade }
 
-**Will I feel anything?**  
-Most people feel little to no sensation; sometimes a mild warmth. Treatments are non‑thermal.
+  **Can I combine it with other care?**  
+  Yes, many people benefit from combining cold laser therapy with other treatments like adjustments and exercises.
+  {: .reveal .reveal--fade }
 
-**How many sessions will I need?**  
-It varies by condition and goals. With Class III devices, a **short series** is common. We reassess and adjust as you go.
-
-**Can I combine it with other care?**  
-Yes—often paired with adjustments and exercises.
-
-**What if I need another provider?**  
-We’ll help refer or co-manage when appropriate.
+  **What if I need another provider?**  
+  We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
+  {: .reveal .reveal--fade }
 
 ---
 
-<div class="contact-actions">
+<div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>

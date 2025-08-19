@@ -22,47 +22,53 @@ feature_row:
     title: "Chiropractic Care"
     excerpt: "Evidence-based, hands-on spinal and joint adjustments tailored to your needs. Our approach relieves pain, restores mobility, and supports your nervous system for long-term function and comfort. All care is delivered with a focus on safety, accessibility, and patient education."
     url: "/services/"
-    btn_label: "Learn more"
+    btn_label: "Explore care"
+    btn_class: "btn--primary"
+  - #image_path: /assets/images/feature-back.jpg
+    alt: "Neurologic Approach"
+    title: "Neurologic Approach"
+    excerpt: "We evaluate how your nervous system is communicating with your muscles and joints. By watching how you move, testing balance and reflexes, and tracking your response to care, we find the key restriction or imbalance. When the nervous system gets clearer signals, the body often does what it’s built to do — heal and stabilize."
+    url: "/services/neurologic-approach/"
+    btn_label: "See how we help"
+    btn_class: "btn--primary"
+  - #image_path: /assets/images/feature-family.jpg
+    alt: "Full-Spine & Extremities"
+    title: "Full-Spine & Extremities"
+    excerpt: "Comprehensive care for the entire spine and extremities, including precise adjustments and targeted therapies. We address pain, improve function, and enhance overall well-being."
+    url: "/services/full-spine-extremities/"
+    btn_label: "See details"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-sport.jpg
     alt: "Cold Laser Therapy"
     title: "Cold Laser Therapy"
     excerpt: "Cold laser therapy (low-level laser therapy) uses gentle, non-heating light energy to reduce inflammation, promote tissue healing, and relieve pain—without medication or invasive procedures. This safe, comfortable treatment is suitable for a wide range of musculoskeletal and nerve-related conditions."
-    url: "/services/"
-    btn_label: "Learn more"
+    url: "/services/laser-therapy/"
+    btn_label: "How does it work?"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Balance and Posture Testing"
     title: "Balance and Posture Testing"
     excerpt: "Comprehensive movement, balance, and posture assessments identify subtle imbalances and risk factors. We use these insights to create personalized, accessible strategies that improve stability, prevent injury, and enhance your quality of life."
-    url: "/services/"
-    btn_label: "Learn more"
+    url: "/services/balance-stability/"
+    btn_label: "How do we test?"
     btn_class: "btn--primary"
-
-#feature_row2:
-#  - title: "Evidence-Based Care"
-#    excerpt: "We combine chiropractic adjustments, cold laser therapy, balance and posture testing, soft-tissue work, and exercise prescription aligned with current research."
-#  - title: "Personalized Plans"
-#    excerpt: "No one-size-fits-all. We tailor treatment to your goals, schedule, and activity level."
-#  - title: "Convenient Location"
-#    excerpt: "Easy parking and flexible hours for busy families and professionals."
-
-feature_row_neuro:
-  - title: "Neurologic Approach"
-    excerpt: "We evaluate how your nervous system is communicating with your muscles and joints. By watching how you move, testing balance and reflexes, and tracking your response to care, we find the key restriction or imbalance. When the nervous system gets clearer signals, the body often does what it’s built to do — heal and stabilize."
-    url: "/services/"
-    btn_label: "How we assess"
+  - #image_path: /assets/images/feature-family.jpg
+    alt: "Shockwave Therapy (ESWT)"
+    title: "Shockwave Therapy (ESWT)"
+    excerpt: "Shockwave therapy (extracorporeal shockwave therapy) uses acoustic waves to promote healing and reduce pain in stubborn areas. This non-invasive treatment is effective for conditions like plantar fasciitis, tendonitis, and more."
+    url: "/services/shockwave-therapy-eswt/"
+    btn_label: "Explore shockwave care"
     btn_class: "btn--primary"
   - title: "Diversified Technique"
-    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise adjustments — not one‑size‑fits‑alls — to restore motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
-    url: "/services/"
-    btn_label: "See techniques"
+    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise adjustments — not one‑size‑fits‑all — to restore motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
+    url: "/services/diversified-technique/"
+    btn_label: "Learn about the technique"
     btn_class: "btn--primary"
 ---
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here for back, neck, or joint pain, we use a neurologic approach across everything we do: precise adjustments, simple targeted drills, and modern tools (Class III cold laser and shockwave) so progress lasts and you can get back to what you love.
+Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here for back, neck, or joint pain, we use a neurologic approach across everything we do: precise adjustments, simple targeted drills, and modern tools (class III cold laser and shockwave) so progress lasts and you can get back to what you love.
 </div>
 
 
@@ -75,33 +81,7 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 
 ## What We Treat & How We Help
 <div class="reveal reveal--up">
-  <div class="home-tile-grid"> 
-    <div class="home-tile">
-      <h3>Neurologic Approach</h3>
-      <p>We align sensory input with motor control — the umbrella for all care here. Short drills + the right techniques so progress lasts.</p>
-      <a class="btn btn--primary" href="{{ '/services/neurologic-approach/' | relative_url }}">Learn more</a>
-    </div>
-    <div class="home-tile">
-      <h3>Balance & Stability</h3>
-      <p>Focused balance care using visual, vestibular (inner ear), and proprioceptive drills — with a computerized balance tracker and risk‑of‑fall score.</p>
-      <a class="btn btn--primary" href="{{ '/services/balance-stability/' | relative_url }}">Learn more</a>
-    </div>
-    <div class="home-tile">
-      <h3>Full-Spine & Extremities</h3>
-      <p>Precise, hands‑on adjustments for the spine and joints like ankles, knees, shoulders, and wrists — paired with simple exercises when helpful.</p>
-      <a class="btn btn--primary" href="{{ '/services/full-spine-extremities/' | relative_url }}">Learn more</a>
-    </div>
-    <div class="home-tile">
-      <h3>Cold Laser Therapy (Class III)</h3>
-      <p>Low‑level ("cold") laser (Class III) photobiomodulation to help calm irritation and support recovery. Non‑thermal; most feel little to no heat, and sessions typically take 5–15 minutes—often paired with adjustments and exercise.</p>
-      <a class="btn btn--primary" href="{{ '/services/laser-therapy/' | relative_url }}">Learn more</a>
-    </div>
-    <div class="home-tile">
-      <h3>Shockwave Therapy (ESWT)</h3>
-      <p>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger) — typically a short series, intensity tailored to comfort.</p>
-      <a class="btn btn--primary" href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Learn more</a>
-    </div>
-  </div>
+  {% include feature_row id="feature_row" type="center" %}
 </div>
 
 <style>
@@ -142,13 +122,19 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
 
 ## What to Expect
 {: .reveal .reveal--up }
-- **Evaluate:** Short, focused screens to find the *limiter* (what’s holding you back). We review your history, check movement/coordination, and use tools like a balance tracker when helpful.
+**First visit:** We start with a quick screen to find your key limiter (balance, range of motion, or strength). Then we evaluate how you move and feel, looking at how different areas influence each other.
 {: .reveal .reveal--up }
-- **Plan:** Right‑sized care matched to your goals — targeted drills, adjustments or manual work when appropriate, and simple home exercises you’ll actually do.
+
+**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters.
 {: .reveal .reveal--up }
-- **Treat:** Precise, gentle techniques; add‑ons like Class III cold laser or shockwave when appropriate. We explain each step and adapt to your comfort.
+
+**Educate:** You’ll get clear, practical homework that fits your schedule—no long workouts or complex drills. We empower you to take an active role in your care.
 {: .reveal .reveal--up }
-- **Track:** Quick rechecks so you can feel and see progress. We adjust the plan based on what works for you.
+
+**Treat:** We use precise, gentle techniques; add-ons like laser or shockwave when appropriate. You’re in control—tell us your comfort level and preferences.
+{: .reveal .reveal--up }
+
+**Track:** We measure progress with functional tasks, comfort changes, and tissue tolerance. Quick rechecks confirm what’s helping and adjust as needed.
 {: .reveal .reveal--up }
 
 ## Location & Hours

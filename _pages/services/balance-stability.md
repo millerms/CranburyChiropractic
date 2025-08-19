@@ -10,18 +10,22 @@ classes: wide
 
 ### Overview
 Feeling steady is a skill your nervous system learns and keeps. We look at three systems that drive balance:
+{: .reveal .reveal--fade }
 
 - **Visual** (eyes) — where you are in space  
 - **Vestibular** (inner ear) — head movement and position  
 - **Proprioceptive** (joints/muscles) — body position feedback
+{: .reveal .reveal--up }
 
 When one system lags, you compensate. Our job is to find the limiter, match drills to it, and track progress.
+{: .reveal .reveal--fade }
 
 ### When it may help
 - **Hesitation on stairs or curbs**, or avoiding uneven ground  
 - **Fear of falling** or feeling “wobbly” when you close your eyes  
 - Post-injury balance that **hasn’t felt the same**  
 - You want more **confidence** for daily life or sport
+{: .reveal .reveal--up }
 
 ### What to expect
 1. **Short balance screen** — standing tests (eyes open/closed), head turns, single-leg stance  
@@ -29,33 +33,43 @@ When one system lags, you compensate. Our job is to find the limiter, match dril
 3. **Targeted plan** — gaze-stabilization, head/eye coordination, stance progressions (firm → foam), foot/ankle work  
 4. **Right-sized homework** — brief micro-sets at home  
 5. **Rechecks** — see changes in sway and confidence over time
+{: .reveal .reveal--up }
 
 ### How we measure progress
 - Tracker sway metrics and risk-of-fall trend  
 - Functional wins: smoother turns, easier stairs, less drift  
 - Timed stances (tandem, single-leg) and task tolerance
+{: .reveal .reveal--up }
 
 > Want the bigger picture of how we use a brain–body lens across all care? See [Neurologic Approach]({{ '/services/neurologic-approach/' | relative_url }}).
+{: .reveal .reveal--fade }
 
 ### FAQs
-**Do I need to be athletic?**  
-No—balance work is scaled to you at any age.
 
-**Why isn’t “just strengthening” enough?**  
-Strength helps, but balance is a brain–body skill. We train the limiting system, then layer strength.
+  **Do I need to be athletic?**  
+  No, balance is for everyone. We tailor drills to your level and goals.
+  {: .reveal .reveal--fade }
 
-**How quickly will I notice change?**  
-Some feel improvements quickly; others build over weeks. We track what’s helping.
+  **Why isn’t “just strengthening” enough?**  
+  Strength helps, but balance is about how your brain processes input. We target the specific system that’s lagging.
+  {: .reveal .reveal--fade }
 
-**Home plan?**  
-Yes—short, clear routines you can actually do.
+  **How quickly will I notice change?**  
+  Some feel improvements quickly; others build over weeks. We track what’s helping.
+  {: .reveal .reveal--fade }
 
-**Referral if needed?**  
-Of course. We co-manage with PT/OT/ENT/neurology when that’s best.
+  **Home plan?**  
+  Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
+  {: .reveal .reveal--fade }
+
+  **Referral if needed?**  
+  We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
+  {: .reveal .reveal--fade }
+
 
 ---
 
-<div class="contact-actions">
+<div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>

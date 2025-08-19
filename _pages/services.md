@@ -12,17 +12,22 @@ sidebar:
 At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
 
 We keep it practical, explain each step, and build a plan that fits your goals and schedule.
+{: .reveal .reveal--up }
 
 ---
 
 ## How Your Visit Works
-- **Evaluate** — Short, focused screens to find the *limiter* (what’s holding you back).  
-- **Plan** — Right-sized care: targeted drills, adjustments or manual work when helpful, simple exercises you’ll actually do.  
-- **Treat** — Precise, gentle techniques; add-ons like laser or shockwave when appropriate.  
-- **Track** — Quick rechecks so you can feel and see progress.  
+- **Screen** — Quick tests to find your limiter: balance, range of motion, or strength.
+- **Evaluate** — We assess your movement, comfort, and how different areas influence each other.
+- **Plan** — A right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy.
+- **Educate** — We explain each step and why it matters, so you understand how it fits your goals.
+- **Empower** — You’ll get clear, practical homework that fits your schedule—no long workouts or complex drills.
+- **Treat** — Precise, gentle techniques; add-ons like laser or shockwave when appropriate.
+- **Track** — We measure progress with functional tasks, comfort changes, and tissue tolerance.
+- **Reassess** — Quick rechecks to confirm what’s helping and adjust as needed.
 {: .reveal .reveal--up }
 
-> Results vary. If we think another specialist is a better first step, we’ll say so and help coordinate care.
+> We’re here to help you move better, recover faster, and stay active. If you have questions or need assistance, don’t hesitate to reach out.
 {: .reveal .reveal--up }
 
 ---
@@ -78,7 +83,9 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 ---
 
 ## Not sure where to start?
-If you’re not sure which service fits best, we can help. Our **Neurologic Approach** page explains how we find your limiter and shape care. If steadiness is your main concern, jump straight to **Balance & Stability**.
+- If you’re not sure which service fits best, we can help. Our **Neurologic Approach** page explains how we find your limiter and shape care. If steadiness is your main concern, jump straight to **Balance & Stability**. 
+- If you’re looking for adjustments or soft-tissue work, check out **Full-Spine & Extremities**. For persistent spots, see **Shockwave Therapy (ESWT)** or **Cold Laser Therapy**.
+- If you have any questions or need assistance, don’t hesitate to reach out.
 {: .reveal .reveal--up }
 
 ---

@@ -10,8 +10,10 @@ classes: wide
 
 ### Overview
 Your nervous system is the “operating system” for movement, comfort, and control. When the brain receives **clear input** (from eyes, inner ear, and joints/muscles) and sends **coordinated output** (timing, strength, and stability), you move well and feel confident. When signals are **noisy**—after injury, stress, illness, or just lack of practice—your body compensates. That can show up as stiffness, recurring strains, fatigue with simple tasks, or trouble coordinating movement.
+{: .reveal .reveal--fade }
 
 Our neurologic approach is a practical way to find the **limiter** in your system and match treatment to it. We use this lens across all care, whether it’s balance work, adjustments, laser therapy, or shockwave therapy. The goal is to help you move better, recover faster, and stay active.
+{: .reveal .reveal--fade }
 
 ### What we assess
 - **Sensory input**
@@ -25,16 +27,36 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
   - Recovery, breath mechanics, tolerance to effort or position changes
 - **Functional tasks**
   - Gait, step-downs, reach/rotate, lift/carry — scaled to your goals
+- **Pain/irritation**
+  - How it changes with tasks, rest, and activity
+  - Tissue tolerance and range of motion
+- **Your goals**
+  - What you want to achieve: daily tasks, sport, or just feeling “normal” again
+  - We listen to your story and tailor the plan to fit your life
+- **Your history**
+  - Previous injuries, surgeries, or conditions that may influence care
+  - We consider the whole picture to guide our approach
+- **Your lifestyle**
+  - Activity level, work demands, and daily routines
+  - We build a plan that fits your schedule and keeps you moving
+- **Your progress**
+  - We track changes in comfort, control, and function
+  - Quick rechecks to confirm what’s helping and adjust as needed
+{: .reveal .reveal--fade }
 
 > For **balance-specific** testing, protocols, and our risk-of-fall score, see the companion page: [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
+{: .reveal .reveal--fade }
 
 ### When this approach may help
 - **Recurrent aches/strains** that return after rest
 - **Neck/shoulder** issues with headaches or eye fatigue
 - **Low back/hip** problems tied to control, not just strength
-- Feeling “**off**” when you squat, step down, reach overhead, or stabilize the trunk
+- **Stiffness** that limits range of motion or comfort
+- **Fatigue** with simple tasks or after activity
 - Post-injury “**doesn’t feel normal yet**” despite basic rehab
-- Coordination or pacing issues during sport or everyday tasks
+- You prefer a **practical lens** that connects sensory input to motor control
+- You value **evidence-based** approaches that consider the latest research
+{: .reveal .reveal--fade }
 
 ### What to expect
 1. **Screen** — short sensorimotor checks (eyes, head/eye, joint motion), coordination drills, and functional tasks  
@@ -42,28 +64,41 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
 3. **Plan** — targeted drills (eye-head work, patterning, tempo/isometrics), joint work/adjustments when appropriate, and simple strength to “set” the change  
 4. **Right-sized homework** — brief “micro-sets” you can fit into your day  
 5. **Rechecks** — confirm changes with quick measures so you know what’s helping
+6. **Adjust as needed** — we adapt the plan based on your response and progress
+{: .reveal .reveal--fade }
 
 ### How we measure progress
 - Functional tests you feel (easier stairs, steadier reach, smoother rotation)
 - Objective checks when helpful (range, coordination timing, task reps)
 - Your report of effort and confidence during daily tasks or sport
+- Changes in pain/irritation during activity and rest
+- Tissue tolerance and range-of-motion rechecks
+{: .reveal .reveal--fade }
 
 ### FAQs
-**Is this just for balance problems?**  
-No. We use the neurologic lens for many issues where timing, control, or input quality matter. For balance-only details, see [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
+  **Is this just for balance problems?**  
+  No. We use the neurologic lens for many issues where timing, control, or input quality matter. For balance-only details, see [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
+  {: .reveal .reveal--fade }
 
-**Do you still adjust?**  
-Yes—when it fits your goals and the screen. We pair adjustments with drills or exercise so changes last.
+  **Do you still adjust?**  
+  Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside drills and exercises.
+  {: .reveal .reveal--fade }
 
-**Is there a home plan?**  
-Always. Short, clear micro-sets you can actually do.
+  **Is there a home plan?**  
+  Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
+  {: .reveal .reveal--fade }
 
-**What if I need another provider?**  
-We’ll say so and help coordinate care (PT/OT, orthopedics, ENT/neurology) when that’s the better next step.
+  **How quickly will I notice change?**  
+  Some feel improvements quickly; others build over weeks. We track what’s helping and adjust as needed.
+  {: .reveal .reveal--fade }
+
+  **What if I need another provider?**  
+  We’ll tell you if another specialist is a better fit and help coordinate care. Our goal is to get you the right help, not just keep you coming back.
+  {: .reveal .reveal--fade }
 
 ---
 
-<div class="contact-actions">
+<div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>
