@@ -18,7 +18,7 @@ excerpt: "Neurology‑informed chiropractic care in Norwalk, CT — practical, r
 Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple drills you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. Plans are **right‑sized** to your goals and schedule, and progress is measured at each visit so you know what’s helping.
 {: .reveal .reveal--fade }
 
-> “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  
+> "When my lower back gave out a friend suggested I try chiropractic, and I was skeptical, but I didn't want to take pain killers or have surgery. I made an appointment with with Dr. Ernie Landi, and when I walked into the office I was in so much pain that I couldn’t stand up straight. After just a few adjustments, not only was I much more comfortable, I was also standing up again. He not only helped me heal, but he became my mentor. I had an interest in health care in college, but couldn't find a career that suited my beliefs. Being introduced to chiropractic changed everything!"
 > ~ **Dr. Paul Miller**
 {: .notice--primary .reveal .reveal--fade }
 
