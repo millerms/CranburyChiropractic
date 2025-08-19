@@ -25,6 +25,13 @@ Diversified is a precise, hands‑on adjustment method. We position you comforta
 - A different option is a better first step (joint mobilization, instrument‑assisted work, soft‑tissue, or targeted exercise)
 {: .reveal .reveal--up }
 
+### How we use it
+- **As a primary treatment** for stiffness or discomfort in a specific joint
+- **Alongside other care** like soft-tissue work, laser therapy, or shockwave
+- **As part of a broader plan** that includes simple drills to reinforce the change
+- **When it fits your goals** and you’re comfortable with the approach
+{: .reveal .reveal--up }
+
 ### What to expect
 1. **Screen & explain** — history, movement, and joint tests; we discuss options and answer questions  
 2. **Setup** — comfortable positioning and clear instructions so you know what to expect  
@@ -60,6 +67,9 @@ Diversified is a precise, hands‑on adjustment method. We position you comforta
   **How many visits will I need?**  
   It depends on your goals and how you respond. We track progress and keep the plan right‑sized.
   {: .reveal .reveal--fade }
+
+> You’re in control—tell us your comfort level and preferences. Results vary.
+{: .reveal .reveal--fade }
 
 ---
 
