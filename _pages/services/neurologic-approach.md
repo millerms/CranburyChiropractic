@@ -76,25 +76,43 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
 {: .reveal .reveal--fade }
 
 ### FAQs
-  **Is this just for balance problems?**  
-  No. We use the neurologic lens for many issues where timing, control, or input quality matter. For balance-only details, see [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
-  {: .reveal .reveal--fade }
 
-  **Do you still adjust?**  
-  Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside drills and exercises.
-  {: .reveal .reveal--fade }
+<div class="faq">
+  <details class="reveal reveal--up">
+    <summary>Is this just for balance problems?</summary>
+    <div class="faq__content">
+      No. We use the neurologic lens for many issues where timing, control, or input quality matter. For balance-only details, see <a href="{{ '/services/balance-stability/' | relative_url }}">Balance &amp; Stability</a>.
+    </div>
+  </details>
 
-  **Is there a home plan?**  
-  Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Do you still adjust?</summary>
+    <div class="faq__content">
+      Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside drills and exercises.
+    </div>
+  </details>
 
-  **How quickly will I notice change?**  
-  Some feel improvements quickly; others build over weeks. We track what’s helping and adjust as needed.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Is there a home plan?</summary>
+    <div class="faq__content">
+      Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
+    </div>
+  </details>
 
-  **What if I need another provider?**  
-  We’ll tell you if another specialist is a better fit and help coordinate care. Our goal is to get you the right help, not just keep you coming back.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>How quickly will I notice change?</summary>
+    <div class="faq__content">
+      Some feel improvements quickly; others build over weeks. We track what’s helping and adjust as needed.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary>What if I need another provider?</summary>
+    <div class="faq__content">
+      We’ll tell you if another specialist is a better fit and help coordinate care. Our goal is to get you the right help, not just keep you coming back.
+    </div>
+  </details>
+</div>
 
 ---
 

@@ -46,25 +46,43 @@ ESWT is often used for persistent spots that haven’t responded to other treatm
 {: .reveal .reveal--fade }
 
 ### FAQs
-  **Is it safe? Will it hurt?**  
-  Yes, ESWT is generally safe when used appropriately. Most people feel a tapping sensation; intensity is adjusted to your comfort.
-  {: .reveal .reveal--fade }
 
-  **How many sessions will I need?**  
-  It varies by condition, but a **short series** (3–6 sessions) is common. We reassess and adjust as you go.
-  {: .reveal .reveal--fade }
+<div class="faq">
+  <details class="reveal reveal--up">
+    <summary>Is it safe? Will it hurt?</summary>
+    <div class="faq__content">
+      Yes, ESWT is generally safe when used appropriately. Most people feel a tapping or pulsing sensation; intensity is adjusted to your comfort.
+    </div>
+  </details>
 
-  **Can I combine it with other care?**  
-  Yes—often paired with adjustments, exercise, or manual therapy.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>How many sessions will I need?</summary>
+    <div class="faq__content">
+      It varies by condition, but a short series (often 3–6 sessions) is common. We reassess and adjust as you go.
+    </div>
+  </details>
 
-  **Does it replace exercise?**  
-  No, ESWT is an add-on to active care. We often combine it with mobility and strengthening exercises to support recovery.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Can I combine it with other care?</summary>
+    <div class="faq__content">
+      Yes — ESWT pairs well with adjustments, exercise, and manual therapy.
+    </div>
+  </details>
 
-  **What if I need a referral?**  
-  We’ll help refer or co-manage with another provider (PT/orthopedics) if needed.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Does it replace exercise?</summary>
+    <div class="faq__content">
+      No. ESWT is an add‑on to active care. We often combine it with mobility and strengthening so improvements last.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary>What if I need a referral?</summary>
+    <div class="faq__content">
+      We’ll coordinate with the right specialist (PT, orthopedics, etc.) if needed. Your result comes first.
+    </div>
+  </details>
+</div>
   
 ---
 

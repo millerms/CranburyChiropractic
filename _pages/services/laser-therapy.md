@@ -40,31 +40,54 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
 >{: .reveal .reveal--fade }
 
 ### FAQs
-  **Is it safe?**  
-  Yes, Class III lasers are generally safe when used appropriately. They’re non‑thermal and most people feel little to no sensation during treatment.
-  {: .reveal .reveal--fade }
 
-  **Why Class III ("cold") and not Class IV?**  
-  - Outcomes depend on the right **dose** (wavelength, energy, and time), not just the device class.  
-  - Class III is **non‑thermal and comfortable**, and pairs well with adjustments and exercises.  
-  - Class IV can deliver dose faster, but it’s **not inherently more effective**; we focus on delivering the right dose safely.
-  {: .reveal .reveal--fade }
+<div class="faq">
+  <details class="reveal reveal--up">
+    <summary>Is it safe?</summary>
+    <div class="faq__content">
+      Yes, Class III lasers are generally safe when used appropriately. They’re non‑thermal and most people feel little to no sensation during treatment.
+    </div>
+  </details>
 
-  **Will I feel anything?**  
-  Most people feel little to no sensation. Some may notice mild warmth.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Why Class III ("cold") and not Class IV?</summary>
+    <div class="faq__content">
+      <ul>
+        <li>Outcomes depend on the right <strong>dose</strong> (wavelength, energy, and time), not just the device class.</li>
+        <li>Class III is <strong>non‑thermal and comfortable</strong>, and pairs well with adjustments and exercises.</li>
+        <li>Class IV can deliver dose faster, but it’s <strong>not inherently more effective</strong>; we focus on delivering the right dose safely.</li>
+      </ul>
+    </div>
+  </details>
 
-  **How many sessions will I need?**  
-  It varies by condition, but many benefit from a **short series** (3–6 sessions). We reassess and adjust as needed.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Will I feel anything?</summary>
+    <div class="faq__content">
+      Most people feel little to no sensation. Some may notice mild warmth.
+    </div>
+  </details>
 
-  **Can I combine it with other care?**  
-  Yes, many people benefit from combining cold laser therapy with other treatments like adjustments and exercises.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>How many sessions will I need?</summary>
+    <div class="faq__content">
+      It varies by condition, but many benefit from a <strong>short series</strong> (3–6 sessions). We reassess and adjust as needed.
+    </div>
+  </details>
 
-  **What if I need another provider?**  
-  We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Can I combine it with other care?</summary>
+    <div class="faq__content">
+      Yes, many people benefit from combining cold laser therapy with other treatments like adjustments and exercises.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary>What if I need another provider?</summary>
+    <div class="faq__content">
+      We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
+    </div>
+  </details>
+</div>
 
 ---
 

@@ -48,25 +48,43 @@ Diversified is a precise, hands‑on adjustment method. We position you comforta
 {: .reveal .reveal--fade }
 
 ### FAQs
-  **Do I have to be adjusted?**  
-  No. We’ll recommend what seems most helpful, and you always decide. We have plenty of non‑thrust options.
-  {: .reveal .reveal--fade }
 
-  **Is it safe?**  
-  We screen carefully and adapt to your comfort. If an adjustment isn’t the right fit, we’ll choose another approach.
-  {: .reveal .reveal--fade }
+<div class="faq">
+  <details class="reveal reveal--up">
+    <summary>Do I have to be adjusted?</summary>
+    <div class="faq__content">
+      No. We’ll recommend what seems most helpful, and you always decide. We have plenty of non‑thrust options.
+    </div>
+  </details>
 
-  **Will it hurt? What’s the pop?**  
-  Discomfort is usually minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space—not bones rubbing.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Is it safe?</summary>
+    <div class="faq__content">
+      We screen carefully and adapt to your comfort. If an adjustment isn’t the right fit, we’ll choose another approach.
+    </div>
+  </details>
 
-  **Can you adjust ankles, knees, or shoulders?**  
-  Yes—when it’s appropriate and aligned with your goals.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Will it hurt? What’s the pop?</summary>
+    <div class="faq__content">
+      Discomfort is usually minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space—not bones rubbing.
+    </div>
+  </details>
 
-  **How many visits will I need?**  
-  It depends on your goals and how you respond. We track progress and keep the plan right‑sized.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Can you adjust ankles, knees, or shoulders?</summary>
+    <div class="faq__content">
+      Yes—when it’s appropriate and aligned with your goals.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary>How many visits will I need?</summary>
+    <div class="faq__content">
+      It depends on your goals and how you respond. We track progress and keep the plan right‑sized.
+    </div>
+  </details>
+</div>
 
 > You’re in control—tell us your comfort level and preferences. Results vary.
 {: .reveal .reveal--fade }

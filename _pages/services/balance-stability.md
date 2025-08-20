@@ -45,27 +45,42 @@ When one system lags, you compensate. Our job is to find the limiter, match dril
 {: .reveal .reveal--fade }
 
 ### FAQs
+<div class="faq">
+  <details class="reveal reveal--up">
+    <summary>Do I need to be athletic?</summary>
+    <div class="faq__content">
+      No — balance work is for everyone. We tailor drills to your level and goals.
+    </div>
+  </details>
 
-  **Do I need to be athletic?**  
-  No, balance is for everyone. We tailor drills to your level and goals.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Why isn’t “just strengthening” enough?</summary>
+    <div class="faq__content">
+      Strength helps, but balance depends on how your brain processes input from your eyes, inner ear, and joints. We target the specific system that’s lagging so the whole pattern improves.
+    </div>
+  </details>
 
-  **Why isn’t “just strengthening” enough?**  
-  Strength helps, but balance is about how your brain processes input. We target the specific system that’s lagging.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>How quickly will I notice change?</summary>
+    <div class="faq__content">
+      Some people feel improvements quickly; others build over weeks. We track what’s helping and adjust as needed.
+    </div>
+  </details>
 
-  **How quickly will I notice change?**  
-  Some feel improvements quickly; others build over weeks. We track what’s helping.
-  {: .reveal .reveal--fade }
+  <details class="reveal reveal--up">
+    <summary>Home plan?</summary>
+    <div class="faq__content">
+      Yes. You’ll get brief, clear routines that fit your schedule — no long workouts or complex drills.
+    </div>
+  </details>
 
-  **Home plan?**  
-  Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
-  {: .reveal .reveal--fade }
-
-  **Referral if needed?**  
-  We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
-  {: .reveal .reveal--fade }
-
+  <details class="reveal reveal--up">
+    <summary>Referral if needed?</summary>
+    <div class="faq__content">
+      If another specialist is the better fit, we’ll coordinate with PT, orthopedics, or other providers. Your result comes first.
+    </div>
+  </details>
+</div>
 
 ---
 
