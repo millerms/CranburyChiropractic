@@ -762,3 +762,12 @@ html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) {
   .faq__content { animation: none !important; }
 }
+
+/* Footer polish */
+footer .footer__address address { line-height: 1.35; }
+footer nav a { text-decoration: none; }
+footer nav a:hover, footer nav a:focus { text-decoration: underline; }
+
+@media (min-width: 900px) {
+  footer .footer__address { font-size: 0.85rem; }
+}
