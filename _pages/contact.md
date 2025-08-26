@@ -13,6 +13,7 @@ header:
     - label: "Book on Zocdoc"
       url: "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
 excerpt: ""
+classes: wide hero-contact
 ---
 
 

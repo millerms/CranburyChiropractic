@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "All Services"
-classes: wide
+classes: wide hero-services
 permalink: /services/
 description: "Overview of chiropractic care at Cranbury Chiropractic — neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."
 excerpt: ""
@@ -10,7 +10,7 @@ sidebar:
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
-  overlay_image: "/assets/images/adjust.webp"
+  overlay_image: "/assets/images/table.webp"
 ---
 ## Our Approach to Care
 At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.

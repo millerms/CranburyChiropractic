@@ -929,3 +929,19 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
     font-weight: 700;
   }
 }
+
+/* === Hero banner: vertically center background image === */
+/* Only Services (or any page with hero-services) */
+.hero-services .page__hero--overlay {
+  background-position: 50% 30% !important;
+}
+
+/* Only Home (or any page with hero-home) */
+.hero-home .page__hero--overlay {
+  background-position: 50% 60% !important;
+}
+
+/* Only Contact (or any page with hero-contact) */
+.hero-contact .page__hero--overlay {
+  background-position: 50% 40% !important;
+}
