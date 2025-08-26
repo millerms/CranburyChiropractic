@@ -771,3 +771,161 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
 @media (min-width: 900px) {
   footer .footer__address { font-size: 0.85rem; }
 }
+
+/* ===== Contact page: form styles (base) ===== */
+.contact-form { max-width: 860px; margin: 0 auto 2rem; }
+.contact-form .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.contact-form .form-field.full { grid-column: 1 / -1; }
+
+.contact-form label { display:block; font-weight:600; margin: 0 0 .35rem; }
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="tel"],
+.contact-form textarea {
+  width: 100%; padding: .65rem .75rem; font-size: 1rem;
+  border: 1px solid var(--color-border, #d6d6d6); border-radius: 8px;
+  background: #fff; color: inherit; box-shadow: 0 1px 0 rgba(0,0,0,.02) inset;
+}
+.contact-form textarea { min-height: 140px; resize: vertical; }
+
+/* Fieldset for contact preferences */
+.contact-form fieldset {
+  border: 1px solid var(--color-border, #d6d6d6);
+  border-radius: 8px; padding: .6rem .75rem; margin: 0;
+}
+.contact-form legend { font-weight: 600; padding: 0 .25rem; }
+.contact-form fieldset label { font-weight: 500; }
+
+/* Choice pills (checkboxes styled as toggles) */
+.choice-pills { display:flex; gap:.5rem; flex-wrap: wrap; }
+.choice-pills label { position:relative; display:inline-flex; align-items:center; cursor:pointer; }
+.choice-pills input[type="checkbox"] { position:absolute; opacity:0; inset:0; }
+.choice-pills span { display:inline-block; padding:.45rem .75rem; border:1px solid var(--color-border, #d6d6d6); border-radius:999px; background:#fff; font-weight:600; }
+.choice-pills input[type="checkbox"]:checked + span { background: var(--color-primary, #103d2d); color:#fff; border-color: var(--color-primary, #103d2d); }
+.choice-pills input[type="checkbox"]:focus-visible + span { outline:2px solid rgba(16,61,45,.22); outline-offset:2px; }
+
+/* Actions row */
+.contact-form .actions { grid-column: 1 / -1; display:flex; gap:.75rem; align-items:center; flex-wrap: wrap; }
+
+/* Mobile tweaks */
+@media (max-width: 720px) {
+  .contact-form .form-grid { grid-template-columns: 1fr; }
+  .contact-form .actions .btn { flex: 1 1 100%; text-align: center; }
+}
+
+/* ===== Contact page: polish & accessibility ===== */
+/* Subtle transitions for inputs */
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="tel"],
+.contact-form textarea {
+  transition: border-color .15s ease, box-shadow .15s ease, background-color .15s ease;
+}
+/* Hover hint */
+.contact-form input:hover,
+.contact-form textarea:hover {
+  border-color: rgba(16,61,45,.35);
+}
+/* Focus-visible for keyboards */
+.contact-form input:focus-visible,
+.contact-form textarea:focus-visible,
+.choice-pills input[type="checkbox"]:focus-visible + span {
+  outline: 2px solid rgba(16,61,45,.28);
+  outline-offset: 2px;
+}
+/* Placeholder tone */
+.contact-form ::placeholder { color: #94a3b8; opacity: 1; }
+/* Error state (JS will set aria-invalid=true when invalid) */
+.contact-form [aria-invalid="true"] {
+  border-color: #b91c1c !important;
+  box-shadow: 0 0 0 3px rgba(185,28,28,.12);
+}
+/* Success & failure banners (for future JS) */
+.form-status {
+  margin: 0 auto 1rem; padding: .75rem 1rem; border-radius: 8px; max-width: 860px;
+}
+.form-status--ok { background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; }
+.form-status--err { background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; }
+/* Tighten legend spacing */
+.contact-form fieldset { margin-top: .25rem; }
+.contact-form legend { margin-bottom: .25rem; }
+
+/* Buttons alignment when long helper text wraps */
+.contact-form .actions { align-items: flex-start; }
+
+/* Choice pills polish */
+.choice-pills span { transition: background-color .15s ease, color .15s ease, border-color .15s ease; }
+.choice-pills label:hover span { border-color: rgba(16,61,45,.45); }
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form input[type="tel"],
+  .contact-form textarea,
+  .choice-pills span { transition: none !important; }
+}
+/* === Contact preference pills: keep side-by-side === */
+.choice-pills {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: .5rem;
+  flex-wrap: nowrap; /* don’t stack by default */
+}
+.choice-pills label {
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;  /* prevent stretching to full width */
+  margin: 0;
+}
+.choice-pills span { white-space: nowrap; }
+
+/* Allow wrap only on ultra-narrow screens */
+@media (max-width: 380px) {
+  .choice-pills { flex-wrap: wrap; }
+}
+/* === Contact form: fix overflow & center full-width rows on desktop === */
+/* Ensure borders/padding don’t cause overflow */
+.contact-form, .contact-form * , .contact-form *::before, .contact-form *::after { box-sizing: border-box; }
+
+@media (min-width: 900px) {
+  /* Narrow the very wide single-row elements (Message + Preference fieldset) */
+  .contact-form .form-field.full label[for="message"],
+  .contact-form .form-field.full textarea,
+  .contact-form .form-field.full fieldset,
+  .contact-form .form-field.full .help {
+    max-width: 820px; /* sweet spot for readability */
+    margin-left: 0;     /* align with left edge of the grid */
+    margin-right: auto; /* do not center */
+    width: 100%;
+    text-align: left;
+  }
+
+  /* Keep the pills row tidy and left-aligned inside the narrowed fieldset */
+  .contact-form .form-field.full fieldset { display: block; }
+  .choice-pills { justify-content: flex-start; }
+}
+
+/* === Contact page: larger buttons & phone size on mobile === */
+@media (max-width: 720px) {
+  /* Make form action buttons larger and full-width */
+  .contact-form .actions .btn,
+  .contact-actions .btn {
+    font-size: 1.0625rem; /* ~17px to avoid iOS auto-zoom quirks */
+    line-height: 1.2;
+    padding: 0.95rem 1.15rem;
+    min-height: 48px; /* comfortable tap target */
+    border-radius: 12px;
+  }
+  .contact-actions .btn .btn-label { font-size: inherit; }
+  .contact-form .actions .btn { flex: 1 1 100%; text-align: center; }
+  .contact-form .actions { align-items: stretch; }
+
+    /* Emphasize inline phone link under the address */
+  .location-details .phone-link {
+    font-size: 1.125rem;
+    font-weight: 700;
+  }
+}
