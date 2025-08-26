@@ -7,7 +7,7 @@ classes: hero-home
 permalink: /
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
+  overlay_filter: "0.45"
   overlay_image: "/assets/images/biking-italy.webp"
   actions:
     - label: "Book on Zocdoc"

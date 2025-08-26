@@ -3,6 +3,8 @@ main:
     url: "/services/"
   - title: "Meet the Doctor"
     url: "/doctor/"
+  - title: "What We Treat"
+    url: "/treat/"
   - title: "New Patients"
     url: "/new-patients/"
   - title: "Insurance & Pricing"

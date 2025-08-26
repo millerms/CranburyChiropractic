@@ -4,7 +4,7 @@ title: "Insurance & Pricing"
 permalink: /insurance/
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
+  overlay_filter: "0.5"
   overlay_image: "/assets/images/insurance.webp"
 excerpt: "Plans we accept, how billing works, and what to expect for costs."
 ---

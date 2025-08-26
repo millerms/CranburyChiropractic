@@ -5,7 +5,7 @@ permalink: /contact/
 description: "Book on Zocdoc, call, or fill out the form below."
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
+  overlay_filter: "0.5"
   overlay_image: "/assets/images/cal.webp"
   actions:
     - label: "Call (203) 846-3424"

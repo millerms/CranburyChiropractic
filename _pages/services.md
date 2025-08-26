@@ -9,7 +9,7 @@ sidebar:
   nav: "services"
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
+  overlay_filter: "0.45"
   overlay_image: "/assets/images/spine.webp"
 ---
 ## Our Approach to Care

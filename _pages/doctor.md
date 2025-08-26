@@ -5,7 +5,7 @@ permalink: /doctor/
 classes: doctor-page
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
-  overlay_filter: "0.35"
+  overlay_filter: "0.45"
   overlay_image: "/assets/images/drawing.webp"
 excerpt: "Neurology‑informed chiropractic care in Norwalk, CT — practical, right‑sized, and focused on helping you move well."
 ---
