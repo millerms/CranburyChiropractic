@@ -211,7 +211,7 @@ Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>
-  <a href="/contact/" class="btn">
+  <a href="{{ '/contact/' | relative_url }}" class="btn">
     <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
