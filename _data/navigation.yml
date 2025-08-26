@@ -9,8 +9,6 @@ main:
     url: "/insurance/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Blog"
-    url: "/blog/"
 
 services:
   - title: "All Services"
