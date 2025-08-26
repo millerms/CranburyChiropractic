@@ -950,19 +950,9 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
 @media (max-width: 720px) {
   .doctor-page .page__content img.align-right{
     float: right !important;      /* override theme's mobile reset */
-    width: 140px !important;      /* smaller on mobile */
+    width: 120px !important;      /* smaller on mobile */
     height: auto;
     margin-left: 1rem;
     margin-top: 1rem;
-  }
-}
-
-@media (max-width: 450px) {
-  .doctor-page .page__content img.align-right{
-    float: right !important;      /* override theme's mobile reset */
-    width: 140px !important;      /* smaller on mobile */
-    height: auto;
-    margin-left: 1rem;
-    margin-top: 3rem;
   }
 }
