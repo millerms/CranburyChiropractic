@@ -38,7 +38,7 @@ excerpt: ""
 
     <div class="form-field full">
       <label for="message">Message <span aria-hidden="true">*</span></label>
-      <textarea id="message" name="message" required aria-required="true" placeholder="How can we help?"></textarea>
+      <textarea id="message" name="message" required aria-required="true" placeholder="How can we help? What is your availability?"></textarea>
     </div>
 
     <div class="form-field full">
