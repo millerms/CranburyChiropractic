@@ -53,7 +53,8 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 When he’s not in the office, Dr. Miller is usually in motion or outside. He’s an avid mountain biker, skier, and keeps his legs fresh with indoor spin sessions. At home, he tends a few beehives and helps his wife, Pat, in the garden. They raised two sons, Alex and Mike, and enjoy spending time with their family. He also loves to travel, explore new trails, and bring back ideas that keep the clinic fresh.
 {: .reveal .reveal--fade }
 
-Contact Dr. Miller Today:
+
+#### Contact Dr. Miller Today:
 {: .reveal .reveal--fade }
 
 <div class="contact-actions reveal reveal--up">
