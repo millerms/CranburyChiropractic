@@ -31,9 +31,9 @@ A quick guide to the most common issues we see — and how we match care to your
 
 ## Common reasons people see us
 
-<div class="faq">
+<section id="treat-conditions" class="faq">
   <details class="reveal reveal--up">
-    <summary><strong>Back or Neck Pain</strong> &nbsp; stiffness, sharp twinges, “locked up,” radiating arm/leg irritation</summary>
+    <summary><span class="term">Back or Neck Pain</span><span class="desc">stiffness, sharp twinges, “locked up,” radiating arm/leg irritation</span></summary>
     <div class="faq__content">
       Examples: mechanical low back pain, neck pain/tension, mid‑back/rib irritation, sciatica‑like leg pain, post‑whiplash soreness (after medical clearance).
       <br><br>
@@ -47,7 +47,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Headache or Jaw Pain & Posture</strong> &nbsp; tension, cervicogenic headaches, desk‑strain, TMJ‑related neck issues</summary>
+    <summary><span class="term">Headache or Jaw Pain &amp; Posture</span><span class="desc">tension, cervicogenic headaches, desk‑strain, TMJ‑related neck issues</span></summary>
     <div class="faq__content">
       Examples: tension‑type headaches, neck‑related headaches, jaw discomfort tied to neck position, upper‑back/shoulder tightness from screen time.
       <br><br>
@@ -61,7 +61,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Shoulder, Elbow, or Wrist/Hand Pain</strong> &nbsp; reaching, lifting, gripping, desk or sport overuse</summary>
+    <summary><span class="term">Shoulder, Elbow, or Wrist/Hand Pain</span><span class="desc">reaching, lifting, gripping, desk or sport overuse</span></summary>
     <div class="faq__content">
       Examples: rotator‑cuff irritation/impingement, biceps/pectoralis tightness, tennis or golfer’s elbow, forearm tendon overload, desk‑related wrist/thumb pain.
       <br><br>
@@ -75,7 +75,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Hip, Knee, or Foot/Ankle Pain</strong> &nbsp; walking/running pain, stairs, sprains, plantar fascia, Achilles</summary>
+    <summary><span class="term">Hip, Knee, or Foot/Ankle Pain</span><span class="desc">walking/running pain, stairs, sprains, plantar fascia, Achilles</span></summary>
     <div class="faq__content">
       Examples: hip stiffness, IT‑band/patellofemoral pain, knee osteoarthritis management, ankle sprain recovery, limited big‑toe motion, plantar fasciitis, Achilles tendinopathy.
       <br><br>
@@ -89,7 +89,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Balance & Stability</strong> &nbsp; unsteadiness, “wobbly,” fear of falling</summary>
+    <summary><span class="term">Balance &amp; Stability</span><span class="desc">unsteadiness, “wobbly,” fear of falling</span></summary>
     <div class="faq__content">
       Examples: trouble on uneven ground or stairs, history of falls, post‑injury “doesn’t feel steady yet.”
       <br><br>
@@ -102,7 +102,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Nerve‑Related Irritation</strong> &nbsp; numbness/tingling, “pinched nerve” feelings</summary>
+    <summary><span class="term">Nerve‑Related Irritation</span><span class="desc">numbness/tingling, “pinched nerve” feelings</span></summary>
     <div class="faq__content">
       Examples: radiating arm pain from the neck, piriformis‑style sciatic irritation, hand numbness from overuse or position.
       <br><br>
@@ -117,7 +117,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Sports & Overuse</strong> &nbsp; recurring strains, return to activity, “doesn’t feel normal yet”</summary>
+    <summary><span class="term">Sports &amp; Overuse</span><span class="desc">recurring strains, return to activity, “doesn’t feel normal yet”</span></summary>
     <div class="faq__content">
       Examples: hamstring/calf strains, shoulder tendons, runners with hip/knee/ankle chain issues, cyclists with neck/low‑back tightness.
       <br><br>
@@ -131,7 +131,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Limited Mobility</strong> &nbsp; trouble turning, reaching, bending; “stiff and won’t loosen up”</summary>
+    <summary><span class="term">Limited Mobility</span><span class="desc">trouble turning, reaching, bending; “stiff and won’t loosen up”</span></summary>
     <div class="faq__content">
       Examples: shoulder that won’t reach overhead, back/hip that’s stiff getting out of a chair, ankle that never “came back” after a sprain, post‑injury stiffness once medically cleared.
       <br><br>
@@ -146,7 +146,7 @@ A quick guide to the most common issues we see — and how we match care to your
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Desk, Travel & Daily Life</strong> &nbsp; “tech neck,” long‑drive stiffness, general maintenance</summary>
+    <summary><span class="term">Desk, Travel &amp; Daily Life</span><span class="desc">“tech neck,” long‑drive stiffness, general maintenance</span></summary>
     <div class="faq__content">
       Examples: neck/upper‑back tightness from screens, hip flexor stiffness from sitting, low‑back fatigue with chores or yard work.
       <br><br>
@@ -157,7 +157,7 @@ A quick guide to the most common issues we see — and how we match care to your
       </ul>
     </div>
   </details>
-</div>
+</section>
 
 ---
 
