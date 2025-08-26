@@ -2,25 +2,26 @@
 layout: splash
 title: "Meet the Doctor"
 permalink: /doctor/
+classes: doctor-page
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
+  overlay_image: "/assets/images/drawing.webp"
 excerpt: "Neurology‑informed chiropractic care in Norwalk, CT — practical, right‑sized, and focused on helping you move well."
 ---
 
-<!-- Optional headshot (uncomment after adding the file at /assets/images/doctor-headshot.jpg)
-<img src="{{ '/assets/images/doctor-headshot.jpg' | relative_url }}" alt="Dr. Paul Miller" class="align-right" width="280" loading="lazy">
--->
-
 ## Meet Dr. Paul Miller
-{: .reveal .reveal--up }
+{: .reveal .reveal--up}
+
+<img src="{{ '/assets/images/headshot.webp' | relative_url }}" alt="Dr. Paul Miller" class="align-right" width="140" loading="lazy" style="margin-bottom: 4rem; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 
 Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple drills you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. Plans are **right‑sized** to your goals and schedule, and progress is measured at each visit so you know what’s helping.
 {: .reveal .reveal--fade }
 
 > "In my early twenties, after too many miles on the road, my lower back gave out. A friend suggested chiropractic care. I was skeptical at first, and I didn’t want painkillers or surgery, so I had nothing to lose. I booked an appointment and saw Dr. Ernie Landi. I could barely stand up straight when I arrived; after a few adjustments I was comfortable and upright again. He helped me heal and became a mentor. I’d been interested in healthcare, but hadn’t found a path that fit my beliefs. Chiropractic changed that and my new career began."
 > ~ **Dr. Paul Miller**
-{: .notice--primary .reveal .reveal--fade }
+{: .reveal .reveal--fade}
 
 ---
 

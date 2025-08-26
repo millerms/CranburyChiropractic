@@ -933,7 +933,7 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
 /* === Hero banner: vertically center background image === */
 /* Only Services (or any page with hero-services) */
 .hero-services .page__hero--overlay {
-  background-position: 50% 80% !important;
+  background-position: 50% 50% !important;
 }
 
 /* Only Home (or any page with hero-home) */
@@ -944,4 +944,15 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
 /* Only Contact (or any page with hero-contact) */
 .hero-contact .page__hero--overlay {
   background-position: 50% 40% !important;
+}
+
+/* === Doctor page: keep headshot on right on mobile === */
+@media (max-width: 720px) {
+  .doctor-page .page__content img.align-right{
+    float: right !important;      /* override theme's mobile reset */
+    width: 140px !important;      /* smaller on mobile */
+    height: auto;
+    margin-left: 1rem;
+    margin-top: 1rem;
+  }
 }
