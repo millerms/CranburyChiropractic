@@ -933,7 +933,7 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
 /* === Hero banner: vertically center background image === */
 /* Only Services (or any page with hero-services) */
 .hero-services .page__hero--overlay {
-  background-position: 50% 30% !important;
+  background-position: 50% 80% !important;
 }
 
 /* Only Home (or any page with hero-home) */
