@@ -138,7 +138,4 @@ excerpt: ""
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
   </a>
-  <a href="tel:+12038463424" class="btn">
-    <span class="btn-label">Call (203) 846-3424</span>
-  </a>
 </div>
