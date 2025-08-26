@@ -954,5 +954,9 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
     height: auto;
     margin-left: 1rem;
     margin-top: 1rem;
+    margin-bottom: 0rem !important;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(15,76,92,0.12); /* subtle shadow */
+    object-fit: cover;
   }
 }
