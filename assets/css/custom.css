@@ -946,17 +946,61 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
   background-position: 50% 40% !important;
 }
 
+/* Only New Patients (or any page with hero-newpatients) */
+.hero-newpatients .page__hero--overlay {
+  background-position: 50% 40% !important;
+}
+
+
 /* === Doctor page: keep headshot on right on mobile === */
 @media (max-width: 720px) {
   .doctor-page .page__content img.align-right{
     float: right !important;      /* override theme's mobile reset */
     width: 120px !important;      /* smaller on mobile */
     height: auto;
-    margin-left: 1rem;
+    margin-left: 0.5rem;
     margin-top: 1rem;
-    margin-bottom: 0rem !important;
+    margin-bottom: 0.5rem !important;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(15,76,92,0.12); /* subtle shadow */
     object-fit: cover;
   }
 }
+
+/* === Insurance cards (used on Insurance & New Patients pages) === */
+.page__content #insurance-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.page__content #insurance-cards .card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 14px;
+  padding: 1.25rem;
+  text-align: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  transition: box-shadow .18s ease, transform .18s ease;
+}
+.page__content #insurance-cards .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(15,76,92,.10);
+}
+.page__content #insurance-cards .card strong { font-size: 1.05rem; }
+.page__content #insurance-cards .card img {
+  max-width: 160px;
+  height: auto;
+  margin-top: 0.5rem;
+  filter: grayscale(100%) brightness(0.8);
+  transition: filter .18s ease;
+}
+.page__content #insurance-cards .card img:hover { filter: none; }
+@media (max-width: 400px) {
+  .page__content #insurance-cards { grid-template-columns: 1fr; }
+}
+.page__content #insurance-cards .card {
+  padding: 1rem;
+}
+.page__content #insurance-cards .card strong { font-size: 1rem; }
+.page__content #insurance-cards .card img { max-width: 140px; }
