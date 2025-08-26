@@ -5,7 +5,7 @@ permalink: /contact/
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.35"
-  overlay_image: "/assets/images/calendar.jpg"
+  overlay_image: "/assets/images/cal.webp"
   actions:
     - label: "Call (203) 846-3424"
       url: "tel:+12038463424"
