@@ -213,6 +213,29 @@ document.addEventListener('DOMContentLoaded', function(){
 });
 window.addEventListener('load', function(){ buildServicesDropdown(); markTopLevelCurrent(); });
 </script>
+<script>
+// Glass masthead: subtle scrolled-state tint and ARIA sync for greedy toggle
+(function(){
+  var mast = document.querySelector('.masthead');
+  function onScroll(){ if (!mast) return; if (window.scrollY > 16) mast.classList.add('is-scrolled'); else mast.classList.remove('is-scrolled'); }
+  onScroll(); window.addEventListener('scroll', onScroll, { passive: true });
+
+  // Sync aria-expanded with Minimal Mistakes' greedy toggle behavior
+  var toggle = document.querySelector('.greedy-nav__toggle');
+  var panel = document.querySelector('.greedy-nav .hidden-links');
+  if (toggle) {
+    toggle.setAttribute('aria-label','Toggle menu');
+    toggle.setAttribute('aria-expanded','false');
+    var updateAria = function(){
+      var open = panel && !panel.classList.contains('hidden');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.classList.toggle('close', !!open);
+    };
+    toggle.addEventListener('click', function(){ setTimeout(updateAria, 0); });
+    document.addEventListener('click', function(){ setTimeout(updateAria, 0); });
+  }
+})();
+</script>
 {% if page.url == '/contact/' %}
   <link rel="preconnect" href="https://formspree.io" crossorigin>
   <link rel="preconnect" href="https://www.google.com" crossorigin>
