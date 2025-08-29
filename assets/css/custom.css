@@ -1,11 +1,49 @@
-/***** Find Us & Hours layout *****/
-/* Component variables */
+/* ======================================
+   Design Tokens
+   - Color, spacing, radii, shadows
+   - Keep mobile‑first; prefer rem/clamp()
+   ====================================== */
 :root {
+  /* Brand palette */
+  --color-primary: #0f4c5c;        /* main brand */
+  --color-primary-700: #0c3e4b;    /* darker for hovers */
+  --color-secondary: #1f7a8c;      /* complementary accent */
+  --color-accent: #2a9d8f;         /* focus accents, subtle highlights */
+
+  /* Text & surfaces */
+  --color-text: #1f2937;           /* slate 800 */
+  --color-text-light: #475569;     /* slate 600 */
+  --color-border: #d5dde5;         /* light gray-blue border */
+  --color-bg-light: #f7fafc;       /* light surface */
+  --color-bg-lighter: #fbfdfe;     /* lighter surface */
+
+  /* States */
+  --color-success: #065f46;
+  --color-success-bg: #ecfdf5;
+  --color-danger: #991b1b;
+  --color-danger-bg: #fef2f2;
+
+  /* Shadows & radii */
   --shadow-sm: 0 1px 2px rgba(15, 76, 92, 0.05);
   --shadow-md: 0 2px 4px rgba(15, 76, 92, 0.08);
   --radius-sm: 6px;
   --radius-md: 8px;
+
+  /* Spacing scale */
+  --space-1: 0.25rem;  /* 4px */
+  --space-2: 0.5rem;   /* 8px */
+  --space-3: 0.75rem;  /* 12px */
+  --space-4: 1rem;     /* 16px */
+  --space-6: 1.5rem;   /* 24px */
+  --space-8: 2rem;     /* 32px */
 }
+
+/* Hide prev/next pagination on single layouts (kept local here for convenience) */
+.layout--single nav.pagination { display: none !important; }
+
+/* ======================================
+   Find Us & Hours layout
+   ====================================== */
 
 /* Hide prev/next pagination on single layouts */
 .layout--single nav.pagination { display: none !important; }
@@ -567,6 +605,32 @@
 }
 .greedy-nav .submenu a:hover { background: var(--color-bg-light); color: var(--color-primary); }
 
+/* Keyboard focus states */
+.greedy-nav a:focus-visible,
+.greedy-nav .submenu a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Active trail and current item highlighting */
+.greedy-nav .has-submenu.is-active-trail > a,
+.greedy-nav .visible-links > li > a[aria-current="page"],
+.greedy-nav .hidden-links > li > a[aria-current="page"] {
+  color: var(--color-primary);
+  font-weight: 700;
+}
+.greedy-nav .submenu a[aria-current="page"] {
+  color: var(--color-primary);
+  background: var(--color-bg-light);
+  position: relative;
+}
+.greedy-nav .submenu a[aria-current="page"]::before {
+  content: "";
+  position: absolute; left: 8px; top: 50%; transform: translateY(-50%);
+  width: 4px; height: 4px; border-radius: 50%; background: var(--color-primary);
+}
+
 /* Open submenu on hover, focus, or JS toggle */
 .greedy-nav .has-submenu:hover > .submenu,
 .greedy-nav .has-submenu.submenu-open > .submenu {
@@ -617,8 +681,33 @@
      0 1px 2px rgba(0,0,0,.35),
      0 3px 10px rgba(0,0,0,.22);
    /* Very light stroke (helps on bright areas without haloing) */
-   -webkit-text-stroke: 0.4px rgba(0,0,0,.5);
- }
+  -webkit-text-stroke: 0.4px rgba(0,0,0,.5);
+}
+
+/* ======================================
+   Utilities
+   - Spacing helpers for quick tweaks
+   ====================================== */
+.mt-1 { margin-top: var(--space-1) !important; }
+.mt-2 { margin-top: var(--space-2) !important; }
+.mt-3 { margin-top: var(--space-3) !important; }
+.mt-4 { margin-top: var(--space-4) !important; }
+.mb-1 { margin-bottom: var(--space-1) !important; }
+.mb-2 { margin-bottom: var(--space-2) !important; }
+.mb-3 { margin-bottom: var(--space-3) !important; }
+.mb-4 { margin-bottom: var(--space-4) !important; }
+.pt-1 { padding-top: var(--space-1) !important; }
+.pt-2 { padding-top: var(--space-2) !important; }
+.pt-3 { padding-top: var(--space-3) !important; }
+.pt-4 { padding-top: var(--space-4) !important; }
+.pb-1 { padding-bottom: var(--space-1) !important; }
+.pb-2 { padding-bottom: var(--space-2) !important; }
+.pb-3 { padding-bottom: var(--space-3) !important; }
+.pb-4 { padding-bottom: var(--space-4) !important; }
+.px-2 { padding-left: var(--space-2) !important; padding-right: var(--space-2) !important; }
+.px-4 { padding-left: var(--space-4) !important; padding-right: var(--space-4) !important; }
+.py-2 { padding-top: var(--space-2) !important; padding-bottom: var(--space-2) !important; }
+.py-4 { padding-top: var(--space-4) !important; padding-bottom: var(--space-4) !important; }
 
 @media (max-width: 600px) {
   .page__hero--overlay .page__title,

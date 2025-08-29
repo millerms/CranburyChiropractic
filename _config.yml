@@ -63,6 +63,32 @@ keywords:
   - Family Chiropractic
   - Wellness
 
+# LocalBusiness / Organization schema (used by _includes/head/custom.html)
+# Fill or adjust these fields to emit JSON-LD in <head>.
+business:
+  name: "Cranbury Chiropractic"
+  legalName: "Cranbury Chiropractic Center, LLC"
+  phone: "+1-203-846-3424"
+  # TODO: replace with your preferred public inbox
+  email: "contact@replace-me.example"
+  logo: "/assets/icons/cranbury-mark.svg"
+  image: "/assets/images/office.jpg"
+  sameAs:
+    - "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
+    - "https://www.zocdoc.com/doctor/paul-l-miller-dc-136069"
+    - "https://www.google.com/maps/place/488+Main+Ave,+Norwalk,+CT+06851"
+  address:
+    streetAddress: "488 Main Ave."
+    addressLocality: "Norwalk"
+    addressRegion: "CT"
+    postalCode: "06851"
+    addressCountry: "US"
+  openingHours:
+    - "Mo 08:00-13:00,15:00-18:00"
+    - "We 08:00-13:00,15:00-18:00"
+    - "Fr 08:00-13:00,15:00-18:00"
+    - "Sa 08:00-11:00"
+
 # Reading Files
 include:
   - .htaccess

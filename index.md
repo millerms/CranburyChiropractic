@@ -9,6 +9,8 @@ header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.45"
   overlay_image: "/assets/images/biking-italy.webp"
+  preload: true
+  fetchpriority: high
   actions:
     - label: "Book on Zocdoc"
       url: "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
@@ -72,7 +74,7 @@ feature_row:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — care tailored to you. Whether you’re here for back, neck, or joint pain, we use a neurologic approach across everything we do: precise adjustments, simple targeted drills, and modern tools (class III cold laser and shockwave) so progress lasts and you can get back to what you love.
+Welcome to Cranbury Chiropractic — care tailored to you. If you’re dealing with **back, neck, joint, or balance concerns**, we use a neurologic approach in everything we do: precise adjustments, simple targeted drills, and modern tools (Class III cold laser and shockwave) so changes stick and you can move confidently, sleep better, and get back to work or sport.
 </div>
 
 

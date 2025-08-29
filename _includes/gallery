@@ -22,10 +22,12 @@
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title | escape_once }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
+               loading="lazy" decoding="async"
                alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
+           loading="lazy" decoding="async"
            alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
     {% endif %}
   {% endfor %}

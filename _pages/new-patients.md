@@ -26,6 +26,14 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 - **Parking:** Free parking is available in front of the building and along the street.
 {: .reveal .reveal--up }
 
+### Quick tips
+{: .reveal .reveal--up }
+- **What to wear:** Comfortable clothing that lets you move (e.g., shorts/leggings for lower-body checks, a t‑shirt or tank for shoulder checks).
+- **Timing:** First visits are typically **45–60 minutes**; follow‑ups are shorter.
+- **Insurance snapshot:** See [Insurance & Pricing]({{ '/insurance/' | relative_url }}) for current networks and how benefits work.
+- **Hours:** See [Contact]({{ '/contact/' | relative_url }}) for our current office hours and map.
+{: .reveal .reveal--up }
+
 ---
 
 ## What to Expect on Your First Visit

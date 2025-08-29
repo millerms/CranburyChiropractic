@@ -45,6 +45,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Targeted drills plus adjustments/exercise so changes stick.</li>
       <li>Great for recurring aches, coordination/timing issues, and anything that “doesn’t feel normal yet.”</li>
     </ul>
+    <em>See this if:</em> you’ve had lingering issues that improve then slip back, or if balance/coordination is a theme.
   </li>
 
   <li class="reveal reveal--up">
@@ -54,6 +55,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Includes a computerized <i>balance tracker</i> with a risk-of-fall score you can see.</li>
       <li>Simple progressions: gaze drills, head/eye work, stance progressions, foot/ankle work.</li>
     </ul>
+    <em>See this if:</em> you feel unsteady, have a history of falls, or want to improve stability for daily life or sport.
   </li>
 
   <li class="reveal reveal--up">
@@ -63,6 +65,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Paired with activation/mobility or soft-tissue work when helpful.</li>
       <li>Aim: smoother motion, better control, and comfort in real-world tasks.</li>
     </ul>
+    <em>See this if:</em> a joint feels “stuck,” motion is limited, or daily tasks hurt (turning, reaching, bending).
   </li>
 
   <li class="reveal reveal--up">
@@ -72,6 +75,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Non‑thermal; most feel little to no heat. Sessions typically 5–15 minutes with protective eyewear.</li>
       <li>Used alongside adjustments and exercise as part of a right‑sized plan.</li>
     </ul>
+    <em>See this if:</em> irritated tissues won’t settle down and you want a gentle, non‑drug option alongside active care.
   </li>
 
   <li class="reveal reveal--up">
@@ -81,6 +85,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Typically a short series (e.g., 3–6 sessions), intensity adjusted to comfort.</li>
       <li>Pairs well with an active plan so gains last.</li>
     </ul>
+    <em>See this if:</em> a tendon or fascia problem isn’t responding to rest/exercise and you want to try a non‑invasive option.
   </li>
   <li class="reveal reveal--up">
     <a href="{{ '/services/diversified-technique/' | relative_url }}"><strong>Diversified Technique</strong></a><br>
@@ -89,6 +94,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
       <li>Precise adjustments—not one‑size‑fits‑all—to restore motion in specific joints.</li>
       <li>Gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement.</li>
     </ul>
+    <em>See this if:</em> you prefer a traditional, hands‑on chiropractic approach tailored to your specific joints.
   </li>
 </ul>
 

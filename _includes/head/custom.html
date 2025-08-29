@@ -44,6 +44,7 @@ function buildServicesDropdown() {
   // Build submenu (skip the index/"All Services")
   var ul = document.createElement('ul');
   ul.className = 'submenu services-submenu';
+  ul.setAttribute('role', 'menu');
   (window.SERVICES_MENU || []).forEach(function (item) {
     if (!item || !item.url || !item.title) return;
     var isIndex = /\/services\/?$/i.test(item.url) || /all services/i.test(item.title);
@@ -52,12 +53,17 @@ function buildServicesDropdown() {
     var a2 = document.createElement('a');
     a2.href = BASEURL + item.url; // prefix baseurl for GitHub Pages project sites
     a2.textContent = item.title;
+    a2.setAttribute('role', 'menuitem');
+    a2.setAttribute('tabindex', '-1');
     li2.appendChild(a2);
     ul.appendChild(li2);
   });
 
   if (!ul.children.length) return;
 
+  // Give submenu a stable ID for aria-controls
+  var submenuId = 'submenu-services';
+  ul.id = submenuId;
   targetLi.appendChild(ul);
   targetLi.classList.remove('submenu-open');
 
@@ -69,6 +75,7 @@ function buildServicesDropdown() {
   var trigger = targetLi.querySelector('a');
   trigger.setAttribute('aria-haspopup', 'true');
   trigger.setAttribute('aria-expanded', 'false');
+  trigger.setAttribute('aria-controls', submenuId);
 
   function openMenu(){ targetLi.classList.add('submenu-open'); trigger.setAttribute('aria-expanded','true'); }
   function closeMenu(){ targetLi.classList.remove('submenu-open'); trigger.setAttribute('aria-expanded','false'); }
@@ -100,6 +107,7 @@ function buildServicesDropdown() {
 
   // Keyboard support: Space/Enter toggles when closed; navigates when open; Esc closes
   trigger.addEventListener('keydown', function (e) {
+    var items = Array.from(ul.querySelectorAll('a[role="menuitem"]'));
     if (e.key === ' ' || e.key === 'Enter') {
       e.preventDefault();
       if (!targetLi.classList.contains('submenu-open')) {
@@ -110,6 +118,41 @@ function buildServicesDropdown() {
     } else if (e.key === 'Escape') {
       closeMenu();
       trigger.focus();
+    } else if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (!targetLi.classList.contains('submenu-open')) openMenu();
+      if (items.length) items[0].focus();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (!targetLi.classList.contains('submenu-open')) openMenu();
+      if (items.length) items[items.length - 1].focus();
+    }
+  });
+
+  // Keyboard navigation within submenu
+  ul.addEventListener('keydown', function(e){
+    var items = Array.from(ul.querySelectorAll('a[role="menuitem"]'));
+    var currentIndex = items.indexOf(document.activeElement);
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      closeMenu();
+      trigger.focus();
+      return;
+    }
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      var next = (currentIndex + 1) % items.length;
+      items[next].focus();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      var prev = (currentIndex - 1 + items.length) % items.length;
+      items[prev].focus();
+    } else if (e.key === 'Home') {
+      e.preventDefault();
+      if (items.length) items[0].focus();
+    } else if (e.key === 'End') {
+      e.preventDefault();
+      if (items.length) items[items.length - 1].focus();
     }
   });
 
@@ -122,16 +165,145 @@ function buildServicesDropdown() {
   }, { passive: true });
 
   window.addEventListener('resize', function(){ targetLi.classList.remove('submenu-open'); });
+
+  // Active state: mark current page and active trail
+  try {
+    var current = window.location.pathname.replace(BASEURL, '');
+    var anyMatch = false;
+    ul.querySelectorAll('a').forEach(function(a){
+      var href = a.getAttribute('href') || '';
+      var path = href.replace(window.location.origin, '').replace(BASEURL, '');
+      if (current === path) {
+        a.setAttribute('aria-current', 'page');
+        anyMatch = true;
+      }
+    });
+    // If on Services parent page or a child, mark trail
+    if (/^\/services\//.test(current) || current === '/services/') {
+      targetLi.classList.add('is-active-trail');
+      // Also mark parent link current when exactly on /services/
+      if (current === '/services/') trigger.setAttribute('aria-current', 'page');
+    }
+  } catch(_) {}
+}
+
+// Mark aria-current on top-level nav items (outside Services) for exact path matches
+function markTopLevelCurrent(){
+  try {
+    var base = BASEURL || '';
+    var current = window.location.pathname.replace(base, '') || '/';
+    var anchors = document.querySelectorAll('.greedy-nav .visible-links > li > a, .greedy-nav .hidden-links > li > a');
+    anchors.forEach(function(a){
+      var href = (a.getAttribute('href') || '').replace(window.location.origin, '');
+      var path = href.replace(base, '') || '/';
+      // Normalize trailing slash
+      if (path.length > 1) path = path.replace(/\/$/, '/');
+      if (current.length > 1) current = current.replace(/\/$/, '/');
+      if (path === current) a.setAttribute('aria-current','page');
+    });
+  } catch(_) {}
 }
 
 // Run after DOM and again after window load (in case the nav compacts/expands)
 document.addEventListener('DOMContentLoaded', function(){
   buildServicesDropdown();
+  markTopLevelCurrent();
   // Retry once after layout settles
-  setTimeout(buildServicesDropdown, 0);
+  setTimeout(function(){ buildServicesDropdown(); markTopLevelCurrent(); }, 0);
 });
-window.addEventListener('load', buildServicesDropdown);
+window.addEventListener('load', function(){ buildServicesDropdown(); markTopLevelCurrent(); });
 </script>
+{% if page.url == '/contact/' %}
+  <link rel="preconnect" href="https://formspree.io" crossorigin>
+  <link rel="preconnect" href="https://www.google.com" crossorigin>
+  <link rel="preconnect" href="https://maps.gstatic.com" crossorigin>
+{% endif %}
+{% comment %}
+  Optional hero preload: enable per page with:
+  header:
+    overlay_image: /assets/images/hero.webp  # or image: ... for non-overlay
+    preload: true
+    fetchpriority: high
+{% endcomment %}
+{% if page.header and page.header.preload %}
+  {% assign hero_src = page.header.overlay_image | default: page.header.image %}
+  {% if hero_src %}
+    <link rel="preload" as="image" href="{{ hero_src | relative_url }}">
+  {% endif %}
+{% endif %}
+
+{% comment %}
+  JSON-LD: Organization + LocalBusiness (Chiropractor)
+  - Configure in _config.yml under `business` to enable.
+  Example:
+  business:
+    name: "Cranbury Chiropractic"
+    legalName: "Cranbury Chiropractic Center, LLC"
+    phone: "+1-203-846-3424"
+    email: "frontdesk@example.com"
+    logo: "/assets/icons/cranbury-mark.svg"
+    image: "/assets/images/office.jpg"
+    sameAs:
+      - "https://www.zocdoc.com/practice/..."
+      - "https://maps.google.com/?cid=..."
+    address:
+      streetAddress: "123 Main St Suite 200"
+      addressLocality: "Norwalk"
+      addressRegion: "CT"
+      postalCode: "06851"
+      addressCountry: "US"
+    openingHours:
+      - "Mo,Tu,Th 09:00-17:00"
+      - "We 10:00-19:00"
+      - "Fr 09:00-13:00"
+{% endcomment %}
+{% if site.business %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ site.url | append: site.baseurl }}/#business",
+  "name": {{ site.business.name | jsonify }},
+  {% if site.business.legalName %}"legalName": {{ site.business.legalName | jsonify }}, {% endif %}
+  "url": "{{ site.url | append: site.baseurl }}/",
+  {% if site.business.logo %}"logo": "{{ site.business.logo | relative_url | prepend: site.url }}",{% endif %}
+  {% if site.business.image %}"image": ["{{ site.business.image | relative_url | prepend: site.url }}"],{% endif %}
+  {% if site.business.phone %}"telephone": {{ site.business.phone | jsonify }},{% endif %}
+  {% if site.business.email %}"email": {{ site.business.email | jsonify }},{% endif %}
+  {% if site.business.sameAs %}"sameAs": {{ site.business.sameAs | jsonify }},{% endif %}
+  {% if site.business.address %}
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ site.business.address.streetAddress | jsonify }},
+    "addressLocality": {{ site.business.address.addressLocality | jsonify }},
+    "addressRegion": {{ site.business.address.addressRegion | jsonify }},
+    "postalCode": {{ site.business.address.postalCode | jsonify }},
+    "addressCountry": {{ site.business.address.addressCountry | jsonify }}
+  },
+  {% endif %}
+  {% if site.business.openingHours %}"openingHours": {{ site.business.openingHours | jsonify }},{% endif %}
+  "priceRange": "$"
+}
+</script>
+{% endif %}
+
+{% comment %}
+  Breadcrumbs JSON-LD for Services subpages
+{% endcomment %}
+{% assign abs_base = site.url | append: site.baseurl %}
+{% if page.url and page.url contains '/services/' and page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ abs_base }}/"},
+    {"@type": "ListItem", "position": 2, "name": "Services", "item": "{{ abs_base }}/services/"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ abs_base }}{{ page.url }}"}
+  ]
+}
+</script>
+{% endif %}
 <script>
 // Scroll reveal (IntersectionObserver) – adds .is-revealed when elements enter viewport
 (function(){
@@ -165,7 +337,7 @@ window.addEventListener('load', buildServicesDropdown);
   }
 
   function initObserver(){
-    if (prefersReduced) {
+    if (prefersReduced || !("IntersectionObserver" in window)) {
       document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('is-revealed'); });
       return;
     }

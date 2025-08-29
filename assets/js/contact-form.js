@@ -16,7 +16,21 @@
   function setErr(el, msg){
     if (!el) return;
     var err = el.parentNode.querySelector('.error');
-    if (!err){ err = document.createElement('div'); err.className='error'; el.parentNode.appendChild(err); }
+    if (!err){
+      err = document.createElement('div');
+      err.className='error';
+      // assistive tech announcement and association
+      err.setAttribute('aria-live','polite');
+      var id = el.id ? el.id + "-error" : ('err-' + Math.random().toString(36).slice(2));
+      err.id = id;
+      // link field to error text
+      var describedby = (el.getAttribute('aria-describedby')||'').split(' ').filter(Boolean);
+      if (describedby.indexOf(id) === -1) {
+        describedby.push(id);
+        el.setAttribute('aria-describedby', describedby.join(' '));
+      }
+      el.parentNode.appendChild(err);
+    }
     err.textContent = msg || '';
     el.setAttribute('aria-invalid', msg ? 'true' : 'false');
   }
@@ -27,10 +41,13 @@
     if (!existing){
       existing = document.createElement('div');
       existing.className = 'form-status';
+      existing.setAttribute('role', kind === 'ok' ? 'status' : 'alert');
+      existing.setAttribute('aria-live', 'polite');
       form.parentNode.insertBefore(existing, form);
     }
     existing.className = 'form-status ' + (kind === 'ok' ? 'form-status--ok' : 'form-status--err');
     existing.textContent = text;
+    existing.hidden = false;
   }
 
   // Phone helpers
@@ -55,6 +72,8 @@
   function validate(){
     var ok = true;
     var prefs = prefBoxes();
+    var emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    var phone10 = /^(?:\(?(\d{3})\)?[\s.-]?)?(\d{3})[\s.-]?(\d{4})$/; // US/Canada 10 digits, area code optional
 
     // Reset errors
     [name, email, phone, message].forEach(function(el){ if (el) setErr(el, ''); });
@@ -63,14 +82,20 @@
     if (!message || !message.value.trim()){ setErr(message, 'Please include a brief message.'); ok=false; }
 
     // Preference-driven requirements
-    if (prefs.indexOf('email') > -1 && (!email || !email.value.trim())){ setErr(email, 'Please include your email.'); ok=false; }
-    if (prefs.indexOf('phone') > -1 && (!phone || !digitsOnly(phone.value))){ setErr(phone, 'Please include your phone.'); ok=false; }
+    if (prefs.indexOf('email') > -1){
+      if (!email || !email.value.trim()) { setErr(email, 'Please include your email.'); ok=false; }
+      else if (!emailRe.test(email.value.trim())) { setErr(email, 'Please enter a valid email address.'); ok=false; }
+    }
+    if (prefs.indexOf('phone') > -1){
+      if (!phone || !digitsOnly(phone.value)) { setErr(phone, 'Please include your phone.'); ok=false; }
+      else if (!phone10.test(phone.value.trim())) { setErr(phone, 'Please enter a valid 10‑digit phone number.'); ok=false; }
+    }
 
     // If no preference chosen, require at least one contact method
     if (!prefs.length){
-      var hasEmail = email && email.value.trim();
-      var hasPhone = phone && digitsOnly(phone.value);
-      if (!hasEmail && !hasPhone){ setErr(email || phone, 'Please add email or phone.'); ok=false; }
+      var hasEmail = email && email.value.trim() && emailRe.test(email.value.trim());
+      var hasPhone = phone && digitsOnly(phone.value) && phone10.test(phone.value.trim());
+      if (!hasEmail && !hasPhone){ setErr(email || phone, 'Please add a valid email or phone.'); ok=false; }
     }
 
     return ok;

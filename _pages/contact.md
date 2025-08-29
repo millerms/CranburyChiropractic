@@ -21,6 +21,7 @@ classes: wide hero-contact
 {: .reveal .reveal--up }
 
 
+<div id="form-status" class="form-status" aria-live="polite" role="status" hidden></div>
 <form id="contact-form" class="contact-form reveal reveal--up" action="https://formspree.io/f/xzzabznp" method="POST" novalidate>
   <div class="form-grid">
     <div class="form-field">
@@ -30,12 +31,18 @@ classes: wide hero-contact
 
     <div class="form-field">
       <label for="email">Email</label>
-      <input type="email" id="email" name="_replyto" autocomplete="email" placeholder="you@example.com">
+      <input type="email" id="email" name="_replyto" autocomplete="email" inputmode="email"
+             pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" aria-describedby="email-help"
+             placeholder="you@example.com">
+      <div class="help" id="email-help">We’ll only use this to reply.</div>
     </div>
 
     <div class="form-field">
       <label for="phone">Phone</label>
-      <input type="tel" id="phone" name="phone" autocomplete="tel" inputmode="tel" placeholder="(203) 846-3424">
+      <input type="tel" id="phone" name="phone" autocomplete="tel" inputmode="tel"
+             pattern="^(?:\(?\d{3}\)?[\s.-]?)?\d{3}[\s.-]?\d{4}$" aria-describedby="phone-help"
+             placeholder="(203) 846-3424">
+      <div class="help" id="phone-help">Digits only; we’ll format as you type.</div>
     </div>
 
     <div class="form-field full">
@@ -82,6 +89,7 @@ classes: wide hero-contact
           style="border:0;" 
           allowfullscreen="" 
           loading="lazy" 
+          title="Map to Cranbury Chiropractic Center in Norwalk, CT"
           referrerpolicy="no-referrer-when-downgrade">
       </iframe>
     </div>
