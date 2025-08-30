@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-### Overview
+## Overview
 Diversified is a precise, hands‑on adjustment method. We position you comfortably, take slack out of a specific joint, and deliver a quick, controlled thrust to restore motion and reduce irritation. It can be used for the **spine** and, when appropriate, for **extremity joints** like the ankle, knee, shoulder, or wrist. Some people hear a brief pop—that’s just gas releasing inside the joint, not bones grinding.
 {: .reveal .reveal--fade }
 

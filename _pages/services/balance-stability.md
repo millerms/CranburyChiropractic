@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-### Overview
+## Overview
 Feeling steady is a skill your nervous system learns and keeps. We look at three systems that drive balance:
 {: .reveal .reveal--fade }
 

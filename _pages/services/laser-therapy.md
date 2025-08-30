@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-### Overview
+## Overview
 Class III (low‑level, “cold”) laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it may help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually doesn’t feel hot.
 {: .reveal .reveal--fade }
 

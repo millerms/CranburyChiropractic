@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-### Overview
+## Overview
 Chiropractic care isn’t just for the spine. Joints in the **ankles, knees, hips, shoulders, elbows, and wrists** can limit movement and change how you feel. We assess the whole system and, when appropriate, use precise, hands-on adjustments for both spine **and** extremities.
 {: .reveal .reveal--fade }
 

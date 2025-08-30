@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-### Overview
+## Overview
 Your nervous system is the “operating system” for movement, comfort, and control. When the brain receives **clear input** (from eyes, inner ear, and joints/muscles) and sends **coordinated output** (timing, strength, and stability), you move well and feel confident. When signals are **noisy**—after injury, stress, illness, or just lack of practice—your body compensates. That can show up as stiffness, recurring strains, fatigue with simple tasks, or trouble coordinating movement.
 {: .reveal .reveal--fade }
 
