@@ -19,6 +19,10 @@ Diversified is a precise, hands‑on adjustment method. We position you comforta
 - After an injury **once it’s safe** to do so, to help restore normal motion
 {: .reveal .reveal--up }
 
+### About our adjusting style
+We often choose Diversified adjustments when precise, joint-specific motion is the key goal. Diversified is a widely used, hands-on technique—not one-size-fits-all. Under the hood, joints are rich in mechanoreceptors that signal your brain about position and motion; restoring clear input often improves coordination and comfort.
+{: .reveal .reveal--up }
+
 ### When we choose something else
 - You prefer to avoid thrust adjustments—totally fine
 - There’s a medical reason to avoid them
