@@ -242,16 +242,12 @@ window.addEventListener('load', function(){ buildServicesDropdown(); markTopLeve
   <link rel="preconnect" href="https://maps.gstatic.com" crossorigin>
 {% endif %}
 {% comment %}
-  Optional hero preload: enable per page with:
-  header:
-    overlay_image: /assets/images/hero.webp  # or image: ... for non-overlay
-    preload: true
-    fetchpriority: high
+  Hero preload: preload only when fetchpriority="high" to avoid blocking LCP for non-critical images.
 {% endcomment %}
-{% if page.header and page.header.preload %}
+{% if page.header.fetchpriority == 'high' %}
   {% assign hero_src = page.header.overlay_image | default: page.header.image %}
   {% if hero_src %}
-    <link rel="preload" as="image" href="{{ hero_src | relative_url }}">
+    <link rel="preload" as="image" href="{{ hero_src | relative_url }}" fetchpriority="high">
   {% endif %}
 {% endif %}
 

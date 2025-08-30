@@ -45,11 +45,14 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ page.header.image | relative_url }}"
-         alt="{{ image_description }}" class="page__hero-image"
-         {% if page.header.fetchpriority %}fetchpriority="{{ page.header.fetchpriority }}"{% endif %}
-         {% if page.header.image_width %}width="{{ page.header.image_width }}"{% endif %}
-         {% if page.header.image_height %}height="{{ page.header.image_height }}"{% endif %}>
+    <picture>
+      <source srcset="{{ page.header.image | relative_url | replace: '.jpg', '.webp' | replace: '.png', '.webp' }}" type="image/webp">
+      <img src="{{ page.header.image | relative_url }}"
+           alt="{{ image_description }}" class="page__hero-image"
+           {% if page.header.fetchpriority %}fetchpriority="{{ page.header.fetchpriority }}"{% endif %}
+           {% if page.header.image_width %}width="{{ page.header.image_width }}"{% endif %}
+           {% if page.header.image_height %}height="{{ page.header.image_height }}"{% endif %}>
+    </picture>
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

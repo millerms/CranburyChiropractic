@@ -1,0 +1,11 @@
+# Pure HTML Example
+<picture>
+  <source srcset="/assets/images/hero.webp" type="image/webp">
+  <img src="/assets/images/hero.jpg" alt="Hero image" loading="lazy">
+</picture>
+
+# With nxdp DPR using image-set() for CSS backgrounds (for interests, not hero img)
+.hero-bg { background-image: image-set( url("/assets/images/hero.webp") 1x, url("/assets/images/hero-2x.webp") 2x ); }
+
+# For hero background in CSS, assumes you have resized versions
+.hero-services { background-image: image-set( url("/assets/images/hero-small.webp") 1x, url("/assets/images/hero-large.webp") 2x ); }

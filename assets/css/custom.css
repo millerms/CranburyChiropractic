@@ -5,10 +5,10 @@
    ====================================== */
 :root {
   /* Brand palette */
-  --color-primary: #0f4c5c;        /* main brand */
-  --color-primary-700: #0c3e4b;    /* darker for hovers */
-  --color-secondary: #1f7a8c;      /* complementary accent */
-  --color-accent: #2a9d8f;         /* focus accents, subtle highlights */
+  --color-primary: #133e83;        /* main brand */
+  --color-primary-700: #0c294b;    /* darker for hovers */
+  --color-secondary: #1f558c;      /* complementary accent */
+  --color-accent: #2a699d;         /* focus accents, subtle highlights */
 
   /* Text & surfaces */
   --color-text: #1f2937;           /* slate 800 */
@@ -39,7 +39,7 @@
 
   /* Glass masthead tuning */
   /* Subtle neutral frost tint for readability */
-  --glass-tint-hsl: 220 50% 14%;
+  --glass-tint-hsl: 220 50% 16%;
   --glass-tint-hsl-submenu: 220 50% 85%;
   --glass-alpha: .18;    /* surface fill amount */
   --glass-stroke: .28;   /* border alpha */
@@ -48,12 +48,24 @@
   --radius-lg: 16px;     /* rounded menus */
 }
 
-/* Hide prev/next pagination on single layouts (kept local here for convenience) */
+/* ========================================================
+   PPE: Pagination hide on single (hide for no index)
+   ======================================================== */
 .layout--single nav.pagination { display: none !important; }
 
-/* ======================================
-   Find Us & Hours layout
-   ====================================== */
+/* ========================================================
+   CONTACT HOURS layout (consolidated from dupe sections)
+   ======================================================== */
+.page__content .contact-hours {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+  gap: var(--space-6);  /* was 2rem */
+  align-items: center;
+  justify-items: stretch;
+  margin: var(--space-6) auto;  /* tightened from 2.5rem */
+  max-width: 1200px;
+  padding: 0 var(--space-2);   /* was 0 0.25rem, still tight */
+}
 
 /* Hide prev/next pagination on single layouts */
 .layout--single nav.pagination { display: none !important; }
@@ -595,7 +607,8 @@
   /* Desktop / wide: animate dropdown */
   position: absolute; left: 0; top: 100%; z-index: 1000;
   min-width: 240px; padding: 8px 0; margin: 8px 0 0 0;
-  background: #fff; border: 1px solid var(--color-border); border-radius: 6px;
+  background: hsl(var(--glass-tint-hsl-submenu) / .92) !important; /* immediate tint to prevent white flash */
+  border: 0px solid var(--color-border); border-radius: 6px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
   /* animation state */
   opacity: 0; visibility: hidden; transform: translateY(-4px);
@@ -722,42 +735,34 @@
   gap: .75rem;
 }
 .masthead .site-title,
-.masthead .greedy-nav a { color: #112da6; text-decoration: none; -webkit-text-stroke: .3px rgba(0,0,0,.6); }
+.masthead .greedy-nav a { color: var(--color-primary, #0f4c5c); text-decoration: none; border-bottom: none; -webkit-text-stroke: .3px rgba(0,0,0,.4); }
 .masthead .site-title { font-weight: 700; }
 .masthead .greedy-nav a { font-weight: 600; letter-spacing: .2px; }
 .masthead .greedy-nav a:hover,
 .masthead .greedy-nav a:focus {
-  text-decoration: none; border-bottom: 0; box-shadow: none;
+  text-decoration: none; border-bottom: none; box-shadow: none;
 }
 
-/* Consistent green hover underline for greedy nav (single, no double) */
-.masthead .greedy-nav a { position: relative; }
-.masthead .greedy-nav a::after {
-  content: ""; position: absolute; left: 0; right: 0; bottom: -2px;
-  height: 2px; background: var(--color-primary); border-radius: 1px;
-  transform: scaleX(0); transform-origin: left; transition: transform .18s ease;
-}
-.masthead .greedy-nav a:hover::after,
-.masthead .greedy-nav a:focus::after { transform: scaleX(1); }
+/* No animated underline on masthead links */
 
 /* Greedy toggle button polish */
 .masthead .greedy-nav__toggle {
   width: 42px; height: 42px; border-radius: 50%;
-  border: 1px solid hsl(var(--glass-tint-hsl) / .20);
-  background-color: hsl(var(--glass-tint-hsl) / .10);
+  border: none;
+  background-color: hsl(var(--glass-tint-hsl) / .40);
   color: #fff; cursor: pointer;
   -webkit-backdrop-filter: blur(8px) saturate(120%);
   backdrop-filter: blur(8px) saturate(120%);
   -webkit-appearance: none; appearance: none; background-clip: padding-box;
 }
 .masthead .greedy-nav__toggle:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
-/* Remove any white fill on active/open */
+/* Remove any white fill on active/open - match base tint */
 .masthead .greedy-nav__toggle:hover,
 .masthead .greedy-nav__toggle:focus,
 .masthead .greedy-nav__toggle:active,
 .masthead .greedy-nav__toggle.close,
 .masthead .greedy-nav__toggle[aria-expanded="true"] {
-  background-color: hsl(var(--glass-tint-hsl) / .10) !important;
+  background-color: hsl(var(--glass-tint-hsl) / .01) !important;
   border-color: hsl(var(--glass-tint-hsl) / .28) !important;
   box-shadow: none !important;
 }
@@ -791,8 +796,8 @@
 
 /* Hidden links panel as frosted dropdown when visible */
 .masthead .greedy-nav { position: relative; }
-/* Default: no solid background (prevent white box) */
-.masthead .greedy-nav .hidden-links { background: transparent !important; box-shadow: none; border: 0; }
+/* Default: immediate tinted background (prevent white box flash) */
+.masthead .greedy-nav .hidden-links { background: hsl(var(--glass-tint-hsl-submenu) / .40) !important; box-shadow: none; border: 0; }
 /* When open, show frosted panel */
 .masthead .greedy-nav .hidden-links:not(.hidden) {
   position: absolute; top: calc(100% + 8px); right: .75rem; display: flex; flex-direction: column;
@@ -843,6 +848,23 @@
 }
 .masthead .greedy-nav .submenu a:hover::after,
 .masthead .greedy-nav .submenu a:focus::after { transform: scaleX(1); }
+
+/* Prevent double underline when submenu renders inside hidden-links (mobile)
+   Keep only the submenu's animated underline, disable the hidden-links one */
+.masthead .greedy-nav .hidden-links:not(.hidden) .submenu a::after {
+  content: none !important;
+}
+
+/* Ensure no static border underlines are applied to submenu links */
+.masthead .greedy-nav .submenu a {
+  border-bottom: 0 !important;
+}
+
+/* Remove thinner, inner animated underline for submenu items
+   Keep the main visible-links underline effect instead */
+.masthead .greedy-nav .submenu a::after {
+  content: none !important;
+}
 
 /* Mobile layout: rely on theme behavior but ensure visibility */
 @media (max-width: 900px) {
@@ -1317,4 +1339,31 @@ footer nav a:hover, footer nav a:focus { text-decoration: underline; }
   #treat-conditions details > summary {
     padding-right: 2.25rem;
   }
+}
+
+/* ============================
+   Greedy Nav toggle overrides
+   - Remove gray idle background
+   - Prevent white overlay flash
+   ============================ */
+/* Make the hamburger button fully transparent at rest */
+.masthead .greedy-nav__toggle {
+  background-color: transparent !important;
+}
+
+/* Keep hover/active subtle if desired (optional) */
+.masthead .greedy-nav__toggle:hover,
+.masthead .greedy-nav__toggle:focus,
+.masthead .greedy-nav__toggle:active,
+.masthead .greedy-nav__toggle.close,
+.masthead .greedy-nav__toggle[aria-expanded="true"] {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Neutralize the theme's full-viewport overlay to avoid white flash
+   while preserving outside-click behavior (still captures clicks) */
+.greedy-nav__toggle::before,
+.greedy-nav__toggle.close::before {
+  background-color: transparent !important;
 }
