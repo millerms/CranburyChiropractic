@@ -143,6 +143,9 @@ The goal is steady, meaningful change so you can move confidently, sleep better,
 **Track:** We recheck simple measures (range, function, steadiness) to confirm what’s helping and adjust as you go.
 {: .reveal .reveal--up }
 
+**Referral:** If chiropractic isn’t the right fit after your initial evaluation, we’ll connect you with the appropriate provider.
+{: .reveal .reveal--up }
+
 ## Location & Hours
 {: .reveal .reveal--up }
 <div class="reveal reveal--up">
