@@ -31,7 +31,7 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 - **What to wear:** Comfortable clothing that lets you move (e.g., shorts/leggings for lower-body checks, a t‑shirt or tank for shoulder checks).
 - **Timing:** First visits are typically **45–60 minutes**; follow‑ups are shorter.
 - **Insurance snapshot:** See [Insurance & Pricing]({{ '/insurance/' | relative_url }}) for current networks and how benefits work.
-- **Hours:** See [Contact]({{ '/contact/' | relative_url }}) for our current office hours and map.
+- **Hours:** Mon/Wed/Fri 8:00–1:00 & 3:00–6:00; Sat 8:00–11:00.
 {: .reveal .reveal--up }
 
 ---
@@ -46,7 +46,7 @@ We start by finding your **limiter**—the thing most likely holding back your m
 2. **Targeted screen** — Short checks to see where to focus: balance, range of motion, control, or tissue irritability.  
 3. **Exam** — Based on what we find, we’ll use the most relevant tests (see examples below).  
 4. **Plain‑language summary** — What we think is going on and why.  
-5. **First treatment (when appropriate)** — Usually a combination of precise adjustments, soft‑tissue work, and simple drills. Tools like **Class III cold laser** or **shockwave (ESWT)** may be used when they’re a good fit.  
+5. **First treatment (when appropriate)** — Usually a combination of precise adjustments, soft‑tissue work, and simple exercises. Tools like **Class III cold laser** or **shockwave (ESWT)** may be used when they’re a good fit.  
 6. **Home plan** — Brief “micro‑sets” you can actually fit into your day.  
 7. **Next steps** — How often to check in and what progress should look like.
 {: .reveal .reveal--up }
@@ -138,7 +138,7 @@ Follow‑ups are typically shorter than the first visit. We recheck key measures
   <details class="reveal reveal--up">
     <summary>What if I prefer not to be adjusted?</summary>
     <div class="faq__content">
-      That’s okay. We have effective alternatives like targeted drills, soft‑tissue work, isometrics, and Class III cold laser. We’ll match care to your preferences.
+      That’s okay. We have effective alternatives like targeted exercises, soft‑tissue work, isometrics, and Class III cold laser. We’ll match care to your preferences.
     </div>
   </details>
 </div>
@@ -148,9 +148,6 @@ Follow‑ups are typically shorter than the first visit. We recheck key measures
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

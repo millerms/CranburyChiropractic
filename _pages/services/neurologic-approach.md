@@ -59,9 +59,9 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Screen** — short sensorimotor checks (eyes, head/eye, joint motion), coordination drills, and functional tasks  
+1. **Screen** — short sensorimotor checks (eyes, head/eye, joint motion), coordination exercises, and functional tasks  
 2. **Map the limiter** — is the bottleneck **input**, **output**, or **both**?  
-3. **Plan** — targeted drills (eye-head work, patterning, tempo/isometrics), joint work/adjustments when appropriate, and simple strength to “set” the change  
+3. **Plan** — targeted exercises (eye-head work, patterning, tempo/isometrics), joint work/adjustments when appropriate, and simple strength to “set” the change  
 4. **Right-sized homework** — brief “micro-sets” you can fit into your day  
 5. **Rechecks** — confirm changes with quick measures so you know what’s helping
 6. **Adjust as needed** — we adapt the plan based on your response and progress
@@ -88,14 +88,14 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
   <details class="reveal reveal--up">
     <summary>Do you still adjust?</summary>
     <div class="faq__content">
-      Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside drills and exercises.
+      Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside exercises and other techniques.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Is there a home plan?</summary>
     <div class="faq__content">
-      Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex drills.
+      Yes, we give you brief, clear routines that fit your schedule. No long workouts or complex exercises.
     </div>
   </details>
 
@@ -119,9 +119,6 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="/contact/" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

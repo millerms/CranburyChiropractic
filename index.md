@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical drills, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active." 
+excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
 classes: hero-home
 permalink: /
 header:
@@ -14,8 +14,6 @@ header:
   actions:
     - label: "Book on Zocdoc"
       url: "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
-    - label: "Request an Appointment"
-      url: "/contact/"
     - label: "Call (203) 846-3424"
       url: "tel:+12038463424"
   actions_class: "reveal reveal--up"
@@ -44,6 +42,18 @@ feature_row:
     url: "/services/full-spine-extremities/"
     btn_label: "See details"
     btn_class: "btn--primary"
+  - #image_path: /assets/images/feature-family.jpg
+    alt: "Balance and Posture Testing"
+    title: "Balance and Posture Testing"
+    excerpt: "Comprehensive movement, balance, and posture assessments identify subtle imbalances and risk factors. We use these insights to create personalized, accessible strategies that improve stability, prevent injury, and enhance your quality of life."
+    url: "/services/balance-stability/"
+    btn_label: "How do we test?"
+    btn_class: "btn--primary"
+  - title: "Diversified Technique"
+    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise adjustments — not one‑size‑fits‑all — to restore motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
+    url: "/services/diversified-technique/"
+    btn_label: "Learn about the technique"
+    btn_class: "btn--primary"
   - #image_path: /assets/images/feature-sport.jpg
     alt: "Cold Laser Therapy"
     title: "Cold Laser Therapy"
@@ -52,29 +62,17 @@ feature_row:
     btn_label: "How does it work?"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
-    alt: "Balance and Posture Testing"
-    title: "Balance and Posture Testing"
-    excerpt: "Comprehensive movement, balance, and posture assessments identify subtle imbalances and risk factors. We use these insights to create personalized, accessible strategies that improve stability, prevent injury, and enhance your quality of life."
-    url: "/services/balance-stability/"
-    btn_label: "How do we test?"
-    btn_class: "btn--primary"
-  - #image_path: /assets/images/feature-family.jpg
     alt: "Shockwave Therapy (ESWT)"
     title: "Shockwave Therapy (ESWT)"
     excerpt: "Shockwave therapy (extracorporeal shockwave therapy) uses acoustic waves to promote healing and reduce pain in stubborn areas. This non-invasive treatment is effective for conditions like plantar fasciitis, tendonitis, and more."
     url: "/services/shockwave-therapy-eswt/"
     btn_label: "Explore shockwave care"
     btn_class: "btn--primary"
-  - title: "Diversified Technique"
-    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise adjustments — not one‑size‑fits‑all — to restore motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
-    url: "/services/diversified-technique/"
-    btn_label: "Learn about the technique"
-    btn_class: "btn--primary"
 ---
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — care tailored to you. If you’re dealing with **back, neck, joint, or balance concerns**, we use a neurologic approach in everything we do: precise adjustments, simple targeted drills, and modern tools (Class III cold laser and shockwave) so changes stick and you can move confidently, sleep better, and get back to work or sport.
+Welcome to Cranbury Chiropractic — care tailored to you in Norwalk, CT. If you’re dealing with **lower back pain, neck pain, sciatica, headaches, or balance concerns, or other mechanical pain**, we use a neurologic approach in everything we do: precise adjustments, simple targeted exercises, and modern tools (Class III cold laser and shockwave) so changes stick and you can move confidently, sleep better, and get back to work or sport. We work with people of all ages, many patients we treat are seniors.
 </div>
 
 
@@ -128,13 +126,13 @@ Welcome to Cranbury Chiropractic — care tailored to you. If you’re dealing w
 
 ## What to Expect
 {: .reveal .reveal--up }
-**First visit:** We start with a quick screen to find your key limiter (balance, range of motion, or strength). Then we evaluate how you move and feel, looking at how different areas influence each other. We gather your history and goals to build a right-sized plan that fits your life. We use different tools to gather data, like functional tests, x-rays, or computerized balance tests, depending on your needs.
+**First visit:** We start with a thorough evaluation, including medical history and orthopedic, neurologic, and chiropractic exams, to find your key limiter (pain, balance, range of motion, or strength). We evaluate how you move and feel, looking at how different areas influence each other. We gather your goals to build a right-sized plan that fits your life. We use different tools to gather data, like functional tests, x-rays, or computerized balance tests, depending on your needs.
 {: .reveal .reveal--up }
 
-**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters.
+**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters. <em>If we conclude that chiropractic is not the right approach to treat your pain, we will refer you to a specialist to address your needs.</em> If chiropractic <strong>is</strong> the right treatment for you, you can expect noticeable improvements quickly, typically within 2 weeks.
 {: .reveal .reveal--up }
 
-**Educate:** You’ll get clear, practical homework that fits your schedule—no long workouts or complex drills. We empower you to take an active role in your care.
+**Educate:** You’ll get clear, practical protocols that fit your schedule—no long workouts or complex exercises. We empower you to take an active role in your care.
 {: .reveal .reveal--up }
 
 **Treat:** We use precise, gentle techniques; add-ons like laser or shockwave when appropriate. You’re in control—tell us your comfort level and preferences.
@@ -212,9 +210,6 @@ Welcome to Cranbury Chiropractic — care tailored to you. If you’re dealing w
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

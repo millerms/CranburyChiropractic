@@ -25,7 +25,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 - **Evaluate** — We assess your movement, comfort, and how different areas influence each other.
 - **Plan** — A right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy.
 - **Educate** — We explain each step and why it matters, so you understand how it fits your goals.
-- **Empower** — You’ll get clear, practical homework that fits your schedule—no long workouts or complex drills.
+- **Empower** — You’ll get clear, practical homework that fits your schedule—no long workouts or complex exercises.
 - **Treat** — Precise, gentle techniques; add-ons like laser or shockwave when appropriate.
 - **Track** — We measure progress with functional tasks, comfort changes, and tissue tolerance.
 - **Reassess** — Quick rechecks to confirm what’s helping and adjust as needed.
@@ -42,7 +42,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
     <ul>
       <li>The umbrella for all care here—aligns sensory input with motor control.</li>
-      <li>Targeted drills plus adjustments/exercise so changes stick.</li>
+      <li>Targeted protocols plus adjustments/exercise so changes stick.</li>
       <li>Great for recurring aches, coordination/timing issues, and anything that “doesn’t feel normal yet.”</li>
     </ul>
     <em>See this if:</em> you’ve had lingering issues that improve then slip back, or if balance/coordination is a theme.
@@ -51,9 +51,9 @@ We keep it practical, explain each step, and build a plan that fits your goals a
   <li class="reveal reveal--up">
     <a href="{{ '/services/balance-stability/' | relative_url }}"><strong>Balance & Stability</strong></a><br>
     <ul>
-      <li>Focused balance care using visual, vestibular, and proprioceptive drills.</li>
+      <li>Focused balance care using visual, vestibular, and proprioceptive exercises.</li>
       <li>Includes a computerized <i>balance tracker</i> with a risk-of-fall score you can see.</li>
-      <li>Simple progressions: gaze drills, head/eye work, stance progressions, foot/ankle work.</li>
+      <li>Simple progressions: gaze exercises, head/eye work, stance progressions, foot/ankle work.</li>
     </ul>
     <em>See this if:</em> you feel unsteady, have a history of falls, or want to improve stability for daily life or sport.
   </li>
@@ -112,9 +112,6 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

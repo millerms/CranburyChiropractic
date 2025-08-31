@@ -27,7 +27,7 @@ Joints are packed with sensors (mechanoreceptors) that tell your brain how a joi
 1. **Movement & joint screen** – we look at motion, comfort, and how areas influence each other  
 2. **Adjustment (if appropriate)** – gentle positioning and a quick, controlled thrust  
 3. **Add-ons as needed** – soft-tissue work or simple activation/mobility exercises  
-4. **Home plan** – focused drills to keep gains between visits  
+4. **Home plan** – focused exercises to keep gains between visits  
 5. **Rechecks** – confirm progress and adjust the plan
 {: .reveal .reveal--up }
 
@@ -91,9 +91,6 @@ Joints are packed with sensors (mechanoreceptors) that tell your brain how a joi
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="/contact/" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

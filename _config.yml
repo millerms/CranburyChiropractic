@@ -55,13 +55,20 @@ footer:
 keywords:
   - Cranbury Chiropractic
   - Chiropractic Care
-  - Cranbury CT
   - Norwalk CT
-  - Back Pain Relief
-  - Neck Pain Relief
+  - Back Pain
+  - Neck Pain
   - Sports Injury
   - Family Chiropractic
   - Wellness
+  - Sciatica
+  - Head Ache
+  - Senior Chiropractic Care
+  - Senior Care
+  - Balance
+  - Instability
+  - Whiplash
+  - Auto Accident
 
 # LocalBusiness / Organization schema (used by _includes/head/custom.html)
 # Fill or adjust these fields to emit JSON-LD in <head>.
@@ -185,75 +192,3 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
-# Optional Integrations (commented out for future use)
-
-# comments:
-#   provider: 
-#   disqus:
-#     shortname: 
-#   discourse:
-#     server: 
-#   facebook:
-#     appid: 
-#     num_posts: 
-#     colorscheme: 
-#   utterances:
-#     theme: 
-#     issue_term: 
-#   giscus:
-#     repo_id: 
-#     category_name: 
-#     category_id: 
-#     discussion_term: 
-#     reactions_enabled: 
-#     theme: 
-#     strict: 
-#     input_position: 
-#     emit_metadata: 
-#     lang: 
-#     lazy: 
-#   staticman:
-#     branch: 
-#     endpoint: 
-# reCaptcha:
-#   siteKey: 
-#   secret: 
-# atom_feed:
-#   path: 
-#   hide: 
-# search: 
-# search_full_content: 
-# search_provider: 
-# lunr:
-#   search_within_pages: 
-# algolia:
-#   application_id: 
-#   index_name: 
-#   search_only_api_key: 
-#   powered_by: 
-# google:
-#   search_engine_id: 
-#   instant_search: 
-# google_site_verification: 
-# bing_site_verification: 
-# naver_site_verification: 
-# yandex_site_verification: 
-# baidu_site_verification: 
-# twitter:
-#   username: 
-# facebook:
-#   username: 
-#   app_id: 
-#   publisher: 
-# og_image: 
-# social:
-#   type: 
-#   name: 
-#   links: 
-
-# analytics:
-#   provider: 
-#   google:
-#     tracking_id: 
-#     anonymize_ip: 

@@ -32,7 +32,7 @@ We often choose Diversified adjustments when precise, joint-specific motion is t
 ### How we use it
 - **As a primary treatment** for stiffness or discomfort in a specific joint
 - **Alongside other care** like soft-tissue work, laser therapy, or shockwave
-- **As part of a broader plan** that includes simple drills to reinforce the change
+- **As part of a broader plan** that includes simple exercises to reinforce the change
 - **When it fits your goals** and you’re comfortable with the approach
 {: .reveal .reveal--up }
 
@@ -98,9 +98,6 @@ We often choose Diversified adjustments when precise, joint-specific motion is t
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

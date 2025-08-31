@@ -16,7 +16,7 @@ excerpt: "Neurology‑informed chiropractic care in Norwalk, CT — practical, r
 <img src="{{ '/assets/images/headshot.webp' | relative_url }}" alt="Dr. Paul Miller" class="align-right" width="140" loading="lazy" style="margin-bottom: 4rem; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
-Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple drills you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. Plans are **right‑sized** to your goals and schedule, and progress is measured at each visit so you know what’s helping.
+Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple exercises you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. Plans are **right‑sized** to your goals and schedule, and progress is measured at each visit so you know what’s helping.
 {: .reveal .reveal--fade }
 
 > "In my early twenties, after too many miles on the road, my lower back gave out. A friend suggested chiropractic care. I was skeptical at first, and I didn’t want painkillers or surgery, so I had nothing to lose. I booked an appointment and saw Dr. Ernie Landi. I could barely stand up straight when I arrived; after a few adjustments I was comfortable and upright again. He helped me heal and became a mentor. I’d been interested in healthcare, but hadn’t found a path that fit my beliefs. Chiropractic changed that and my new career began."
@@ -34,12 +34,21 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 {: .reveal .reveal--up }
 
 ### Philosophy & Approach
-- **Neurologic approach:** we look at how your eyes, inner ear, spine, and joints are communicating with the brain, then target the system that’s holding you back.
-- **Precise adjustments:** diversified technique for the spine **and** extremities (ankle, knee, shoulder, wrist) when it’s the right fit.
-- **Active care:** brief, practical drills (balance, gaze/head coordination, mobility/activation) so improvements last.
-- **Modern tools when useful:** Class III cold laser (photobiomodulation) and ESWT **shockwave** for select conditions.
+- **Neurologic approach:** we look at how your spine, joints, muscles, eyes, and inner ear are communicating with the brain, then target the system that’s holding you back.
+- **Precise adjustments:** diversified technique for the spine and extremities (ankle, knee, shoulder, wrist) when it’s the right fit.
+- **Active care:** brief, practical exercises so improvements last.
+- **Modern tools when useful:** Class III cold laser for inflammation reduction and ESWT shockwave for stubborn problem areas.
 - **Measure & adapt:** short re‑checks each visit to confirm what’s working and adjust the plan.
 {: .reveal .reveal--fade }
+
+### Types of Care
+- <a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — align sensory input with motor control so changes stick.
+- <a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — precise joint work for spine and limbs.
+- <a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — targeted vision/vestibular/proprioceptive exercises with a trackable score.
+- <a href="{{ '/services/diversified-technique/' | relative_url }}">Diversified Technique</a> — a hands‑on, traditional chiropractic method.
+- <a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser Therapy</a> — gentle photobiomodulation to support recovery.
+- <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave Therapy (ESWT)</a> — non‑invasive option for stubborn spots.
+{: .reveal .reveal--up }
 
 ### Areas of Focus
 - Back and neck pain; tension‑type headaches associated with neck issues
@@ -60,9 +69,6 @@ When he’s not in the office, Dr. Miller is usually in motion or outside. He’
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

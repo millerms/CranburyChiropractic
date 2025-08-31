@@ -50,6 +50,18 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
   </details>
 
   <details class="reveal reveal--up">
+    <summary>Is there research to support it?</summary>
+    <div class="faq__content">
+      Yes. A few examples:
+      <ul>
+        <li>Chow RT et al. Low‑level laser therapy for neck pain — systematic review/meta‑analysis of randomized trials. <a href="https://pubmed.ncbi.nlm.nih.gov/19913903/" target="_blank" rel="noopener">PubMed 19913903</a></li>
+        <li>Gur A et al. Low‑level laser therapy for chronic low back pain — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/26667480/" target="_blank" rel="noopener">PubMed 26667480</a></li>
+      </ul>
+      Evidence varies by condition and dose; we use laser alongside active care when it’s a good fit.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
     <summary>Why Class III ("cold") and not Class IV?</summary>
     <div class="faq__content">
       <ul>
@@ -94,9 +106,6 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="/contact/" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

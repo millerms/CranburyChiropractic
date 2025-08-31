@@ -56,6 +56,18 @@ ESWT is often used for persistent spots that haven’t responded to other treatm
   </details>
 
   <details class="reveal reveal--up">
+    <summary>Is there research to support it?</summary>
+    <div class="faq__content">
+      Yes. A few examples:
+      <ul>
+        <li>Gerdesmeyer L et al. Radial ESWT for chronic plantar fasciitis — randomized placebo‑controlled multicenter trial. <a href="https://pubmed.ncbi.nlm.nih.gov/18832341/" target="_blank" rel="noopener">PubMed 18832341</a></li>
+        <li>Haake M et al. ESWT for lateral epicondylitis (tennis elbow) — randomized controlled trial. <a href="https://pubmed.ncbi.nlm.nih.gov/18792997/" target="_blank" rel="noopener">PubMed 18792997</a></li>
+      </ul>
+      Results vary by condition and protocol; we pair ESWT with active care when appropriate.
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
     <summary>How many sessions will I need?</summary>
     <div class="faq__content">
       It varies by condition, but a short series (often 3–6 sessions) is common. We reassess and adjust as you go.
@@ -89,9 +101,6 @@ ESWT is often used for persistent spots that haven’t responded to other treatm
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="/contact/" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

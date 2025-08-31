@@ -9,8 +9,6 @@ main:
     url: "/new-patients/"
   - title: "Insurance & Pricing"
     url: "/insurance/"
-  - title: "Contact"
-    url: "/contact/"
 
 services:
   - title: "All Services"

@@ -19,7 +19,7 @@ A quick guide to the most common issues we see — and how we match care to your
 {: .reveal .reveal--up }
 - **Neurologic lens:** we check how your brain and body communicate (vision, vestibular, proprioception) and target the limiter.
 - **Precise joint care:** full‑spine and **extremity** adjustments when appropriate — not one‑size‑fits‑all.
-- **Practical drills:** short “micro‑sets” you can actually do.
+- **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
 - **Progress you can feel:** quick rechecks so you know what’s working.
 {: .reveal .reveal--up }
@@ -55,7 +55,7 @@ A quick guide to the most common issues we see — and how we match care to your
       <ul>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — visual/vestibular input, neck control</li>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — gentle, precise adjustments</li>
-        <li>Simple posture drills & micro‑break strategies</li>
+        <li>Simple posture exercises & micro‑break strategies</li>
       </ul>
     </div>
   </details>
@@ -95,7 +95,7 @@ A quick guide to the most common issues we see — and how we match care to your
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive drills</li>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive exercises</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — map input → output; risk‑of‑fall score with balance tracker</li>
       </ul>
     </div>
@@ -139,7 +139,7 @@ A quick guide to the most common issues we see — and how we match care to your
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — precise joint work to restore motion</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — improve timing/coordination so motion “sticks”</li>
-        <li>Targeted mobility drills & light isometrics you can do at home</li>
+        <li>Targeted mobility exercises & light isometrics you can do at home</li>
         <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — support tissue recovery when irritable</li>
       </ul>
     </div>
@@ -152,8 +152,64 @@ A quick guide to the most common issues we see — and how we match care to your
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li>Short posture breaks, breathing drills, and easy mobility sets</li>
+        <li>Short posture breaks, breathing exercises, and easy mobility sets</li>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — when joints feel “stuck”</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary><span class="term">Auto Accidents &amp; Whiplash</span><span class="desc">neck/back soreness, stiffness, post‑impact discomfort</span></summary>
+    <div class="faq__content">
+      After medical clearance, we focus on gentle, progressive care to restore comfortable motion and control.  
+      <br><br>
+      <em>What often helps:</em>
+      <ul>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — head/eye coordination, balance, and graded movement</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — cervical/thoracic when appropriate and comfortable</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a> — calm irritation in sensitive tissues</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary><span class="term">Pregnancy</span><span class="desc">pelvic/SI discomfort, low‑back or rib pain</span></summary>
+    <div class="faq__content">
+      Gentle, comfortable positioning with care tailored to each stage. We use light, precise techniques and simple at‑home exercises to support comfort and mobility.
+      <br><br>
+      <em>What often helps:</em>
+      <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — pelvis, low back, and ribs as appropriate</li>
+        <li>Breathing and position strategies for daily activities</li>
+        <li>Short mobility and stability exercises that feel good</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary><span class="term">Stress &amp; Tension</span><span class="desc">neck/shoulder tightness, headaches, poor postural tolerance</span></summary>
+    <div class="faq__content">
+      Practical ways to reduce day‑to‑day strain. We blend movement breaks, breathing work, and targeted joint care to help you feel and move better.
+      <br><br>
+      <em>What often helps:</em>
+      <ul>
+        <li>“Micro‑breaks,” breathing, and posture strategies</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — neck control and visual/vestibular inputs</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — when joints feel locked or guarded</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="reveal reveal--up">
+    <summary><span class="term">Senior Care</span><span class="desc">balance confidence, mobility, osteoarthritis management</span></summary>
+    <div class="faq__content">
+      Right‑sized plans for staying active and steady. We emphasize comfort, safety, and measurable progress you can feel in daily life.
+      <br><br>
+      <em>What often helps:</em>
+      <ul>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance &amp; Stability</a> — trackable risk‑of‑fall score and simple progressions</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — to restore comfortable motion</li>
+        <li>Light strength and mobility “micro‑sets” tailored to you</li>
       </ul>
     </div>
   </details>
@@ -174,9 +230,6 @@ If we think another provider is a better first step (e.g., imaging, medication, 
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="{{ '/contact/' | relative_url }}" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>

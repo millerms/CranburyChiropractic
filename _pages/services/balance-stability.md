@@ -2,7 +2,7 @@
 layout: single
 title: "Balance & Stability"
 permalink: /services/balance-stability/
-description: "Focused balance care: visual, vestibular, and proprioceptive drills matched to your limiter, plus a trackable risk-of-fall score."
+description: "Focused balance care: visual, vestibular, and proprioceptive exercises matched to your limiter, plus a trackable risk-of-fall score."
 sidebar:
   nav: "services"
 classes: wide
@@ -17,7 +17,7 @@ Feeling steady is a skill your nervous system learns and keeps. We look at three
 - **Proprioceptive** (joints/muscles) — body position feedback
 {: .reveal .reveal--up }
 
-When one system lags, you compensate. Our job is to find the limiter, match drills to it, and track progress.
+When one system lags, you compensate. Our job is to find the limiter, match exercises to it, and track progress.
 {: .reveal .reveal--fade }
 
 ### When it may help
@@ -49,7 +49,7 @@ When one system lags, you compensate. Our job is to find the limiter, match dril
   <details class="reveal reveal--up">
     <summary>Do I need to be athletic?</summary>
     <div class="faq__content">
-      No — balance work is for everyone. We tailor drills to your level and goals.
+      No — balance work is for everyone. We tailor exercises to your level and goals.
     </div>
   </details>
 
@@ -70,7 +70,7 @@ When one system lags, you compensate. Our job is to find the limiter, match dril
   <details class="reveal reveal--up">
     <summary>Home plan?</summary>
     <div class="faq__content">
-      Yes. You’ll get brief, clear routines that fit your schedule — no long workouts or complex drills.
+      Yes. You’ll get brief, clear routines that fit your schedule — no long workouts or complex exercises.
     </div>
   </details>
 
@@ -87,9 +87,6 @@ When one system lags, you compensate. Our job is to find the limiter, match dril
 <div class="contact-actions reveal reveal--up">
   <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
     <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="/contact/" class="btn">
-    <span class="btn-label">Request Appointment</span>
   </a>
   <a href="tel:+12038463424" class="btn">
     <span class="btn-label">Call (203) 846-3424</span>
