@@ -72,7 +72,7 @@ feature_row:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic in Norwalk. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, or other mechanical pain, we take a practical, **neurologic approach**: precise adjustments, short targeted exercises, and modern tools like Class III cold laser and ESWT shockwave when they’re a good fit. 
+Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, or other mechanical pain, we take a practical, **neurologic approach**: precise adjustments, short targeted exercises, and modern tools like Class III cold laser and ESWT shockwave when they’re a good fit. 
 
 The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sport. We care for people of all ages; many of our patients are seniors.
 </div>
