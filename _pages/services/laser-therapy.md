@@ -9,14 +9,14 @@ classes: wide
 ---
 
 ## Overview
-Class III (low‑level, “cold”) laser therapy uses focused light energy (**photobiomodulation**) to support your body’s natural processes. In many people it may help **calm irritation**, **modulate inflammation**, and **support tissue recovery**—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually doesn’t feel hot.
+Class III “cold” laser uses specific light to support your body’s recovery. It may help calm irritation and support tissue healing—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually feels comfortable.
 {: .reveal .reveal--fade }
 
 ### How it works
-Low‑level laser light is absorbed by cells and can influence mitochondrial activity (ATP production), local circulation, and chemical messengers involved in irritation and healing. Treatments are non‑invasive and comfortable; we use protective eyewear.
+Cold laser (photobiomodulation) is absorbed by cells and can influence mitochondrial energy (ATP), local circulation, and chemical messengers involved in healing. Treatments are non‑invasive and comfortable; we use protective eyewear.
 {: .reveal .reveal--fade }
 
-### When it may help
+### When we use it
 - Irritated joints or soft tissues after overuse/sprains/strains  
 - Tendon complaints (e.g., achilles, rotator cuff, elbow)  
 - Plantar fascia or other persistent sore spots  
@@ -24,7 +24,7 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Quick screen** – confirm cold laser is appropriate for you  
+1. **Evaluate** – confirm cold laser is appropriate for you  
 2. **Treatment** – typically **5–15 minutes**; usually no heat (sometimes mild warmth)  
 3. **No downtime** – you can resume your day  
 4. **Series** – some people benefit from several sessions
@@ -55,7 +55,7 @@ Low‑level laser light is absorbed by cells and can influence mitochondrial act
       Yes. A few examples:
       <ul>
         <li>Chow RT et al. Low‑level laser therapy for neck pain — systematic review/meta‑analysis of randomized trials. <a href="https://pubmed.ncbi.nlm.nih.gov/19913903/" target="_blank" rel="noopener">PubMed 19913903</a></li>
-        <li>Gur A et al. Low‑level laser therapy for chronic low back pain — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/26667480/" target="_blank" rel="noopener">PubMed 26667480</a></li>
+        <li>Huang Z et al. Low‑level laser therapy for chronic low back pain — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/26667480/" target="_blank" rel="noopener">PubMed 26667480</a></li>
       </ul>
       Evidence varies by condition and dose; we use laser alongside active care when it’s a good fit.
     </div>

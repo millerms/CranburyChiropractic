@@ -9,18 +9,18 @@ classes: wide
 ---
 
 ## Overview
-Shockwave therapy (ESWT) uses **pulsed acoustic waves** on stubborn, localized problem areas. The waves create a small, controlled mechanical stimulus that can encourage your body’s normal repair responses. We often use ESWT when a spot hasn’t responded to rest or routine care.
+Shockwave therapy (ESWT) delivers **pulsed acoustic energy** to targeted, stubborn spots. It’s commonly used when an area hasn’t responded to rest or routine care, and pairs well with an active plan.
 {: .reveal .reveal--fade }
 
 ### How it works
-The pulsed waves create tiny mechanical stresses that may increase local circulation, influence tissue signaling, and help reorganize irritated tissue. Sessions are brief and intensity is adjusted to your comfort.
+The pulsed waves create a small, controlled mechanical stimulus that may increase local blood flow and prompt a “repair signal” in the tissue. Sessions are brief and intensity is adjusted to your comfort.
 {: .reveal .reveal--fade }
 
-### Why it may help
-ESWT is often used for persistent spots that haven’t responded to other treatments. It’s not a replacement for active care, but it can be a useful tool to help you get back on track.
+### Why we use it
+ESWT is often helpful for persistent tendon or fascia irritation. It’s not a replacement for active care; we use it to support progress alongside exercises.
 {: .reveal .reveal--fade }
 
-### When it may help
+### When we use it
 - **Plantar fasciitis** (heel pain)  
 - **Trigger finger** (stiffness/locking)  
 - Persistent tendon/enthesis complaints (e.g., elbow, shoulder, hip)
@@ -29,11 +29,11 @@ ESWT is often used for persistent spots that haven’t responded to other treatm
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Quick screen** – confirm ESWT is a good fit  
+1. **Evaluate** – confirm ESWT is a good fit  
 2. **Treatment** – tapping/pulsing sensation for a few minutes  
 3. **Series** – many people do best with **3–6 sessions**  
-4. **Pair with activity** – we often combine ESWT with exercise and mobility work
-5. **Rechecks** – confirm changes and adjust the plan as needed
+4. **Pair with activity** – we combine ESWT with exercise and mobility work
+5. **Track** – quick rechecks guide the plan as needed
 {: .reveal .reveal--fade }
 
 ### How we measure progress
@@ -61,7 +61,7 @@ ESWT is often used for persistent spots that haven’t responded to other treatm
       Yes. A few examples:
       <ul>
         <li>Gerdesmeyer L et al. Radial ESWT for chronic plantar fasciitis — randomized placebo‑controlled multicenter trial. <a href="https://pubmed.ncbi.nlm.nih.gov/18832341/" target="_blank" rel="noopener">PubMed 18832341</a></li>
-        <li>Haake M et al. ESWT for lateral epicondylitis (tennis elbow) — randomized controlled trial. <a href="https://pubmed.ncbi.nlm.nih.gov/18792997/" target="_blank" rel="noopener">PubMed 18792997</a></li>
+        <li>Staples M et al. ESWT for lateral epicondylitis (tennis elbow) — randomized controlled trial. <a href="https://pubmed.ncbi.nlm.nih.gov/18792997/" target="_blank" rel="noopener">PubMed 18792997</a></li>
       </ul>
       Results vary by condition and protocol; we pair ESWT with active care when appropriate.
     </div>

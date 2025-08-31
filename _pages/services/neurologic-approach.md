@@ -9,62 +9,36 @@ classes: wide
 ---
 
 ## Overview
-Your nervous system is the “operating system” for movement, comfort, and control. When the brain receives **clear input** (from eyes, inner ear, and joints/muscles) and sends **coordinated output** (timing, strength, and stability), you move well and feel confident. When signals are **noisy**—after injury, stress, illness, or just lack of practice—your body compensates. That can show up as stiffness, recurring strains, fatigue with simple tasks, or trouble coordinating movement.
-{: .reveal .reveal--fade }
+This is the lens we use for all care. We’ll check how your **eyes (visual)**, **inner ear (vestibular)**, and **joints/muscles (proprioception)** talk to your brain, then match care to the limiter we find. You get a plan that feels practical and fits your day.
 
-Our neurologic approach is a practical way to find the **limiter** in your system and match treatment to it. We use this lens across all care, whether it’s balance work, adjustments, laser therapy, or shockwave therapy. The goal is to help you move better, recover faster, and stay active.
+Clearer sensory input and better joint motion help your brain coordinate movement with less effort.
 {: .reveal .reveal--fade }
 
 ### What we assess
-- **Sensory input**
-  - **Visual**: eye movements, tracking, convergence
-  - **Vestibular (inner ear)**: head-motion tolerance, head/eye coordination
-  - **Proprioceptive**: feedback from joints, muscles, and spine
-- **Motor output**
-  - Timing/coordination, movement patterns, joint control under load
-  - “Control before strength” — can you *organize* the movement you’re asking for?
-- **Autonomic factors**
-  - Recovery, breath mechanics, tolerance to effort or position changes
-- **Functional tasks**
-  - Gait, step-downs, reach/rotate, lift/carry — scaled to your goals
-- **Pain/irritation**
-  - How it changes with tasks, rest, and activity
-  - Tissue tolerance and range of motion
-- **Your goals**
-  - What you want to achieve: daily tasks, sport, or just feeling “normal” again
-  - We listen to your story and tailor the plan to fit your life
-- **Your history**
-  - Previous injuries, surgeries, or conditions that may influence care
-  - We consider the whole picture to guide our approach
-- **Your lifestyle**
-  - Activity level, work demands, and daily routines
-  - We build a plan that fits your schedule and keeps you moving
-- **Your progress**
-  - We track changes in comfort, control, and function
-  - Quick rechecks to confirm what’s helping and adjust as needed
+- Sensory input: eyes, inner ear, and joint/muscle feedback
+- Motor control: timing, coordination, and joint control under load
+- Functional tasks: reach, rotate, stairs, gait—scaled to you
+- Recovery factors: breath mechanics and tolerance to effort/positions
+- Your goals and history: we tailor the plan to your life
 {: .reveal .reveal--fade }
 
 > For **balance-specific** testing, protocols, and our risk-of-fall score, see the companion page: [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
 {: .reveal .reveal--fade }
 
-### When this approach may help
-- **Recurrent aches/strains** that return after rest
-- **Neck/shoulder** issues with headaches or eye fatigue
-- **Low back/hip** problems tied to control, not just strength
-- **Stiffness** that limits range of motion or comfort
-- **Fatigue** with simple tasks or after activity
-- Post-injury “**doesn’t feel normal yet**” despite basic rehab
-- You prefer a **practical lens** that connects sensory input to motor control
-- You value **evidence-based** approaches that consider the latest research
+### When we use it
+- Recurring aches or strains that slip back after rest
+- Neck/shoulder issues with headaches or eye fatigue
+- Low back/hip problems tied to control more than strength
+- Stiffness or balance concerns that limit daily tasks
+- After injury when it “doesn’t feel normal yet”
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Screen** — short sensorimotor checks (eyes, head/eye, joint motion), coordination exercises, and functional tasks  
-2. **Map the limiter** — is the bottleneck **input**, **output**, or **both**?  
-3. **Plan** — targeted exercises (eye-head work, patterning, tempo/isometrics), joint work/adjustments when appropriate, and simple strength to “set” the change  
-4. **Right-sized homework** — brief “micro-sets” you can fit into your day  
-5. **Rechecks** — confirm changes with quick measures so you know what’s helping
-6. **Adjust as needed** — we adapt the plan based on your response and progress
+1. **Evaluate** — brief eye, head/eye, and joint motion checks, plus simple functional tasks  
+2. **Map the limiter** — clarify if input, output, or both are limiting progress  
+3. **Plan** — targeted exercises and joint work when appropriate; add Class III laser or ESWT if useful  
+4. **Home plan** — short, doable sets you can fit into your day  
+5. **Track** — quick rechecks to confirm what’s helping and adjust as needed
 {: .reveal .reveal--fade }
 
 ### How we measure progress
@@ -73,6 +47,24 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
 - Your report of effort and confidence during daily tasks or sport
 - Changes in pain/irritation during activity and rest
 - Tissue tolerance and range-of-motion rechecks
+{: .reveal .reveal--fade }
+
+### Evidence snapshot
+- Clinical guidelines for back and neck pain consistently recommend non‑pharmacologic care—education, exercise, and manual therapy—as first‑line options.
+- Research on sensorimotor (visual/vestibular/proprioceptive) training suggests it can improve balance, motor control, and comfort in many people.
+- Balance programs reduce fall risk in older adults; we quantify steadiness with a computerized balance score you can track over time.
+- Combining manual therapy with targeted exercises is often more helpful than either alone for many musculoskeletal complaints.
+{: .reveal .reveal--fade }
+
+### Tools we may use
+- Joint work (mobilization/adjustment) when specific motion is limited
+- Coordination work: eye–head drills, gaze stabilization, tempo/isometrics
+- Task‑based exercise progressions matched to your goals
+- Home “micro‑sets” you can fit into your day
+{: .reveal .reveal--fade }
+
+### Safety and referrals
+Your safety comes first. We screen for red flags, use imaging only when it would change the plan, and coordinate with other providers when needed (e.g., PT, orthopedics, neurology, or primary care).
 {: .reveal .reveal--fade }
 
 ### FAQs
@@ -113,6 +105,12 @@ Our neurologic approach is a practical way to find the **limiter** in your syste
     </div>
   </details>
 </div>
+
+### References
+- American College of Physicians (2017). Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain — Clinical Practice Guideline. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
+- NICE Guideline NG59 (Low back pain and sciatica in over 16s). <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+- Sherrington C, et al. (2019). Exercise for preventing falls in older people — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31638221</a>
+- McDonnell MN, Hillier SL. (2015). Vestibular rehabilitation for unilateral peripheral vestibular dysfunction — Cochrane Review. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 26024635</a>
 
 ---
 

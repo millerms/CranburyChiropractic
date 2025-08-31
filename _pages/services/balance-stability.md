@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Overview
-Feeling steady is a skill your nervous system learns and keeps. We look at three systems that drive balance:
+If you don’t feel steady, we’ll figure out why and make a simple plan to improve it. We look at three systems that drive balance:
 {: .reveal .reveal--fade }
 
 - **Visual** (eyes) — where you are in space  
@@ -17,7 +17,7 @@ Feeling steady is a skill your nervous system learns and keeps. We look at three
 - **Proprioceptive** (joints/muscles) — body position feedback
 {: .reveal .reveal--up }
 
-When one system lags, you compensate. Our job is to find the limiter, match exercises to it, and track progress.
+When one system lags, you compensate. We find the limiter, match exercises to it, and track progress you can see.
 {: .reveal .reveal--fade }
 
 ### When it may help
@@ -28,11 +28,11 @@ When one system lags, you compensate. Our job is to find the limiter, match exer
 {: .reveal .reveal--up }
 
 ### What to expect
-1. **Short balance screen** — standing tests (eyes open/closed), head turns, single-leg stance  
-2. **Balance tracker** — computerized scale that measures sway → **risk-of-fall score** you can see  
-3. **Targeted plan** — gaze-stabilization, head/eye coordination, stance progressions (firm → foam), foot/ankle work  
-4. **Right-sized homework** — brief micro-sets at home  
-5. **Rechecks** — see changes in sway and confidence over time
+1. **Evaluate** — standing tests (eyes open/closed), head turns, single‑leg stance  
+2. **Tracker** — computerized balance score you can follow over time  
+3. **Plan** — gaze stabilization, head/eye work, stance progressions, foot/ankle work  
+4. **Home plan** — brief, right‑sized sets at home  
+5. **Track** — see changes in sway and confidence over time
 {: .reveal .reveal--up }
 
 ### How we measure progress

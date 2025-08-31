@@ -9,7 +9,7 @@ header:
 excerpt: "Plans we accept, how billing works, and what to expect for costs."
 ---
 
-Welcome! This page explains the plans we accept, how to use your benefits, and what to expect for costs. If you have a question that isn’t covered here, call us — we’re happy to help.
+Welcome! This page explains the plans we accept, how to use your benefits, and what to expect for costs. If you have a question that isn’t covered here, call us. We’re happy to help.
 {: .reveal .reveal--up }
 
 ---
@@ -24,7 +24,7 @@ Welcome! This page explains the plans we accept, how to use your benefits, and w
   <div class="card"><strong>UnitedHealthcare Oxford</strong> <br><small>(Formerly Oxford)</small></div>
 </div>
 
-> **Networks can change.** Individual plan benefits vary. We’ll verify benefits as a courtesy, but the most accurate details always come from your plan.
+> **Networks can change.** Individual plan benefits vary. We’ll verify benefits as a courtesy; the most accurate details come from your plan.
 {: .notice--primary }
 
 ---
@@ -55,6 +55,7 @@ We keep costs transparent and explain them in advance. Typical structure:
 - **First visit** — Consultation, targeted exam, and treatment when appropriate.
 - **Follow‑up visits** — Shorter, focused sessions to reinforce progress.
 - **Adjunct options** — Class III cold laser and/or shockwave (ESWT) when they’re a good fit.
+{: .reveal .reveal--up }
 
 > Coverage for exams and adjunct therapies varies by plan (for example, Medicare generally covers spinal manipulation but not exams or adjunct therapies). We’ll review your options before care.
 {: .notice--primary }

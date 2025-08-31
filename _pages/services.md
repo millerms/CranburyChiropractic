@@ -40,61 +40,32 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 <ul class="services-index">
   <li class="reveal reveal--up">
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
-    <ul>
-      <li>The umbrella for all care here—aligns sensory input with motor control.</li>
-      <li>Targeted protocols plus adjustments/exercise so changes stick.</li>
-      <li>Great for recurring aches, coordination/timing issues, and anything that “doesn’t feel normal yet.”</li>
-    </ul>
-    <em>See this if:</em> you’ve had lingering issues that improve then slip back, or if balance/coordination is a theme.
+    Aligns sensory input (eyes, inner ear, joints) with motor control so movements feel clearer and steadier.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/balance-stability/' | relative_url }}"><strong>Balance & Stability</strong></a><br>
-    <ul>
-      <li>Focused balance care using visual, vestibular, and proprioceptive exercises.</li>
-      <li>Includes a computerized <i>balance tracker</i> with a risk-of-fall score you can see.</li>
-      <li>Simple progressions: gaze exercises, head/eye work, stance progressions, foot/ankle work.</li>
-    </ul>
-    <em>See this if:</em> you feel unsteady, have a history of falls, or want to improve stability for daily life or sport.
+    Targeted balance work with a computerized tracker and an easy‑to‑read risk‑of‑fall style score.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/full-spine-extremities/' | relative_url }}"><strong>Full-Spine & Extremities</strong></a><br>
-    <ul>
-      <li>Precise, hands-on adjustments for the spine and joints like ankles, knees, shoulders, and wrists.</li>
-      <li>Paired with activation/mobility or soft-tissue work when helpful.</li>
-      <li>Aim: smoother motion, better control, and comfort in real-world tasks.</li>
-    </ul>
-    <em>See this if:</em> a joint feels “stuck,” motion is limited, or daily tasks hurt (turning, reaching, bending).
+    Precise, joint‑specific adjustments for the spine and limbs—paired with simple exercises when helpful.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Cold Laser Therapy (Class III)</strong></a><br>
-    <ul>
-      <li>Low‑level (<i>"cold"</i>) laser (Class III) photobiomodulation to help calm irritation and support tissue recovery.</li>
-      <li>Non‑thermal; most feel little to no heat. Sessions typically 5–15 minutes with protective eyewear.</li>
-      <li>Used alongside adjustments and exercise as part of a right‑sized plan.</li>
-    </ul>
-    <em>See this if:</em> irritated tissues won’t settle down and you want a gentle, non‑drug option alongside active care.
+    Gentle photobiomodulation that may calm irritation and support tissue recovery; used alongside active care.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}"><strong>Shockwave Therapy (ESWT)</strong></a><br>
-    <ul>
-      <li>Pulsed acoustic waves for stubborn spots (e.g., plantar fasciitis, trigger finger).</li>
-      <li>Typically a short series (e.g., 3–6 sessions), intensity adjusted to comfort.</li>
-      <li>Pairs well with an active plan so gains last.</li>
-    </ul>
-    <em>See this if:</em> a tendon or fascia problem isn’t responding to rest/exercise and you want to try a non‑invasive option.
+    Pulsed acoustic energy that prompts a local repair signal—often helpful for stubborn tendon or fascia spots.
   </li>
+
   <li class="reveal reveal--up">
     <a href="{{ '/services/diversified-technique/' | relative_url }}"><strong>Diversified Technique</strong></a><br>
-    <ul>
-      <li>A widely used, hands‑on chiropractic method.</li>
-      <li>Precise adjustments—not one‑size‑fits‑all—to restore motion in specific joints.</li>
-      <li>Gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement.</li>
-    </ul>
-    <em>See this if:</em> you prefer a traditional, hands‑on chiropractic approach tailored to your specific joints.
+    A widely used, hands‑on approach with precise, joint‑specific adjustments when they fit your goals and exam.
   </li>
 </ul>
 

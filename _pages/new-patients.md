@@ -20,6 +20,7 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 - **Forms:** After you schedule, we’ll email you simple intake forms. Prefer paper? You can print them and bring them in:
   - [New Patient Intake (PDF)](/assets/forms/new-patient-intake.pdf){: .btn }
   - [Consent to Treat (PDF)](/assets/forms/consent-to-treat.pdf){: .btn }
+  - [HIPAA (PDF)](/assets/forms/HIPPA.pdf){: .btn }
 - **What to bring:** A list of medications/supplements, any recent imaging or reports (if you have them), and your questions/goals.
 - **Insurance/fees:** We’ll provide itemized receipts upon request. Call us with any questions about current fees.
 - **Arrival:** Please arrive 10-15 minutes early to complete any remaining paperwork.
@@ -39,16 +40,15 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 ## What to Expect on Your First Visit
 {: .reveal .reveal--up }
 
-We start by finding your **limiter**—the thing most likely holding back your movement or comfort. Then we build a right‑sized plan to match it.
+We’ll start by finding your **limiter**—the thing most likely holding back your movement or comfort—then match care to it.
 {: .reveal .reveal--up }
 
-1. **Conversation & history** — We listen to your story and goals. What matters to you guides the plan.  
-2. **Targeted screen** — Short checks to see where to focus: balance, range of motion, control, or tissue irritability.  
-3. **Exam** — Based on what we find, we’ll use the most relevant tests (see examples below).  
-4. **Plain‑language summary** — What we think is going on and why.  
-5. **First treatment (when appropriate)** — Usually a combination of precise adjustments, soft‑tissue work, and simple exercises. Tools like **Class III cold laser** or **shockwave (ESWT)** may be used when they’re a good fit.  
-6. **Home plan** — Brief “micro‑sets” you can actually fit into your day.  
-7. **Next steps** — How often to check in and what progress should look like.
+1. **Evaluate** — Conversation and history, plus focused movement and balance checks.  
+2. **Map the limiter** — Mobility, control, or tissue irritability.  
+3. **Plan** — Clear options; we’ll decide together on a right‑sized plan.  
+4. **Treat** — Precise adjustments, soft‑tissue work, and simple exercises. **Class III cold laser** or **ESWT shockwave** when helpful.  
+5. **Home plan** — Brief “micro‑sets” you can fit into your day.  
+6. **Track & next steps** — What progress should look like and how often to check in.
 {: .reveal .reveal--up }
 
 > You are always in control. We explain options, match care to your comfort, and adjust as we go.

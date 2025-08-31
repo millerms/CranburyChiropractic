@@ -9,14 +9,14 @@ classes: wide
 ---
 
 ## Overview
-Chiropractic care isn’t just for the spine. Joints in the **ankles, knees, hips, shoulders, elbows, and wrists** can limit movement and change how you feel. We assess the whole system and, when appropriate, use precise, hands-on adjustments for both spine **and** extremities.
+Stiff or “stuck” joints—spine or extremities—can change how you move and feel. We assess the whole system and, when it fits your goals, use precise, hands‑on adjustments for both spine and limbs.
 {: .reveal .reveal--fade }
 
 ### Why adjustments may help
-Joints are packed with sensors (mechanoreceptors) that tell your brain how a joint is moving. When motion is restricted, those signals get “noisy,” which can feel like stiffness or discomfort. A gentle, quick adjustment can restore motion and often improves how your brain and muscles coordinate. We explain each step and only adjust when it fits your goals.
+Joints are packed with position receptors that talk to your nervous system; clearer input commonly translates to smoother, easier movement. We explain each step and only adjust when it fits your goals.
 {: .reveal .reveal--fade }
 
-### When it may help
+### When we use it
 - Stiffness/tightness that limits **range of motion**  
 - Discomfort that isn’t resolving with exercise alone  
 - Returning to activity after sprains/strains (once it’s safe)  

@@ -72,7 +72,9 @@ feature_row:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic — care tailored to you in Norwalk, CT. If you’re dealing with **lower back pain, neck pain, sciatica, headaches, or balance concerns, or other mechanical pain**, we use a neurologic approach in everything we do: precise adjustments, simple targeted exercises, and modern tools (Class III cold laser and shockwave) so changes stick and you can move confidently, sleep better, and get back to work or sport. We work with people of all ages, many patients we treat are seniors.
+Welcome to Cranbury Chiropractic in Norwalk. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, or other mechanical pain, we take a practical, **neurologic approach**: precise adjustments, short targeted exercises, and modern tools like Class III cold laser and ESWT shockwave when they’re a good fit. 
+
+The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sport. We care for people of all ages; many of our patients are seniors.
 </div>
 
 
@@ -126,19 +128,19 @@ Welcome to Cranbury Chiropractic — care tailored to you in Norwalk, CT. If you
 
 ## What to Expect
 {: .reveal .reveal--up }
-**First visit:** We start with a thorough evaluation, including medical history and orthopedic, neurologic, and chiropractic exams, to find your key limiter (pain, balance, range of motion, or strength). We evaluate how you move and feel, looking at how different areas influence each other. We gather your goals to build a right-sized plan that fits your life. We use different tools to gather data, like functional tests, x-rays, or computerized balance tests, depending on your needs.
+**Evaluate:** We review your history and check key systems—movement, joint motion, balance, and simple neurologic screens—so we understand what’s limiting you.
 {: .reveal .reveal--up }
 
-**Plan:** We build a right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy. We explain each step and why it matters. <em>If we conclude that chiropractic is not the right approach to treat your pain, we will refer you to a specialist to address your needs.</em> If chiropractic <strong>is</strong> the right treatment for you, you can expect noticeable improvements quickly, typically within 2 weeks.
+**Map the limiter:** We connect findings to a clear limiter (e.g., mobility, control, or tissue irritability) so care is focused and practical.
 {: .reveal .reveal--up }
 
-**Educate:** You’ll get clear, practical protocols that fit your schedule—no long workouts or complex exercises. We empower you to take an active role in your care.
+**Plan:** We build a right‑sized plan—adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
 {: .reveal .reveal--up }
 
-**Treat:** We use precise, gentle techniques; add-ons like laser or shockwave when appropriate. You’re in control—tell us your comfort level and preferences.
+**Treat:** Visits are concise and matched to your comfort. You’re always in control.
 {: .reveal .reveal--up }
 
-**Track:** We measure progress with functional tasks, comfort changes, and tissue tolerance. Quick rechecks confirm what’s helping and adjust as needed.
+**Track:** We recheck simple measures (range, function, steadiness) to confirm what’s helping and adjust as you go.
 {: .reveal .reveal--up }
 
 ## Location & Hours

@@ -17,11 +17,11 @@ A quick guide to the most common issues we see — and how we match care to your
 
 ## How we match care to your case
 {: .reveal .reveal--up }
-- **Neurologic lens:** we check how your brain and body communicate (vision, vestibular, proprioception) and target the limiter.
-- **Precise joint care:** full‑spine and **extremity** adjustments when appropriate — not one‑size‑fits‑all.
+- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the limiter.
+- **Precise joint care:** full‑spine and **extremity** adjustments when appropriate—never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
-- **Progress you can feel:** quick rechecks so you know what’s working.
+- **Progress you can feel:** quick rechecks so you know what’s helping.
 {: .reveal .reveal--up }
 
 > New here? See **[Services]({{ '/services/' | relative_url }})** for more detailed information, the **[New Patients]({{ '/new-patients/' | relative_url }})** page for onboarding steps, and insurance details on **[Insurance & Pricing]({{ '/insurance/' | relative_url }})**.

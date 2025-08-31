@@ -16,7 +16,7 @@ excerpt: "Neurology‑informed chiropractic care in Norwalk, CT — practical, r
 <img src="{{ '/assets/images/headshot.webp' | relative_url }}" alt="Dr. Paul Miller" class="align-right" width="140" loading="lazy" style="margin-bottom: 4rem; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
-Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple exercises you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. Plans are **right‑sized** to your goals and schedule, and progress is measured at each visit so you know what’s helping.
+Dr. Miller helps people with back, neck, and joint problems get moving again. His care is guided by a **neurologic lens** and built around practical steps: precise, hands‑on adjustments; simple exercises you can actually do; and modern tools like **Class III cold laser** and **shockwave** when appropriate. We’ll decide together on a **right‑sized plan** that fits your goals and schedule, and we measure progress so you know what’s helping.
 {: .reveal .reveal--fade }
 
 > "In my early twenties, after too many miles on the road, my lower back gave out. A friend suggested chiropractic care. I was skeptical at first, and I didn’t want painkillers or surgery, so I had nothing to lose. I booked an appointment and saw Dr. Ernie Landi. I could barely stand up straight when I arrived; after a few adjustments I was comfortable and upright again. He helped me heal and became a mentor. I’d been interested in healthcare, but hadn’t found a path that fit my beliefs. Chiropractic changed that and my new career began."
@@ -34,11 +34,11 @@ Dr. Miller helps people with back, neck, and joint problems get moving again. Hi
 {: .reveal .reveal--up }
 
 ### Philosophy & Approach
-- **Neurologic approach:** we look at how your spine, joints, muscles, eyes, and inner ear are communicating with the brain, then target the system that’s holding you back.
+- **Neurologic approach:** we’ll check how your spine, joints, muscles, eyes, and inner ear communicate with the brain, then target what’s most limiting you.
 - **Precise adjustments:** diversified technique for the spine and extremities (ankle, knee, shoulder, wrist) when it’s the right fit.
 - **Active care:** brief, practical exercises so improvements last.
-- **Modern tools when useful:** Class III cold laser for inflammation reduction and ESWT shockwave for stubborn problem areas.
-- **Measure & adapt:** short re‑checks each visit to confirm what’s working and adjust the plan.
+- **Modern tools when useful:** Class III cold laser and ESWT shockwave for stubborn problem areas.
+- **Measure & adapt:** short re‑checks to confirm what’s working and adjust the plan together.
 {: .reveal .reveal--fade }
 
 ### Types of Care
