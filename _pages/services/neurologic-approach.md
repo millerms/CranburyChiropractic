@@ -107,9 +107,13 @@ Your safety comes first. We screen for red flags, use imaging only when it would
 </div>
 
 ### References
+{: .reveal .reveal--fade }
 - American College of Physicians (2017). Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain — Clinical Practice Guideline. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
+{: .reveal .reveal--fade }
 - NICE Guideline NG59 (Low back pain and sciatica in over 16s). <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+{: .reveal .reveal--fade }
 - Sherrington C, et al. (2019). Exercise for preventing falls in older people — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31638221</a>
+{: .reveal .reveal--fade }
 - McDonnell MN, Hillier SL. (2015). Vestibular rehabilitation for unilateral peripheral vestibular dysfunction — Cochrane Review. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 26024635</a>
 
 ---
