@@ -1,0 +1,42 @@
+{%- comment -%}
+  Responsive <picture> helper
+  Params:
+    - src: required image path
+    - alt: alt text (required for non-decorative)
+    - class: optional class string
+    - width, height: optional intrinsic dimensions to prevent CLS
+    - sizes: optional sizes attribute (default: 100vw)
+    - loading: lazy|eager (default: lazy)
+    - decoding: async|auto (default: async)
+    - fetchpriority: high|low|auto (optional)
+{%- endcomment -%}
+{%- assign _src = include.src -%}
+{%- assign _ext = _src | split:'.' | last | downcase -%}
+{%- assign _is_convertible = false -%}
+{%- if _ext == 'jpg' or _ext == 'jpeg' or _ext == 'png' -%}
+  {%- assign _is_convertible = true -%}
+{%- endif -%}
+{%- assign _alt = include.alt | default: '' -%}
+{%- assign _class = include.class | default: '' -%}
+{%- assign _sizes = include.sizes | default: '100vw' -%}
+{%- assign _loading = include.loading | default: 'lazy' -%}
+{%- assign _decoding = include.decoding | default: 'async' -%}
+{%- assign _fetchpriority = include.fetchpriority -%}
+
+<picture>
+  {%- if _is_convertible -%}
+    <source srcset="{{ _src | relative_url | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' }}" type="image/webp" sizes="{{ _sizes }}">
+  {%- endif -%}
+  <img
+    src="{{ _src | relative_url }}"
+    class="{{ _class }}"
+    alt="{{ _alt | escape_once }}"
+    {%- if include.width %} width="{{ include.width }}"{% endif -%}
+    {%- if include.height %} height="{{ include.height }}"{% endif -%}
+    sizes="{{ _sizes }}"
+    loading="{{ _loading }}"
+    decoding="{{ _decoding }}"
+    {%- if _fetchpriority %} fetchpriority="{{ _fetchpriority }}"{% endif -%}
+  >
+</picture>
+

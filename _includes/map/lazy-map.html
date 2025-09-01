@@ -1,0 +1,23 @@
+{%- comment -%}
+  Lazy Google Map placeholder.
+  Params:
+    - src: required google maps embed URL
+    - title: iframe title for a11y
+    - load: 'click' (default) or 'visible'
+    - aspect: CSS aspect ratio (e.g., '4/3' or '16/9')
+{%- endcomment -%}
+{%- assign _src = include.src -%}
+{%- assign _title = include.title | default: 'Interactive map' -%}
+{%- assign _load = include.load | default: 'click' -%}
+{%- assign _aspect = include.aspect | default: '4/3' -%}
+
+<div class="map-embed" data-load="{{ _load }}" style="aspect-ratio: {{ _aspect }};">
+  <button type="button"
+          class="map-placeholder"
+          data-map-src="{{ _src }}"
+          aria-label="Load map"
+          data-map-title="{{ _title }}">
+    <span class="map-placeholder__label">Load interactive map</span>
+  </button>
+</div>
+

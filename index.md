@@ -152,15 +152,11 @@ The goal is steady, meaningful change so you can move confidently, sleep better,
 <div class="reveal reveal--up">
   <section class="contact-hours">
     <div class="map">
-      <iframe 
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12017.780646219726!2d-73.43573584758363!3d41.14663669559827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e81d06e09b8725%3A0x6a009dd40432130c!2s488%20Main%20Ave%2C%20Norwalk%2C%20CT%2006851!5e0!3m2!1sen!2sus!4v1755148035773!5m2!1sen!2sus" 
-          width="600" 
-          height="450"
-          style="border:0;" 
-          allowfullscreen="" 
-          loading="lazy" 
-          referrerpolicy="no-referrer-when-downgrade">
-      </iframe>
+      {% include map/lazy-map.html 
+         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12017.780646219726!2d-73.43573584758363!3d41.14663669559827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e81d06e09b8725%3A0x6a009dd40432130c!2s488%20Main%20Ave%2C%20Norwalk%2C%2006851!5e0!3m2!1sen!2sus!4v1755148035773!5m2!1sen!2sus"
+         title="Google Map: Cranbury Chiropractic Center, 488 Main Ave, Norwalk, CT"
+         load="click"
+         aspect="4/3" %}
     </div>
 
     <div class="location-details">

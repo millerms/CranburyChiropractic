@@ -48,7 +48,7 @@
     <picture>
       <source srcset="{{ page.header.image | relative_url | replace: '.jpg', '.webp' | replace: '.png', '.webp' }}" type="image/webp">
       <img src="{{ page.header.image | relative_url }}"
-           alt="{{ image_description }}" class="page__hero-image"
+           alt="{{ image_description }}" class="page__hero-image" decoding="async"
            {% if page.header.fetchpriority %}fetchpriority="{{ page.header.fetchpriority }}"{% endif %}
            {% if page.header.image_width %}width="{{ page.header.image_width }}"{% endif %}
            {% if page.header.image_height %}height="{{ page.header.image_height }}"{% endif %}>
