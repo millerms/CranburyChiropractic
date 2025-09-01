@@ -50,10 +50,10 @@ Clearer sensory input and better joint motion help your brain coordinate movemen
 {: .reveal .reveal--fade }
 
 ### Evidence snapshot
-- Clinical guidelines for back and neck pain consistently recommend non‑pharmacologic care—education, exercise, and manual therapy—as first‑line options.
-- Research on sensorimotor (visual/vestibular/proprioceptive) training suggests it can improve balance, motor control, and comfort in many people.
-- Balance programs reduce fall risk in older adults; we quantify steadiness with a computerized balance score you can track over time.
-- Combining manual therapy with targeted exercises is often more helpful than either alone for many musculoskeletal complaints.
+- Major guidelines for back and neck pain recommend **non‑pharmacologic care first** (education, exercise, and manual therapies when appropriate), consistent with the American College of Physicians (ACP, 2017) and NICE NG59 (updated 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+- **Vestibular rehabilitation** is safe and effective for unilateral peripheral vestibular dysfunction (dizziness/balance from inner‑ear causes). <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">Cochrane 2015</a>
+- **Exercise programmes reduce falls** in community‑dwelling older adults; balance/functional training are key components. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
+- Combining **targeted exercise** with **manual therapy** is commonly recommended in guidelines and clinical pathways for many musculoskeletal complaints; we use that blend when it fits your exam and goals. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP 2017</a>
 {: .reveal .reveal--fade }
 
 ### Tools we may use
@@ -108,13 +108,15 @@ Your safety comes first. We screen for red flags, use imaging only when it would
 
 ### References
 {: .reveal .reveal--fade }
-- American College of Physicians (2017). Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain — Clinical Practice Guideline. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
+- Qaseem A, Wilt TJ, McLean RM, Forciea MA; Clinical Guidelines Committee of the American College of Physicians; Denberg TD, Barry MJ, Boyd C, Chow RD, Fitterman N, Harris RP, Humphrey LL, Vijan S. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2017 Apr 4;166(7):514-530. doi: 10.7326/M16-2367. Epub 2017 Feb 14. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
 {: .reveal .reveal--fade }
-- NICE Guideline NG59 (Low back pain and sciatica in over 16s). <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+- NICE Guideline NG59 (Low back pain and sciatica in over 16s; last updated 2020). <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
 {: .reveal .reveal--fade }
-- Sherrington C, et al. (2019). Exercise for preventing falls in older people — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31638221</a>
+- Sherrington C, Fairhall N, Wallbank G, et al. Exercise for preventing falls in older people living in the community: an abridged Cochrane systematic review. Br J Sports Med. 2020;54(15):885–891. doi:10.1136/bjsports-2019-101512. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">PubMed 31792067</a>
 {: .reveal .reveal--fade }
-- McDonnell MN, Hillier SL. (2015). Vestibular rehabilitation for unilateral peripheral vestibular dysfunction — Cochrane Review. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 26024635</a>
+- Ng CACM, Fairhall N, Wallbank G, Tiedemann A, Michaleff ZA, Sherrington C. Exercise for falls prevention in community-dwelling older adults: trial and participant characteristics, interventions and bias in clinical trials from a systematic review. BMJ Open Sport Exerc Med. 2019 Dec. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31908838</a>
+{: .reveal .reveal--fade }
+- McDonnell MN, Hillier SL. Vestibular rehabilitation for unilateral peripheral vestibular dysfunction. Cochrane Database Syst Rev. 2015 Jan. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 25581507</a>
 {: .reveal .reveal--fade }
 ---
 

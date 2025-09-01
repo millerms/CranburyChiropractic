@@ -2,42 +2,47 @@
 layout: single
 title: "Cold Laser Therapy (Class III)"
 permalink: /services/laser-therapy/
-description: "Class III low‑level (\"cold\") laser—photobiomodulation used alongside care to help calm irritation and support recovery."
+description: "Class III low‑level (\"cold\") laser—photobiomodulation used alongside active care to help calm irritation and support recovery."
 sidebar:
   nav: "services"
 classes: wide
 ---
 
 ## Overview
-Class III “cold” laser uses specific light to support your body’s recovery. It may help calm irritation and support tissue healing—used on its own or alongside adjustments and exercise. It’s called “cold” because treatment is non‑thermal and usually feels comfortable.
+Class III “cold” laser uses specific light to support your body’s recovery. We use it **selectively**—mainly for irritable tendon or fascia problems—and almost always **alongside an active plan** (adjustments, simple drills, and loading) so improvements carry over into daily life. It’s called “cold” because treatment is non‑thermal and usually feels comfortable.
 {: .reveal .reveal--fade }
 
 ### How it works
-Cold laser (photobiomodulation) is absorbed by cells and can influence mitochondrial energy (ATP), local circulation, and chemical messengers involved in healing. Treatments are non‑invasive and comfortable; we use protective eyewear.
+Cold laser (photobiomodulation) is absorbed by cells and can influence **mitochondrial energy (ATP)**, **local circulation**, and **pain‑modulating signals**. Dosing (wavelength, energy, time, and target depth) matters more than device marketing. Treatments are non‑invasive.
 {: .reveal .reveal--fade }
 
 ### When we use it
-- Irritated joints or soft tissues after overuse/sprains/strains  
-- Tendon complaints (e.g., achilles, rotator cuff, elbow)  
-- Plantar fascia or other persistent sore spots  
-- As an add-on to your active care plan
+- **Plantar fascia** irritation or heel pain
+- **Tendinopathy** (e.g., Achilles, patellar, rotator cuff, lateral elbow) when tissues are sore and loading alone isn’t enough
+- **Post‑overuse** soft‑tissue irritability to help you resume activity
+- As a comfort‑focused **adjunct** to an active care plan
+{: .reveal .reveal--fade }
+
+### When we don’t
+Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benefit for **non‑specific low‑back pain** in higher‑quality reviews. We’ll tell you when another approach is a better first step.
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Evaluate** – confirm cold laser is appropriate for you  
-2. **Treatment** – typically **5–15 minutes**; usually no heat (sometimes mild warmth)  
-3. **No downtime** – you can resume your day  
-4. **Series** – some people benefit from several sessions
+1. **Evaluate** — confirm cold laser fits your goals and findings  
+2. **Treatment** — typically **5–15 minutes**; most feel little to no sensation (sometimes mild warmth)  
+3. **Series** — many people benefit from a short series (**3–6 sessions**)  
+4. **No downtime** — you can resume your day; we’ll pair it with simple drills  
+5. **Track** — quick rechecks guide any adjustments to the plan
 {: .reveal .reveal--fade }
 
 ### How we measure progress
 - Comfort during activities and daily tasks  
-- Range-of-motion and functional milestones  
+- Range‑of‑motion and functional milestones  
 - Your own report of “how it feels” over time
 {: .reveal .reveal--fade }
 
-> We’ll tell you if cold laser isn’t the right match or if another service is a better first step.
->{: .reveal .reveal--fade }
+> We’ll tell you if cold laser isn’t the right match or if another service is a better first step. Your result comes first.
+{: .notice--primary .reveal .reveal--fade }
 
 ### FAQs
 
@@ -45,58 +50,54 @@ Cold laser (photobiomodulation) is absorbed by cells and can influence mitochond
   <details class="reveal reveal--up">
     <summary>Is it safe?</summary>
     <div class="faq__content">
-      Yes, Class III lasers are generally safe when used appropriately. They’re non‑thermal and most people feel little to no sensation during treatment.
+      Yes, Class III lasers are generally safe when used appropriately. They’re non‑thermal and most people feel little to no sensation during treatment. We avoid use over the eyes and follow standard safety guidelines.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Is there research to support it?</summary>
     <div class="faq__content">
-      Yes. A few examples:
+      Yes—especially for some tendon and plantar‑fascia problems when dosing is appropriate and care is paired with exercise. Results are <strong>mixed</strong> in other areas and <strong>not supportive</strong> for non‑specific low‑back pain. Representative sources:
       <ul>
-        <li>Chow RT et al. Low‑level laser therapy for neck pain — systematic review/meta‑analysis of randomized trials. <a href="https://pubmed.ncbi.nlm.nih.gov/19913903/" target="_blank" rel="noopener">PubMed 19913903</a></li>
-        <li>Huang Z et al. Low‑level laser therapy for chronic low back pain — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/26667480/" target="_blank" rel="noopener">PubMed 26667480</a></li>
+        <li>Naterstad IF, Joensen J, Bjordal JM, Couppé C, Lopes-Martins RAB, Stausholm MB. Efficacy of low-level laser therapy in patients with lower extremity tendinopathy or plantar fasciitis: systematic review and meta-analysis of randomised controlled trials. BMJ Open. 2022 Sep. <a href="https://pubmed.ncbi.nlm.nih.gov/36171024/" target="_blank" rel="noopener">PubMed 36171024</a></li>
+        <li>Tomazoni SS, Almeida MO, Bjordal JM, Stausholm MB, Machado CDSM, Leal-Junior ECP, Costa LOP. Photobiomodulation therapy does not decrease pain and disability in people with non-specific low back pain: a systematic review. J Physiother. 2020 Jul. <a href="https://pubmed.ncbi.nlm.nih.gov/32680739/" target="_blank" rel="noopener">PubMed 32680739</a></li>
       </ul>
-      Evidence varies by condition and dose; we use laser alongside active care when it’s a good fit.
+    That's why we use cold laser selectively, as an adjunct to an active plan.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Why Class III ("cold") and not Class IV?</summary>
     <div class="faq__content">
-      <ul>
-        <li>Outcomes depend on the right <strong>dose</strong> (wavelength, energy, and time), not just the device class.</li>
-        <li>Class III is <strong>non‑thermal and comfortable</strong>, and pairs well with adjustments and exercises.</li>
-        <li>Class IV can deliver dose faster, but it’s <strong>not inherently more effective</strong>; we focus on delivering the right dose safely.</li>
-      </ul>
+      Device <em>class</em> refers mainly to power/eye‑safety categories. Outcomes depend on the delivered **dose** at the tissue (wavelength, energy, time, target depth), not class alone. Class IV units can deliver dose faster and feel warmer; Class III is comfortable and gives us fine control. We focus on safe, effective dosing matched to your case.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Will I feel anything?</summary>
     <div class="faq__content">
-      Most people feel little to no sensation. Some may notice mild warmth.
+      Most people feel little to no sensation. Some notice mild warmth.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>How many sessions will I need?</summary>
     <div class="faq__content">
-      It varies by condition, but many benefit from a <strong>short series</strong> (3–6 sessions). We reassess and adjust as needed.
+      It varies by condition, but many benefit from a short series (often **3–6 sessions**). We reassess and adjust as needed.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Can I combine it with other care?</summary>
     <div class="faq__content">
-      Yes, many people benefit from combining cold laser therapy with other treatments like adjustments and exercises.
+      Yes. We typically pair cold laser with adjustments, targeted drills, and a simple loading plan so changes last.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>What if I need another provider?</summary>
     <div class="faq__content">
-      We’ll coordinate with the right specialist if needed, whether it’s PT, orthopedics, or another area.
+      We’ll coordinate with the right specialist if needed (PT, orthopedics, etc.). The goal is the best result for you.
     </div>
   </details>
 </div>

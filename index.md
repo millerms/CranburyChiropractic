@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
+excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (Class III cold laser, ESWT shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
 image: "/assets/images/biking-italy.webp"
 classes: hero-home
 permalink: /
@@ -58,14 +58,14 @@ feature_row:
   - #image_path: /assets/images/feature-sport.jpg
     alt: "Cold Laser Therapy"
     title: "Cold Laser Therapy"
-    excerpt: "Cold laser therapy (low-level laser therapy) uses gentle, non-heating light energy to reduce inflammation, promote tissue healing, and relieve pain—without medication or invasive procedures. This safe, comfortable treatment is suitable for a wide range of musculoskeletal and nerve-related conditions."
+    excerpt: "Class III ‘cold’ laser (photobiomodulation) uses specific light to help calm irritation and support recovery in some tendon and plantar‑fascia problems—used selectively and alongside an active plan."
     url: "/services/laser-therapy/"
     btn_label: "How does it work?"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Shockwave Therapy (ESWT)"
     title: "Shockwave Therapy (ESWT)"
-    excerpt: "Shockwave therapy (extracorporeal shockwave therapy) uses acoustic waves to promote healing and reduce pain in stubborn areas. This non-invasive treatment is effective for conditions like plantar fasciitis, tendonitis, and more."
+    excerpt: "Shockwave (ESWT) delivers pulsed acoustic energy that can prompt a local repair response—best supported for plantar fasciitis and mid‑portion Achilles tendinopathy. We pair it with a simple loading plan."
     url: "/services/shockwave-therapy-eswt/"
     btn_label: "Explore shockwave care"
     btn_class: "btn--primary"

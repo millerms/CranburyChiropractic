@@ -22,14 +22,13 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 ---
 
 ## How Your Visit Works
-- **Screen** — Quick tests to find your limiter: balance, range of motion, or strength.
-- **Evaluate** — We assess your movement, comfort, and how different areas influence each other.
-- **Plan** — A right-sized plan that fits your life, whether it’s adjustments, exercise, laser therapy, or shockwave therapy.
-- **Educate** — We explain each step and why it matters, so you understand how it fits your goals.
-- **Empower** — You’ll get clear, practical homework that fits your schedule—no long workouts or complex exercises.
-- **Treat** — Precise, gentle techniques; add-ons like laser or shockwave when appropriate.
-- **Track** — We measure progress with functional tasks, comfort changes, and tissue tolerance.
-- **Reassess** — Quick rechecks to confirm what’s helping and adjust as needed.
+- **Listen & history** — your goals and story guide the plan.
+- **Targeted screen** — quick checks to map the **limiter** (balance, range, control, or tissue irritability).
+- **Evaluate** — how input (eyes, inner ear, joints) connects to output (coordination, strength, confidence).
+- **Plan** — a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
+- **Treat** — precise, comfortable techniques matched to your preferences.
+- **Home micro‑sets** — brief exercises you can actually do.
+- **Track & reassess** — quick rechecks so you know what’s working.
 {: .reveal .reveal--up }
 
 > We’re here to help you move better, recover faster, and stay active. If you have questions or need assistance, don’t hesitate to reach out.
@@ -41,41 +40,41 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 <ul class="services-index">
   <li class="reveal reveal--up">
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
-    Aligns sensory input (eyes, inner ear, joints) with motor control so movements feel clearer and steadier.
+    A practical brain–body lens: align sensory input (eyes, inner ear, joints) with motor control so movement feels clearer and steadier.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/balance-stability/' | relative_url }}"><strong>Balance & Stability</strong></a><br>
-    Targeted balance work with a computerized tracker and an easy‑to‑read risk‑of‑fall style score.
+    Targeted balance work with simple drills and a computerized tracker that gives an easy‑to‑read risk‑of‑fall style score.
   </li>
 
   <li class="reveal reveal--up">
-    <a href="{{ '/services/full-spine-extremities/' | relative_url }}"><strong>Full-Spine & Extremities</strong></a><br>
-    Precise, joint‑specific adjustments for the spine and limbs—paired with simple exercises when helpful.
+    <a href="{{ '/services/full-spine-extremities/' | relative_url }}"><strong>Full‑Spine & Extremities</strong></a><br>
+    Precise, joint‑specific adjustments for the spine and limbs—paired with straightforward exercises when helpful.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Cold Laser Therapy (Class III)</strong></a><br>
-    Gentle photobiomodulation that may calm irritation and support tissue recovery; used alongside active care.
+    Class III photobiomodulation used <em>selectively</em> to help calm irritation and support recovery—always alongside an active plan.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}"><strong>Shockwave Therapy (ESWT)</strong></a><br>
-    Pulsed acoustic energy that prompts a local repair signal—often helpful for stubborn tendon or fascia spots.
+    Pulsed acoustic energy that prompts a local repair signal—best supported for plantar fasciitis and mid‑portion Achilles; paired with a simple loading plan.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/diversified-technique/' | relative_url }}"><strong>Diversified Technique</strong></a><br>
-    A widely used, hands‑on approach with precise, joint‑specific adjustments when they fit your goals and exam.
+    A widely used, hands‑on method for precise, joint‑specific adjustments—often integrated within Full‑Spine care when it fits your exam and goals.
   </li>
 </ul>
 
 ---
 
 ## Not sure where to start?
-- If you’re not sure which service fits best, we can help. Our **Neurologic Approach** page explains how we find your limiter and shape care. If steadiness is your main concern, jump straight to **Balance & Stability**. 
-- If you’re looking for adjustments or soft-tissue work, check out **Full-Spine & Extremities**. For persistent spots, see **Shockwave Therapy (ESWT)** or **Cold Laser Therapy**.
-- If you have any questions or need assistance, don’t hesitate to reach out.
+- Start with the **Neurologic Approach** to see how we map your limiter and shape care.
+- If steadiness is the main concern, go to **Balance & Stability**. If you’re after joint work, see **Full‑Spine & Extremities**.
+- For persistent tendon/fascia spots, compare **Shockwave (ESWT)** and **Cold Laser (Class III)**—we’ll help you choose what fits your case and goals.
 {: .reveal .reveal--up }
 
 ---
