@@ -106,7 +106,20 @@ Your safety comes first. We screen for red flags, use imaging only when it would
   </details>
 </div>
 
-### References
+---
+
+<div class="contact-actions reveal reveal--up">
+  <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
+    <span class="btn-label">Book on Zocdoc</span>
+  </a>
+  <a href="tel:+12038463424" class="btn">
+    <span class="btn-label">Call (203) 846-3424</span>
+  </a>
+</div>
+
+---
+
+#### References
 {: .reveal .reveal--fade }
 - Qaseem A, Wilt TJ, McLean RM, Forciea MA; Clinical Guidelines Committee of the American College of Physicians; Denberg TD, Barry MJ, Boyd C, Chow RD, Fitterman N, Harris RP, Humphrey LL, Vijan S. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2017 Apr 4;166(7):514-530. doi: 10.7326/M16-2367. Epub 2017 Feb 14. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
 {: .reveal .reveal--fade }
@@ -118,13 +131,4 @@ Your safety comes first. We screen for red flags, use imaging only when it would
 {: .reveal .reveal--fade }
 - McDonnell MN, Hillier SL. Vestibular rehabilitation for unilateral peripheral vestibular dysfunction. Cochrane Database Syst Rev. 2015 Jan. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 25581507</a>
 {: .reveal .reveal--fade }
----
 
-<div class="contact-actions reveal reveal--up">
-  <a href="https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835" class="btn">
-    <span class="btn-label">Book on Zocdoc</span>
-  </a>
-  <a href="tel:+12038463424" class="btn">
-    <span class="btn-label">Call (203) 846-3424</span>
-  </a>
-</div>
