@@ -18,7 +18,7 @@ A quick guide to the most common issues we see — and how we match care to your
 ## How we match care to your case
 {: .reveal .reveal--up }
 - **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the limiter.
-- **Precise joint care:** full‑spine and **extremity** adjustments when appropriate—never one‑size‑fits‑all.
+- **Precise joint care:** full‑spine and extremity adjustments when appropriate—never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
 - **Progress you can feel:** quick rechecks so you know what’s helping.
