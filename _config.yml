@@ -12,7 +12,7 @@ baseurl: "/CranburyChiropractic"                             # empty means the s
 
 tagline: "Cranbury Chiropractic Center, LLC"
 # Use for Open Graph/Twitter cards and favicon fallbacks
-logo: "/assets/icons/cranbury-mark.svg"
+logo: ""
 #logo_width: 34   # adjust to taste
 #favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
 logo_alt: "Cranbury Chiropractic Logo"
