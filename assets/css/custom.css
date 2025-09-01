@@ -830,14 +830,14 @@
 /* Hidden links panel as frosted dropdown when visible */
 .masthead .greedy-nav { position: relative; }
 /* Default: immediate tinted background (prevent white box flash) */
-.masthead .greedy-nav .hidden-links { background: hsl(var(--glass-tint-hsl-submenu) / .75) !important; box-shadow: none; border: 0; }
+.masthead .greedy-nav .hidden-links { background: hsl(var(--glass-tint-hsl-submenu) / .8) !important; box-shadow: none; border: 0; }
 /* When open, show frosted panel */
 .masthead .greedy-nav .hidden-links:not(.hidden) {
   position: absolute; top: calc(100% + 8px); right: .75rem; display: flex; flex-direction: column;
   gap: .25rem; padding: .5rem; border-radius: var(--radius-lg);
   -webkit-backdrop-filter: blur(16px) saturate(180%);
   backdrop-filter: blur(16px) saturate(180%);
-  background-color: hsl(var(--glass-tint-hsl-submenu) / .75) !important;
+  background-color: hsl(var(--glass-tint-hsl-submenu) / .8) !important;
   border: 1px solid hsl(var(--glass-tint-hsl-submenu) / .60);
   box-shadow: 0 12px 32px rgba(0,0,0,.40);
 }
@@ -916,7 +916,7 @@
 /* Fallbacks for browsers without backdrop-filter */
 @supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
   .masthead { background-color: hsl(var(--glass-tint-hsl) / .85); }
-  .masthead .greedy-nav .hidden-links:not(.hidden) { background-color: hsl(var(--glass-tint-hsl) / .75); }
+  .masthead .greedy-nav .hidden-links:not(.hidden) { background-color: hsl(var(--glass-tint-hsl) / .8); }
 }
 
 /* ======================================
