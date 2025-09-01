@@ -42,7 +42,7 @@
   /* Glass masthead tuning */
   /* Subtle neutral frost tint for readability */
   --glass-tint-hsl: 220 50% 16%;
-  --glass-tint-hsl-submenu: 220 50% 85%;
+  --glass-tint-hsl-submenu: 220 50% 95%;
   --glass-alpha: .18;    /* surface fill amount */
   --glass-stroke: .28;   /* border alpha */
   --glass-shadow: .28;   /* shadow opacity */
@@ -642,7 +642,7 @@
   /* Desktop / wide: animate dropdown */
   position: absolute; left: 0; top: 100%; z-index: 1000;
   min-width: 240px; padding: 8px 0; margin: 8px 0 0 0;
-  background: hsl(var(--glass-tint-hsl-submenu) / .92) !important; /* immediate tint to prevent white flash */
+  background: hsl(var(--glass-tint-hsl-submenu) / .95) !important; /* increased opacity for readability */
   border: 0px solid var(--color-border); border-radius: 6px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
   /* animation state */
@@ -832,14 +832,14 @@
 /* Hidden links panel as frosted dropdown when visible */
 .masthead .greedy-nav { position: relative; }
 /* Default: immediate tinted background (prevent white box flash) */
-.masthead .greedy-nav .hidden-links { background: hsl(var(--glass-tint-hsl-submenu) / .40) !important; box-shadow: none; border: 0; }
+.masthead .greedy-nav .hidden-links { background: hsl(var(--glass-tint-hsl-submenu) / .75) !important; box-shadow: none; border: 0; }
 /* When open, show frosted panel */
 .masthead .greedy-nav .hidden-links:not(.hidden) {
   position: absolute; top: calc(100% + 8px); right: .75rem; display: flex; flex-direction: column;
   gap: .25rem; padding: .5rem; border-radius: var(--radius-lg);
   -webkit-backdrop-filter: blur(16px) saturate(180%);
   backdrop-filter: blur(16px) saturate(180%);
-  background-color: hsl(var(--glass-tint-hsl-submenu) / .40) !important;
+  background-color: hsl(var(--glass-tint-hsl-submenu) / .75) !important;
   border: 1px solid hsl(var(--glass-tint-hsl-submenu) / .60);
   box-shadow: 0 12px 32px rgba(0,0,0,.40);
 }
@@ -918,7 +918,7 @@
 /* Fallbacks for browsers without backdrop-filter */
 @supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
   .masthead { background-color: hsl(var(--glass-tint-hsl) / .85); }
-  .masthead .greedy-nav .hidden-links:not(.hidden) { background-color: hsl(var(--glass-tint-hsl) / .92); }
+  .masthead .greedy-nav .hidden-links:not(.hidden) { background-color: hsl(var(--glass-tint-hsl) / .75); }
 }
 
 /* ======================================
