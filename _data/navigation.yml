@@ -1,12 +1,12 @@
 main:
-  - title: "Services"
-    url: "/services/"
-  - title: "Meet the Doctor"
-    url: "/doctor/"
   - title: "What We Treat"
     url: "/treat/"
+  - title: "Services"
+    url: "/services/"
   - title: "New Patients"
     url: "/new-patients/"
+  - title: "Meet the Doctor"
+    url: "/doctor/"
   - title: "Insurance & Pricing"
     url: "/insurance/"
 
