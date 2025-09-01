@@ -11,7 +11,8 @@ url: "https://millerms.github.io"  # production URL (can be your GitHub Pages UR
 baseurl: "/CranburyChiropractic"                             # empty means the site is served at the domain root
 
 tagline: "Cranbury Chiropractic Center, LLC"
-#logo: "/assets/icons/cranbury-mark.svg"
+# Use for Open Graph/Twitter cards and favicon fallbacks
+logo: "/assets/icons/cranbury-mark.svg"
 #logo_width: 34   # adjust to taste
 #favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
 logo_alt: "Cranbury Chiropractic Logo"
@@ -90,6 +91,12 @@ business:
     addressRegion: "CT"
     postalCode: "06851"
     addressCountry: "US"
+  # Public Google Maps URL for hasMap in JSON-LD
+  map: "https://maps.google.com/?q=488+Main+Ave,+Norwalk,+CT+06851"
+  # Optional: add exact coordinates if known
+  # geo:
+  #   latitude: 41.14664
+  #   longitude: -73.43574
   openingHours:
     - "Mo 08:00-13:00,15:00-18:00"
     - "We 08:00-13:00,15:00-18:00"
@@ -166,6 +173,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # Pagination with jekyll-paginate
 paginate: 5
