@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "All Services"
+image: "/assets/images/spine.webp"
 classes: wide hero-services
 permalink: /services/
 description: "Overview of chiropractic care at Cranbury Chiropractic — neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."

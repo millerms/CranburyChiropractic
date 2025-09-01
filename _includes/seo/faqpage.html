@@ -1,0 +1,28 @@
+{% comment %}
+  FAQPage JSON-LD via front matter
+  Usage in a page's front matter:
+  faqs:
+    - q: "Question?"
+      a: "Answer."
+{% endcomment %}
+{% if page.faqs %}
+<script type="application/ld+json" id="faq-jsonld">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faqs %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+

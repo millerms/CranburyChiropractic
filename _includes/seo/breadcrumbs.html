@@ -1,0 +1,15 @@
+{% assign abs_base = site.url | append: site.baseurl %}
+{% if page.url and page.url contains '/services/' and page.title %}
+<script type="application/ld+json" id="breadcrumbs-jsonld">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ abs_base }}/"},
+    {"@type": "ListItem", "position": 2, "name": "Services", "item": "{{ abs_base }}/services/"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ abs_base }}{{ page.url }}"}
+  ]
+}
+</script>
+{% endif %}
+

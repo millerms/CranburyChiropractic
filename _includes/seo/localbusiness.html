@@ -1,0 +1,48 @@
+{% if site.business %}
+<script type="application/ld+json" id="business-jsonld">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "@id": "{{ site.url | append: site.baseurl }}/#business",
+  "name": {{ site.business.name | jsonify }},
+  {% if site.business.legalName %}"legalName": {{ site.business.legalName | jsonify }}, {% endif %}
+  "url": "{{ site.url | append: site.baseurl }}/",
+  {% if site.business.logo %}"logo": "{{ site.business.logo | relative_url | absolute_url }}",{% endif %}
+  {% if site.business.image %}"image": ["{{ site.business.image | relative_url | absolute_url }}"],{% endif %}
+  {% if site.business.phone %}"telephone": {{ site.business.phone | jsonify }},{% endif %}
+  {% if site.business.email %}"email": {{ site.business.email | jsonify }},{% endif %}
+  {% if site.business.sameAs %}"sameAs": {{ site.business.sameAs | jsonify }},{% endif %}
+  {% if site.keywords %}"knowsAbout": {{ site.keywords | jsonify }},{% endif %}
+  "medicalSpecialty": "Chiropractic",
+  {% if site.business.map %}"hasMap": {{ site.business.map | jsonify }},{% endif %}
+  {% if site.business.address %}
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ site.business.address.streetAddress | jsonify }},
+    "addressLocality": {{ site.business.address.addressLocality | jsonify }},
+    "addressRegion": {{ site.business.address.addressRegion | jsonify }},
+    "postalCode": {{ site.business.address.postalCode | jsonify }},
+    "addressCountry": {{ site.business.address.addressCountry | jsonify }}
+  },
+  {% endif %}
+  {% if site.business.geo %}
+  "geo": {
+    "@type": "GeoCoordinates",
+    {% if site.business.geo.latitude %}"latitude": {{ site.business.geo.latitude }}, {% endif %}
+    {% if site.business.geo.longitude %}"longitude": {{ site.business.geo.longitude }} {% endif %}
+  },
+  {% endif %}
+  {% if site.business.openingHours %}"openingHours": {{ site.business.openingHours | jsonify }},{% endif %}
+  {% if site.business.phone %}
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": {{ site.business.phone | jsonify }},
+    "contactType": "customer service",
+    "areaServed": "US"
+  }],
+  {% endif %}
+  "priceRange": "$"
+}
+</script>
+{% endif %}
+

@@ -3,6 +3,7 @@ layout: splash
 title: "Meet the Doctor"
 permalink: /doctor/
 classes: doctor-page
+image: "/assets/images/drawing.webp"
 header:
   overlay_color: rgba(16, 61, 45, 0.8)
   overlay_filter: "0.45"

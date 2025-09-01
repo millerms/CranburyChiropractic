@@ -38,3 +38,41 @@
     </p>
   </div>
 </footer>
+<script>
+// Build FAQPage JSON-LD from accordion markup when present and not already emitted
+(function(){
+  try {
+    if (document.getElementById('faq-jsonld')) return; // server-side JSON-LD exists
+    var root = document.querySelector('.faq');
+    if (!root) return;
+    var details = root.querySelectorAll('details');
+    if (!details.length) return;
+    var qa = [];
+    details.forEach(function(d){
+      var q = (d.querySelector('summary') || {}).textContent || '';
+      var aEl = d.querySelector('.faq__content') || d;
+      var a = aEl.textContent || '';
+      q = q.replace(/\s+/g,' ').trim();
+      a = a.replace(/\s+/g,' ').trim();
+      if (q && a) qa.push({q:q, a:a});
+    });
+    if (!qa.length) return;
+    var json = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": qa.map(function(item){
+        return {
+          "@type": "Question",
+          "name": item.q,
+          "acceptedAnswer": { "@type": "Answer", "text": item.a }
+        };
+      })
+    };
+    var script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.id = 'faq-jsonld';
+    script.textContent = JSON.stringify(json);
+    document.head.appendChild(script);
+  } catch(e) { /* no-op */ }
+})();
+</script>

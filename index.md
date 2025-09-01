@@ -3,6 +3,7 @@ layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
 excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (laser, shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
+image: "/assets/images/biking-italy.webp"
 classes: hero-home
 permalink: /
 header:

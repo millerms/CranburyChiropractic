@@ -80,7 +80,7 @@ business:
   # TODO: replace with your preferred public inbox
   email: "contact@replace-me.example"
   logo: "/assets/icons/cranbury-mark.svg"
-  image: "/assets/images/office.jpg"
+  image: "/assets/images/welcome.webp"
   sameAs:
     - "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
     - "https://www.zocdoc.com/doctor/paul-l-miller-dc-136069"
