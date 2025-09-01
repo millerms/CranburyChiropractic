@@ -115,7 +115,7 @@ Your safety comes first. We screen for red flags, use imaging only when it would
 - Sherrington C, et al. (2019). Exercise for preventing falls in older people — systematic review/meta‑analysis. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31638221</a>
 {: .reveal .reveal--fade }
 - McDonnell MN, Hillier SL. (2015). Vestibular rehabilitation for unilateral peripheral vestibular dysfunction — Cochrane Review. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 26024635</a>
-
+{: .reveal .reveal--fade }
 ---
 
 <div class="contact-actions reveal reveal--up">
