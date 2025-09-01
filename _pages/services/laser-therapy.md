@@ -69,7 +69,7 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
   <details class="reveal reveal--up">
     <summary>Why Class III ("cold") and not Class IV?</summary>
     <div class="faq__content">
-      Device <em>class</em> refers mainly to power/eye‑safety categories. Outcomes depend on the delivered **dose** at the tissue (wavelength, energy, time, target depth), not class alone. Class IV units can deliver dose faster and feel warmer; Class III is comfortable and gives us fine control. We focus on safe, effective dosing matched to your case.
+      Device <em>class</em> refers mainly to power/eye‑safety categories. Outcomes depend on the delivered <strong>dose</strong> at the tissue (wavelength, energy, time, target depth), not class alone. Class IV units can deliver dose faster and feel warmer; Class III is comfortable and gives us fine control. We focus on safe, effective dosing matched to your case.
     </div>
   </details>
 
@@ -83,7 +83,7 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
   <details class="reveal reveal--up">
     <summary>How many sessions will I need?</summary>
     <div class="faq__content">
-      It varies by condition, but many benefit from a short series (often **3–6 sessions**). We reassess and adjust as needed.
+      It varies by condition, but many benefit from a short series (often <strong>3–6 sessions</strong>). We reassess and adjust as needed.
     </div>
   </details>
 
