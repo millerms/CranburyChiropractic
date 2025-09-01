@@ -1,8 +1,8 @@
 main:
-  - title: "What We Treat"
-    url: "/treat/"
   - title: "Services"
     url: "/services/"
+  - title: "What We Treat"
+    url: "/treat/"
   - title: "New Patients"
     url: "/new-patients/"
   - title: "Meet the Doctor"
