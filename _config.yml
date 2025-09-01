@@ -78,9 +78,9 @@ business:
   legalName: "Cranbury Chiropractic Center, LLC"
   phone: "+1-203-846-3424"
   # TODO: replace with your preferred public inbox
-  email: "contact@replace-me.example"
-  logo: "/assets/icons/cranbury-mark.svg"
-  image: "/assets/images/welcome.webp"
+  email: ""
+  logo: ""
+  image: ""
   sameAs:
     - "https://www.zocdoc.com/practice/cranbury-chiropractic-center-43835"
     - "https://www.zocdoc.com/doctor/paul-l-miller-dc-136069"
