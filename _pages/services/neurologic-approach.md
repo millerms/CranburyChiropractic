@@ -52,7 +52,7 @@ Clearer sensory input and better joint motion help your brain coordinate movemen
 ### Evidence snapshot
 - Major guidelines for back and neck pain recommend **non‑pharmacologic care first** (education, exercise, and manual therapies when appropriate), consistent with the American College of Physicians (ACP, 2017) and NICE NG59 (updated 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
 - **Vestibular rehabilitation** is safe and effective for unilateral peripheral vestibular dysfunction (dizziness/balance from inner‑ear causes). <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">Cochrane 2015</a>
-- **Exercise programmes reduce falls** in community‑dwelling older adults; balance/functional training are key components. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
+- **Exercise protocols reduce falls** in community‑dwelling older adults; balance/functional training are key components. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
 - Combining **targeted exercise** with **manual therapy** is commonly recommended in guidelines and clinical pathways for many musculoskeletal complaints; we use that blend when it fits your exam and goals. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP 2017</a>
 {: .reveal .reveal--fade }
 
