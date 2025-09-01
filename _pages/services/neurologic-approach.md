@@ -120,15 +120,10 @@ Your safety comes first. We screen for red flags, use imaging only when it would
 ---
 
 #### References
-{: .reveal .reveal--fade }
+{: .reveal .reveal--fade .refs-small}
 - Qaseem A, Wilt TJ, McLean RM, Forciea MA; Clinical Guidelines Committee of the American College of Physicians; Denberg TD, Barry MJ, Boyd C, Chow RD, Fitterman N, Harris RP, Humphrey LL, Vijan S. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2017 Apr 4;166(7):514-530. doi: 10.7326/M16-2367. Epub 2017 Feb 14. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">PubMed 28192789</a>
-{: .reveal .reveal--fade }
 - NICE Guideline NG59 (Low back pain and sciatica in over 16s; last updated 2020). <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
-{: .reveal .reveal--fade }
 - Sherrington C, Fairhall N, Wallbank G, et al. Exercise for preventing falls in older people living in the community: an abridged Cochrane systematic review. Br J Sports Med. 2020;54(15):885–891. doi:10.1136/bjsports-2019-101512. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">PubMed 31792067</a>
-{: .reveal .reveal--fade }
 - Ng CACM, Fairhall N, Wallbank G, Tiedemann A, Michaleff ZA, Sherrington C. Exercise for falls prevention in community-dwelling older adults: trial and participant characteristics, interventions and bias in clinical trials from a systematic review. BMJ Open Sport Exerc Med. 2019 Dec. <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">PubMed 31908838</a>
-{: .reveal .reveal--fade }
 - McDonnell MN, Hillier SL. Vestibular rehabilitation for unilateral peripheral vestibular dysfunction. Cochrane Database Syst Rev. 2015 Jan. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">PubMed 25581507</a>
-{: .reveal .reveal--fade }
-
+{: .reveal .reveal--fade}

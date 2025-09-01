@@ -421,6 +421,10 @@
 /* End of custom styles */
 /* Custom styles for contact hours */
 
+/* References section: slightly smaller text */
+.page__content h4.refs-small { font-size: 0.75em; }
+.page__content h4.refs-small + ul { font-size: 0.65em; }
+
 /* Typography and spacing */
 .page__content .contact-hours h3 {
   font-size: clamp(1.15rem, 0.6vw + 1rem, 1.45rem);
