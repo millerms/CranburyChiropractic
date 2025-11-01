@@ -18,9 +18,7 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 ## Before Your Visit
 {: .reveal .reveal--up }
 - **Forms:** After you schedule, we’ll email you simple intake forms. Prefer paper? You can print them and bring them in:
-  - [New Patient Intake (PDF)](/assets/forms/new-patient-intake.pdf){: .btn }
-  - [Consent to Treat (PDF)](/assets/forms/consent-to-treat.pdf){: .btn }
-  - [HIPAA (PDF)](/assets/forms/HIPPA.pdf){: .btn }
+  - [New Patient Intake (PDF)](/assets/pdfs/intake-forms.pdf){: .btn }
 - **What to bring:** A list of medications/supplements, any recent imaging or reports (if you have them), and your questions/goals.
 - **Insurance/fees:** We’ll provide itemized receipts upon request. Call us with any questions about current fees.
 - **Arrival:** Please arrive 10-15 minutes early to complete any remaining paperwork.
