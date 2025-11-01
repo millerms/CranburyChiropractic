@@ -17,7 +17,7 @@ A quick guide to the most common issues we see — and how we match care to your
 
 ## How we match care to your case
 {: .reveal .reveal--up }
-- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the limiter.
+- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the limiter—the mobility, control, or tissue-irritability pattern most holding you back.
 - **Precise joint care:** full‑spine and extremity adjustments when appropriate—never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
@@ -37,6 +37,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Examples: mechanical low back pain, neck pain/tension, mid‑back/rib irritation, sciatica‑like leg pain, post‑whiplash soreness (after medical clearance).
       <br><br>
+      <em>Why it helps:</em> Targeted joint work and neurologic drills restore motion, calm irritated tissues, and reduce referred arm or leg symptoms.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — specific joint work to restore motion and comfort</li>
@@ -50,6 +52,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Headache or Jaw Pain &amp; Posture</span><span class="desc">tension, cervicogenic headaches, desk‑strain, TMJ‑related neck issues</span></summary>
     <div class="faq__content">
       Examples: tension‑type headaches, neck‑related headaches, jaw discomfort tied to neck position, upper‑back/shoulder tightness from screen time.
+      <br><br>
+      <em>Why it helps:</em> Improving neck motion and the way eyes, jaw, and posture coordinate eases tension drivers and makes position changes more comfortable.
       <br><br>
       <em>What often helps:</em>
       <ul>
@@ -65,6 +69,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Examples: rotator‑cuff irritation/impingement, biceps/pectoralis tightness, tennis or golfer’s elbow, forearm tendon overload, desk‑related wrist/thumb pain.
       <br><br>
+      <em>Why it helps:</em> Restoring joint mechanics and graded loading reduces tendon stress and keeps strength work from flaring symptoms.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Extremity Adjusting</a> — shoulder, elbow, wrist, hand</li>
@@ -78,6 +84,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Hip, Knee, or Foot/Ankle Pain</span><span class="desc">walking/running pain, stairs, sprains, plantar fascia, Achilles</span></summary>
     <div class="faq__content">
       Examples: hip stiffness, IT‑band/patellofemoral pain, knee osteoarthritis management, ankle sprain recovery, limited big‑toe motion, plantar fasciitis, Achilles tendinopathy.
+      <br><br>
+      <em>Why it helps:</em> Coordinating hip, knee, and ankle input restores smoother gait mechanics and lets tendons adapt without constant flare-ups.
       <br><br>
       <em>What often helps:</em>
       <ul>
@@ -93,6 +101,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Examples: trouble on uneven ground or stairs, history of falls, post‑injury “doesn’t feel steady yet.”
       <br><br>
+      <em>Why it helps:</em> Matching balance drills to the limiter and tracking sway data builds steadiness and confidence step by step.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive exercises</li>
@@ -105,6 +115,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Nerve‑Related Irritation</span><span class="desc">numbness/tingling, “pinched nerve” feelings</span></summary>
     <div class="faq__content">
       Examples: radiating arm pain from the neck, piriformis‑style sciatic irritation, hand numbness from overuse or position.
+      <br><br>
+      <em>Why it helps:</em> Improving how nerves glide, how joints move, and how the nervous system interprets input reduces irritation without overloading sensitive tissue.
       <br><br>
       <em>What often helps:</em>
       <ul>
@@ -121,6 +133,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Examples: hamstring/calf strains, shoulder tendons, runners with hip/knee/ankle chain issues, cyclists with neck/low‑back tightness.
       <br><br>
+      <em>Why it helps:</em> Sequencing joint motion with strength and load progressions helps tissues tolerate training again without flaring.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — timing/coordination</li>
@@ -134,6 +148,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Limited Mobility</span><span class="desc">trouble turning, reaching, bending; “stiff and won’t loosen up”</span></summary>
     <div class="faq__content">
       Examples: shoulder that won’t reach overhead, back/hip that’s stiff getting out of a chair, ankle that never “came back” after a sprain, post‑injury stiffness once medically cleared.
+      <br><br>
+      <em>Why it helps:</em> Pairing precise joint work with control drills teaches your nervous system to keep the new range without guarding.
       <br><br>
       <em>What often helps:</em>
       <ul>
@@ -150,6 +166,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Examples: neck/upper‑back tightness from screens, hip flexor stiffness from sitting, low‑back fatigue with chores or yard work.
       <br><br>
+      <em>Why it helps:</em> Short movement breaks, breathing resets, and targeted joint care keep long days from stacking tension and stiffness.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li>Short posture breaks, breathing exercises, and easy mobility sets</li>
@@ -162,6 +180,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Auto Accidents &amp; Whiplash</span><span class="desc">neck/back soreness, stiffness, post‑impact discomfort</span></summary>
     <div class="faq__content">
       After medical clearance, we focus on gentle, progressive care to restore comfortable motion and control.  
+      <br><br>
+      <em>Why it helps:</em> Graded sensory, balance, and joint work respects irritated tissues while rebuilding confidence in movement.
       <br><br>
       <em>What often helps:</em>
       <ul>
@@ -177,6 +197,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Gentle, comfortable positioning with care tailored to each stage. We use light, precise techniques and simple at‑home exercises to support comfort and mobility.
       <br><br>
+      <em>Why it helps:</em> Supporting pelvic mechanics, breathing, and rib mobility eases daily strain without stressing joints or the baby.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — pelvis, low back, and ribs as appropriate</li>
@@ -191,6 +213,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <div class="faq__content">
       Practical ways to reduce day‑to‑day strain. We blend movement breaks, breathing work, and targeted joint care to help you feel and move better.
       <br><br>
+      <em>Why it helps:</em> Resetting breath and pacing signals plus easing guarded joints keeps tension from compounding through the day.
+      <br><br>
       <em>What often helps:</em>
       <ul>
         <li>“Micro‑breaks,” breathing, and posture strategies</li>
@@ -204,6 +228,8 @@ A quick guide to the most common issues we see — and how we match care to your
     <summary><span class="term">Senior Care</span><span class="desc">balance confidence, mobility, osteoarthritis management</span></summary>
     <div class="faq__content">
       Right‑sized plans for staying active and steady. We emphasize comfort, safety, and measurable progress you can feel in daily life.
+      <br><br>
+      <em>Why it helps:</em> Blending objective balance tracking with gentle mobility keeps you moving while respecting energy and joint tolerance.
       <br><br>
       <em>What often helps:</em>
       <ul>

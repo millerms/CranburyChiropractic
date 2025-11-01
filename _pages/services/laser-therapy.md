@@ -13,24 +13,24 @@ Class III “cold” laser uses specific light to support your body’s recovery
 {: .reveal .reveal--fade }
 
 ### How it works
-Cold laser (photobiomodulation) is absorbed by cells and can influence **mitochondrial energy (ATP)**, **local circulation**, and **pain‑modulating signals**. Dosing (wavelength, energy, time, and target depth) matters more than device marketing. Treatments are non‑invasive.
+Cold laser (photobiomodulation—the use of specific light to support cellular processes) is absorbed by tissue and can influence **mitochondrial energy (ATP)**, **local circulation**, and **pain‑modulating signals**. Results hinge on the delivered dose (wavelength, energy, time, and target depth), not device hype. Treatments are non‑invasive.
 {: .reveal .reveal--fade }
 
 ### When we use it
 - **Plantar fascia** irritation or heel pain
 - **Tendinopathy** (e.g., Achilles, patellar, rotator cuff, lateral elbow) when tissues are sore and loading alone isn’t enough
-- **Post‑overuse** soft‑tissue irritability to help you resume activity
-- As a comfort‑focused **adjunct** to an active care plan
+- For **post‑overuse** soft‑tissue irritability to help you resume activity
+- As a **comfort‑focused adjunct** to an active care plan to decrease pain and support recovery
 {: .reveal .reveal--fade }
 
 ### When we don’t
-Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benefit for **non‑specific low‑back pain** in higher‑quality reviews. We’ll tell you when another approach is a better first step.
+Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benefit for **non‑specific low‑back pain** in higher‑quality reviews. If exercise, manual care, or another modality is more appropriate, we’ll recommend that instead.
 {: .reveal .reveal--fade }
 
 ### What to expect
 1. **Evaluate** — confirm cold laser fits your goals and findings  
 2. **Treatment** — typically **5–15 minutes**; most feel little to no sensation (sometimes mild warmth)  
-3. **Series** — many people benefit from a short series (**3–6 sessions**)  
+3. **Series** — many people benefit from a short series (**3–10 sessions**)  
 4. **No downtime** — you can resume your day; we’ll pair it with simple drills  
 5. **Track** — quick rechecks guide any adjustments to the plan
 {: .reveal .reveal--fade }
@@ -57,12 +57,12 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
   <details class="reveal reveal--up">
     <summary>Is there research to support it?</summary>
     <div class="faq__content">
-      Yes—especially for some tendon and plantar‑fascia problems when dosing is appropriate and care is paired with exercise. Results are <strong>mixed</strong> in other areas and <strong>not supportive</strong> for non‑specific low‑back pain. Representative sources:
+      Yes—especially for some tendon and plantar-fascia problems when dosing is appropriate and care is paired with exercise. Evidence is mixed elsewhere, which is why we match the tool to the case. Representative sources:
       <ul>
         <li>Naterstad IF, Joensen J, Bjordal JM, Couppé C, Lopes-Martins RAB, Stausholm MB. Efficacy of low-level laser therapy in patients with lower extremity tendinopathy or plantar fasciitis: systematic review and meta-analysis of randomised controlled trials. BMJ Open. 2022 Sep. <a href="https://pubmed.ncbi.nlm.nih.gov/36171024/" target="_blank" rel="noopener">PubMed 36171024</a></li>
         <li>Tomazoni SS, Almeida MO, Bjordal JM, Stausholm MB, Machado CDSM, Leal-Junior ECP, Costa LOP. Photobiomodulation therapy does not decrease pain and disability in people with non-specific low back pain: a systematic review. J Physiother. 2020 Jul. <a href="https://pubmed.ncbi.nlm.nih.gov/32680739/" target="_blank" rel="noopener">PubMed 32680739</a></li>
       </ul>
-    That's why we use cold laser selectively, as an adjunct to an active plan.
+      That's why we use cold laser selectively, as an adjunct to an active plan.
     </div>
   </details>
 
@@ -83,7 +83,7 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
   <details class="reveal reveal--up">
     <summary>How many sessions will I need?</summary>
     <div class="faq__content">
-      It varies by condition, but many benefit from a short series (often <strong>3–6 sessions</strong>). We reassess and adjust as needed.
+      It varies by condition, but many benefit from a short series (often <strong>3–10 sessions</strong>). We reassess and adjust as needed.
     </div>
   </details>
 

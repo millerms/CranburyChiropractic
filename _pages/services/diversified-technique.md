@@ -9,45 +9,44 @@ classes: wide
 ---
 
 ## Overview
-Diversified is a precise, hands‑on adjustment method. We position you comfortably, take slack out of a specific joint, and deliver a quick, controlled thrust to restore motion. It can be used for the **spine** and, when appropriate, for **extremity joints** like the ankle, knee, shoulder, or wrist. Some people hear a brief pop—that’s gas releasing inside the joint, not bones grinding.
+Diversified is a precise, hands-on adjustment. We position you comfortably, take up slack in a specific joint, and deliver a quick, controlled thrust to restore motion. We use it for the **spine** and, when appropriate, for **extremity joints** such as the ankle, knee, shoulder, or wrist. A brief pop is normal—that’s gas releasing inside the joint, like cracking a knuckle.
 {: .reveal .reveal--fade }
 
 ### When it may help
-- Stiff or limited motion in a specific joint (neck, mid‑back, low back, rib, ankle, knee, shoulder, wrist)
+- Stiff or limited motion in a specific joint (neck, mid‑back, low back, rib, ankle, knee, shoulder, wrist), to help restore normal  sensory input and motion
 - Discomfort that eases with movement but keeps returning
-- Feeling “stuck,” guarded, or off during everyday tasks or sport
-- After an injury **once it’s safe** to do so, to help restore normal motion
+- Feeling “stuck,” guarded, or off during everyday tasks or sports
+- After an injury, **once it’s safe** to do so
 {: .reveal .reveal--up }
 
 ### Why it works
-Joints are rich in mechanoreceptors that signal your brain about position and motion; restoring clear input often improves coordination and comfort. Diversified is widely used and not one‑size‑fits‑all—we choose it when precise, joint‑specific motion is the goal.
+Joints are rich in mechanoreceptors that signal your brain about position and motion; restoring input often improves coordination and comfort. Diversified is widely used and not one-size-fits-all—we choose it when precise, joint-specific motion is the goal.
 {: .reveal .reveal--up }
 
 ### When we choose something else
 - You prefer to avoid thrust adjustments—totally fine
 - There’s a medical reason to avoid them
-- A different option is a better first step (joint mobilization, instrument‑assisted work, soft‑tissue, or targeted exercise)
+- Another option is a better first step (joint mobilization, instrument-assisted work, soft-tissue, or targeted exercise)
 {: .reveal .reveal--up }
 
 ### How we use it
 - **As a primary treatment** for stiffness or discomfort in a specific joint
 - **Alongside other care** like soft-tissue work, laser therapy, or shockwave
 - **As part of a broader plan** that includes simple exercises to reinforce the change
-- **When it fits your goals** and you’re comfortable with the approach
+- **When it fits your needs** and you’re comfortable with the approach
 {: .reveal .reveal--up }
 
 ### What to expect
-1. **Screen & explain** — history, movement, and joint tests; we discuss options and answer questions  
+1. **Examine & explain** — thorough history, orthopedic, neurologic, and chiropractic exams; we discuss options and answer questions  
 2. **Setup** — comfortable positioning and clear instructions so you know what to expect  
-3. **Adjustment** — a quick, small‑amplitude thrust to a specific joint; a pop may or may not occur  
-4. **Reinforce** — brief activation or mobility work so the change “sticks”  
-5. **Recheck** — confirm changes in motion and comfort, and plan next steps  
+3. **Adjustment** — a quick, small-amplitude thrust to a specific joint; a pop may or may not occur  
+4. **Recheck** — confirm changes in motion and comfort, and plan next steps  
 {: .reveal .reveal--fade }
 
 ### How we measure progress
-- Changes in **range of motion** and ease of movement
+- Changes in **range of motion**, ease of movement, and decreases in pain levels
 - Functional tasks you care about (reach, step, lift/turn) feel smoother
-- Your report of **comfort and confidence** during daily tasks or sport
+- Your report of **comfort and confidence** during daily tasks or sports
 - Simple checks of control/coordination that match your goals
 {: .reveal .reveal--fade }
 
@@ -71,7 +70,7 @@ Joints are rich in mechanoreceptors that signal your brain about position and mo
   <details class="reveal reveal--up">
     <summary>Will it hurt? What’s the pop?</summary>
     <div class="faq__content">
-      Discomfort is usually minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space—not bones rubbing.
+      Discomfort, which is uncommon, is minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space—like popping a knuckle.
     </div>
   </details>
 
@@ -85,7 +84,7 @@ Joints are rich in mechanoreceptors that signal your brain about position and mo
   <details class="reveal reveal--up">
     <summary>How many visits will I need?</summary>
     <div class="faq__content">
-      It depends on your goals and how you respond. We track progress and keep the plan right‑sized.
+      It depends on your goals and how you respond. Typically, if chiropractic treatment is appropriate, you will experience meaningful improvement within two weeks. We track progress, keep the plan right‑sized, and adjust as needed.
     </div>
   </details>
 </div>

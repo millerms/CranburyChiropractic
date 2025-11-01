@@ -38,13 +38,13 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 ## What to Expect on Your First Visit
 {: .reveal .reveal--up }
 
-We’ll start by finding your **limiter**—the thing most likely holding back your movement or comfort—then match care to it.
+We’ll start by finding your **limiter**—the mobility, control, or tissue-irritability pattern most holding you back—then match care to it.
 {: .reveal .reveal--up }
 
 1. **Evaluate** — Conversation and history, plus focused movement and balance checks.  
 2. **Map the limiter** — Mobility, control, or tissue irritability.  
 3. **Plan** — Clear options; we’ll decide together on a right‑sized plan.  
-4. **Treat** — Precise adjustments, soft‑tissue work, and simple exercises. **Class III cold laser** or **ESWT shockwave** when helpful.  
+4. **Treat** — Precise adjustments, soft‑tissue work, and simple exercises. <a href="{{ '/services/laser-therapy/' | relative_url }}">Class III cold laser</a> or <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">ESWT shockwave</a> when helpful.  
 5. **Home plan** — Brief “micro‑sets” you can fit into your day.  
 6. **Track & next steps** — What progress should look like and how often to check in.
 {: .reveal .reveal--up }

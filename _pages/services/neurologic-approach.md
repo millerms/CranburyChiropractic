@@ -9,17 +9,15 @@ classes: wide
 ---
 
 ## Overview
-This is the lens we use for all care. We’ll check how your **eyes (visual)**, **inner ear (vestibular)**, and **joints/muscles (proprioception)** talk to your brain, then match care to the limiter we find. You get a plan that feels practical and fits your day.
-
-Clearer sensory input and better joint motion help your brain coordinate movement with less effort.
+This lens guides every visit. We check how your **eyes (visual)**, **inner ear (vestibular)**, and **joints/muscles (proprioception)** talk to your brain, then match care to the limiter we find—the mobility, control, or tissue-irritability pattern most holding you back. Clearer sensory input paired with better joint motion helps your brain coordinate movement with less effort, so the plan stays practical and fits your day.
 {: .reveal .reveal--fade }
 
 ### What we assess
-- Sensory input: eyes, inner ear, and joint/muscle feedback
+- Sensory input: how eyes, inner ear, and joint/muscle feedback agree—or do not
 - Motor control: timing, coordination, and joint control under load
-- Functional tasks: reach, rotate, stairs, gait—scaled to you
-- Recovery factors: breath mechanics and tolerance to effort/positions
-- Your goals and history: we tailor the plan to your life
+- Functional tasks: reach, rotate, stairs, gait—scaled to what you need
+- Recovery factors: breathing mechanics and tolerance to effort/positions
+- Context: your goals, history, and day-to-day demands
 {: .reveal .reveal--fade }
 
 > For **balance-specific** testing, protocols, and our risk-of-fall score, see the companion page: [Balance & Stability]({{ '/services/balance-stability/' | relative_url }}).
@@ -27,40 +25,41 @@ Clearer sensory input and better joint motion help your brain coordinate movemen
 
 ### When we use it
 - Recurring aches or strains that slip back after rest
-- Neck/shoulder issues with headaches or eye fatigue
-- Low back/hip problems tied to control more than strength
-- Stiffness or balance concerns that limit daily tasks
-- After injury when it “doesn’t feel normal yet”
+- Neck or shoulder issues tied to headaches, eye strain, or jaw tension
+- Low-back or hip problems driven by control more than raw strength
+- Stiffness or balance concerns limiting daily tasks or confidence
+- Post-injury phases when “it doesn’t feel normal yet,” even after clearance
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Evaluate** — brief eye, head/eye, and joint motion checks, plus simple functional tasks  
-2. **Map the limiter** — clarify if input, output, or both are limiting progress  
-3. **Plan** — targeted exercises and joint work when appropriate; add Class III laser or ESWT if useful  
+1. **Evaluate** — quick eye, balance, and joint motion checks, plus simple functional tasks  
+2. **Map the limiter** — clarify whether input, output, or both are limiting progress  
+3. **Plan** — chiropractic adjustments and targeted exercises as appropriate; add Class III laser or ESWT only if it fits  
 4. **Home plan** — short, doable sets you can fit into your day  
 5. **Track** — quick rechecks to confirm what’s helping and adjust as needed
 {: .reveal .reveal--fade }
 
 ### How we measure progress
-- Functional tests you feel (easier stairs, steadier reach, smoother rotation)
-- Objective checks when helpful (range, coordination timing, task reps)
-- Your report of effort and confidence during daily tasks or sport
-- Changes in pain/irritation during activity and rest
-- Tissue tolerance and range-of-motion rechecks
+- Functional wins you notice—easier stairs, steadier reach, smoother rotation
+- Objective checks when useful—range, coordination timing, or task reps
+- Your report of effort, confidence, and symptom change during daily life
+- Tissue tolerance and range-of-motion rechecks that confirm durability
 {: .reveal .reveal--fade }
 
 ### Evidence snapshot
-- Major guidelines for back and neck pain recommend **non‑pharmacologic care first** (education, exercise, and manual therapies when appropriate), consistent with the American College of Physicians (ACP, 2017) and NICE NG59 (updated 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
-- **Vestibular rehabilitation** is safe and effective for unilateral peripheral vestibular dysfunction (dizziness/balance from inner‑ear causes). <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">Cochrane 2015</a>
-- **Exercise protocols reduce falls** in community‑dwelling older adults; balance/functional training are key components. <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
-- Combining **targeted exercise** with **manual therapy** is commonly recommended in guidelines and clinical pathways for many musculoskeletal complaints; we use that blend when it fits your exam and goals. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP 2017</a>
+- Major back and neck pain guidelines recommend **non-pharmacologic care first**—education, exercise, and manual therapy when appropriate (ACP 2017; NICE NG59 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+- **Vestibular rehabilitation** is effective and safe for unilateral peripheral vestibular dysfunction, which supports the balance and drills we recommend. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">Cochrane 2015</a>
+- **Exercise protocols reduce falls** in community settings when balance and functional training are part of the plan (Sherrington 2020; Ng 2019). <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
+- Combining **targeted exercise** with **manual therapy** is widely recommended for many musculoskeletal complaints, reinforcing our blended approach. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP 2017</a>
+{: .reveal .reveal--fade }
+
+These themes shape every visit: we explain findings in plain language, layer in right-sized movement and manual care first, and coordinate imaging or referrals only when they would change the plan.
 {: .reveal .reveal--fade }
 
 ### Tools we may use
-- Joint work (mobilization/adjustment) when specific motion is limited
-- Coordination work: eye–head drills, gaze stabilization, tempo/isometrics
-- Task‑based exercise progressions matched to your goals
-- Home “micro‑sets” you can fit into your day
+- Chiropractic adjustments when specific motion is limited
+- Coordination work: sensory drills that sync vision, inner-ear input, and skeletal-driven feedback to address sensory mismatches
+- Task-based exercise progressions with home “micro-sets” matched to your goals
 {: .reveal .reveal--fade }
 
 ### Safety and referrals
@@ -80,7 +79,7 @@ Your safety comes first. We screen for red flags, use imaging only when it would
   <details class="reveal reveal--up">
     <summary>Do you still adjust?</summary>
     <div class="faq__content">
-      Yes, when it fits your goals. Adjustments are one tool in our toolkit, used alongside exercises and other techniques.
+      Yes, when it fits your needs. Adjustments are one tool in our toolkit, used alongside exercises and other techniques.
     </div>
   </details>
 

@@ -8,32 +8,29 @@ sidebar:
 classes: wide
 ---
 
-## Overview
-Stiff or “stuck” joints—spine or extremities—can change how you move and feel. We assess the whole system and, when it fits your goals, use precise, hands‑on adjustments for both spine and limbs.
-{: .reveal .reveal--fade }
 
 ### Why adjustments may help
-Joints are packed with position receptors that talk to your nervous system; clearer input commonly translates to smoother, easier movement. We explain each step and only adjust when it fits your goals.
+Joints—and the muscles and tendons around them—are packed with proprioceptors that feed your central nervous system and helps your body understand where it is in space. Cleaner input lets your brain send more accurate motor output to muscles and even modulates blood-vessel tone. Better coordination, smoother movement, and more comfortable motion follow. We walk you through every step and only adjust when it fits your needs.
 {: .reveal .reveal--fade }
 
+
 ### When we use it
-- Stiffness/tightness that limits **range of motion**  
-- Discomfort that isn’t resolving with exercise alone  
-- Returning to activity after sprains/strains (once it’s safe)  
-- Feeling “off” with squats, steps, overhead reach, or grip
+- Discomfort or pain that isn’t resolving
+- Stiffness or tightness that limits **range of motion**  
+- Feeling "off" or "off-balance"
+- Returning to activity after injury (once it’s safe)  
 {: .reveal .reveal--up }
 
 ### What to expect
-1. **Movement & joint screen** – we look at motion, comfort, and how areas influence each other  
-2. **Adjustment (if appropriate)** – gentle positioning and a quick, controlled thrust  
-3. **Add-ons as needed** – soft-tissue work or simple activation/mobility exercises  
-4. **Home plan** – focused exercises to keep gains between visits  
-5. **Rechecks** – confirm progress and adjust the plan
+1. **Examine & explain** — thorough history, orthopedic, neurologic, and chiropractic exams; we discuss options and answer questions  
+2. **Setup** — comfortable positioning and clear instructions so you know what to expect  
+3. **Adjustment** — a quick, small-amplitude thrust to a specific joint; a pop may or may not occur  
+4. **Recheck** — confirm changes in motion and comfort, and plan next steps  
 {: .reveal .reveal--up }
 
 ### How we measure progress
 - Range-of-motion and functional tasks (squat, step-down, overhead reach)  
-- Comfort during daily activities and exercise  
+- Decreases in pain and discomfort during daily activities and exercise  
 - Strength/coordination changes with simple tests
 {: .reveal .reveal--up }
 
@@ -53,7 +50,7 @@ Joints are packed with position receptors that talk to your nervous system; clea
   <details class="reveal reveal--up">
     <summary>Will I always get adjusted?</summary>
     <div class="faq__content">
-      No—we only adjust when it fits your goals. Some people prefer adjustments; others focus on exercise or soft‑tissue work.
+      No—we only adjust when it fits your needs.
     </div>
   </details>
 

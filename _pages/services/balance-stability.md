@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Overview
-If you don’t feel steady, we’ll figure out why and make a simple plan to improve it. We look at three systems that drive balance:
+If you don’t feel steady, we’ll figure out why and build a simple plan that fits your day. We look at three systems that drive balance:
 {: .reveal .reveal--fade }
 
 - **Visual** (eyes) — where you are in space  
@@ -17,7 +17,7 @@ If you don’t feel steady, we’ll figure out why and make a simple plan to imp
 - **Proprioceptive** (joints/muscles) — body position feedback
 {: .reveal .reveal--up }
 
-When one system lags, you compensate. We find the limiter, match exercises to it, and track progress you can see.
+When one system lags, you compensate. We pinpoint the limiter, match exercises to it, and track progress you can see.
 {: .reveal .reveal--fade }
 
 ### When it may help

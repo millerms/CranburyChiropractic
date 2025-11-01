@@ -13,7 +13,7 @@ Shockwave therapy (ESWT) delivers **pulsed acoustic energy** to a precise area t
 {: .reveal .reveal--fade }
 
 ### How it works
-The acoustic pulses create a small, controlled mechanical stimulus that can **increase local blood flow**, **modulate pain signaling**, and **trigger a “repair” response** in the tissue. Sessions are brief and intensity is adjusted to your comfort.
+The acoustic pulses create a small, controlled mechanical stimulus that can **increase local blood flow**, **modulate pain signaling**, and **trigger a “repair” response** in the tissue. Sessions are brief, and we match intensity to your comfort.
 {: .reveal .reveal--fade }
 
 ### Why we use it
@@ -39,7 +39,7 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
 
 ### How we measure progress
 - Pain/irritation changes during daily tasks  
-- Function: walking tolerance, stairs, grip, reach  
+- Function: walking tolerance (minutes or step count), stairs, grip strength, reach distance  
 - Tissue tolerance and range‑of‑motion rechecks
 {: .reveal .reveal--fade }
 

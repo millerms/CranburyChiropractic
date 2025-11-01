@@ -23,7 +23,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 
 ## How Your Visit Works
 - **Listen & history** — your goals and story guide the plan.
-- **Targeted screen** — quick checks to map the **limiter** (balance, range, control, or tissue irritability).
+- **Targeted screen** — quick checks to map the **limiter** (the mobility, control, or tissue-irritability pattern most holding you back).
 - **Evaluate** — how input (eyes, inner ear, joints) connects to output (coordination, strength, confidence).
 - **Plan** — a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
 - **Treat** — precise, comfortable techniques matched to your preferences.
