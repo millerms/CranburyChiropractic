@@ -32,21 +32,21 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Neurologic Approach"
     title: "Neurologic Approach"
-    excerpt: "We evaluate how your nervous system is communicating with your muscles and joints. By watching how you move, testing balance and reflexes, and tracking your response to care, we find the key restriction or imbalance. When the nervous system gets clearer signals, the body often does what it’s built to do — heal and stabilize."
+    excerpt: "We map how sensory systems (eyes, inner ear, joints) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
     url: "/services/neurologic-approach/"
     btn_label: "See how we help"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Full-Spine & Extremities"
     title: "Full-Spine & Extremities"
-    excerpt: "Comprehensive care for the entire spine and extremities, including precise adjustments and targeted therapies. We address pain, improve function, and enhance overall well-being."
+    excerpt: "Joint-specific adjustments restore clean sensory input from the spine and limbs so your brain can drive smoother motor output. We pair each visit with focused drills that help gains stick."
     url: "/services/full-spine-extremities/"
     btn_label: "See details"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Balance and Posture Testing"
     title: "Balance and Posture Testing"
-    excerpt: "Comprehensive movement, balance, and posture assessments identify subtle imbalances and risk factors. We use these insights to create personalized, accessible strategies that improve stability, prevent injury, and enhance your quality of life."
+    excerpt: "We identify how vision, vestibular input, and proprioception synchronize (or don’t), then tailor sensory drills and motor progressions that boost stability, reduce fall risk, and keep you active."
     url: "/services/balance-stability/"
     btn_label: "How do we test?"
     btn_class: "btn--primary"
@@ -75,10 +75,10 @@ feature_row:
 <div class="page__lead" markdown="1">
 Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, or other mechanical pain, we take a practical, neurologic approach: precise adjustments, short targeted exercises, and modern tools like Class III cold laser and ESWT shockwave when they’re a good fit. 
 
-The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sport. We care for people of all ages; many of our patients are seniors.
+We start by mapping your **limiter**—the mobility, control, or tissue-irritability pattern most holding you back—then build a plan that respects your goals and schedule. The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sports. We care for people of all ages; many of our patients are seniors.
 </div>
 
-**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (eyes, inner ear, joints, skin) talk to your brain, update that map with precise input, and update motor output so movement, steadiness, and even blood-vessel tone respond with less effort.
+**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (eyes, inner ear, joints, skin) talk to your brain, update that map with precise input, and reinforce motor output so movement, steadiness, and even blood-vessel tone respond with less effort.
 {: .reveal .reveal--up }
 
 
@@ -132,7 +132,7 @@ The goal is steady, meaningful change so you can move confidently, sleep better,
 
 ## What to Expect
 {: .reveal .reveal--up }
-**Evaluate:** We review your history and check key systems—movement, joint motion, balance, and simple neurologic screens—so we understand what’s limiting you.
+**Evaluate:** We review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for eyes, inner ear, and proprioception—so we understand what’s limiting you.
 {: .reveal .reveal--up }
 
 **Map the limiter:** We connect findings to a clear limiter (e.g., mobility, control, or tissue irritability) so care is focused and practical.
