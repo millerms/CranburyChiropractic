@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (Class III cold laser, ESWT shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
+excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (Class III cold laser, Balance Tracker, ESWT shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
 image: "/assets/images/biking-italy.webp"
 classes: hero-home
 permalink: /
@@ -77,6 +77,9 @@ Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lowe
 
 The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sport. We care for people of all ages; many of our patients are seniors.
 </div>
+
+**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (eyes, inner ear, joints, skin) talk to your brain, update that map with precise input, and update motor output so movement, steadiness, and even blood-vessel tone respond with less effort.
+{: .reveal .reveal--up }
 
 
 > “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  

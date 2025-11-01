@@ -31,6 +31,9 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 - **Track & reassess** — quick rechecks so you know what’s working.
 {: .reveal .reveal--up }
 
+We’re always working that sensory → brain → motor loop: clarify input from eyes, inner ear, and joints, help your brain update the map, and reinforce motor output so movement and vessel tone feel easier.
+{: .reveal .reveal--up }
+
 > We’re here to help you move better, recover faster, and stay active. If you have questions or need assistance, don’t hesitate to reach out.
 {: .reveal .reveal--up }
 

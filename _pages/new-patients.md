@@ -41,6 +41,9 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 We’ll start by finding your **limiter**—the mobility, control, or tissue-irritability pattern most holding you back—then match care to it.
 {: .reveal .reveal--up }
 
+That exam walks through the sensory → brain → motor loop: gather input from your eyes, inner ear, skin, and joints; see how your brain is modeling that information; then match care and home drills that help you produce clearer movement and steadier blood-vessel tone.
+{: .reveal .reveal--up }
+
 1. **Evaluate** — Conversation and history, plus focused movement and balance checks.  
 2. **Map the limiter** — Mobility, control, or tissue irritability.  
 3. **Plan** — Clear options; we’ll decide together on a right‑sized plan.  

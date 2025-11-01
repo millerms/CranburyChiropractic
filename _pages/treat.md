@@ -24,6 +24,9 @@ A quick guide to the most common issues we see — and how we match care to your
 - **Progress you can feel:** quick rechecks so you know what’s helping.
 {: .reveal .reveal--up }
 
+At every visit we roll through the same sensory → brain → motor loop: test how vision, inner ear, skin, and joints are talking to your brain, restore clearer input, then reinforce motor output so motion, steadiness, and circulation respond with less effort.
+{: .reveal .reveal--up }
+
 > New here? See **[Services]({{ '/services/' | relative_url }})** for more detailed information, the **[New Patients]({{ '/new-patients/' | relative_url }})** page for onboarding steps, and insurance details on **[Insurance & Pricing]({{ '/insurance/' | relative_url }})**.
 {: .notice--primary .reveal .reveal--up }
 
