@@ -17,7 +17,7 @@ A quick guide to the most common issues we see — and how we match care to your
 
 ## How we match care to your case
 {: .reveal .reveal--up }
-- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the limiter—the mobility, control, or tissue-irritability pattern most holding you back.
+- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the cause—the mobility, control, or tissue-irritability pattern most holding you back.
 - **Precise joint care:** full‑spine and extremity adjustments when appropriate—never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
@@ -35,6 +35,22 @@ At every visit we roll through the same sensory → brain → motor loop: test h
 ## Common reasons people see us
 
 <section id="treat-conditions" class="faq">
+  <details class="reveal reveal--up">
+    <summary><span class="term">Dizziness &amp; Sensory Mismatch</span><span class="desc">“off balance,” lightheaded when turning, motion sensitivity</span></summary>
+    <div class="faq__content">
+      Examples: dizziness when you turn quickly, feeling “wobbly” on uneven ground or stairs, or motion sensitivity in cars or crowds.
+      <br><br>
+      <em>Why it helps:</em> Adjustments and targeted neurologic drills resync how neck proprioceptors, vision, and inner ear talk to your brain so motor output (movement and vessel tone) stabilizes.
+      <br><br>
+      <em>What often helps:</em>
+      <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Cervical Adjusting</a> — restore clean joint input from the neck</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — sensory retraining and gaze stabilization</li>
+        <li>Home drills to sync visual, vestibular, and proprioceptive cues</li>
+      </ul>
+    </div>
+  </details>
+
   <details class="reveal reveal--up">
     <summary><span class="term">Back or Neck Pain</span><span class="desc">stiffness, sharp twinges, “locked up,” radiating arm/leg irritation</span></summary>
     <div class="faq__content">
@@ -56,12 +72,11 @@ At every visit we roll through the same sensory → brain → motor loop: test h
     <div class="faq__content">
       Examples: tension‑type headaches, neck‑related headaches, jaw discomfort tied to neck position, upper‑back/shoulder tightness from screen time.
       <br><br>
-      <em>Why it helps:</em> Improving neck motion and the way eyes, jaw, and posture coordinate eases tension drivers and makes position changes more comfortable.
+      <em>Why it helps:</em> Improves sensory input from the neck joints, jaw, and neck muscles. Better input helps the brain coordinate neck and jaw control, reducing headaches.
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — visual/vestibular input, neck control</li>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — gentle, precise adjustments</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Upper Cervical and Jaw</a> — gentle, precise adjustments</li>
         <li>Simple posture exercises & micro‑break strategies</li>
       </ul>
     </div>
@@ -104,11 +119,12 @@ At every visit we roll through the same sensory → brain → motor loop: test h
     <div class="faq__content">
       Examples: trouble on uneven ground or stairs, history of falls, post‑injury “doesn’t feel steady yet.”
       <br><br>
-      <em>Why it helps:</em> Matching balance drills to the limiter and tracking sway data builds steadiness and confidence step by step.
+      <em>Why it helps:</em> Matching adjustments and balance drills to the cause and tracking sway data builds steadiness and confidence step by step.
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive exercises</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Cervical Adjusting</a> — restore clean input from the neck to support balance</li>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive exercises with tracking</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — map input → output; risk‑of‑fall score with balance tracker</li>
       </ul>
     </div>
@@ -123,8 +139,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — restore local joint motion and nerve glide</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — clarify input, improve control</li>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — restore local joint motion</li>
         <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — support calming irritated tissue</li>
       </ul>
       <p><strong>Urgent referral:</strong> new or progressive weakness, loss of bowel/bladder control, saddle anesthesia, unexplained severe pain — please seek emergency care.</p>
@@ -140,8 +156,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — timing/coordination</li>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — restore motion where it matters</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — timing/coordination</li>
         <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a> or <a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a> when appropriate</li>
       </ul>
     </div>
@@ -173,8 +189,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — free up joints that feel “stuck” from long days</li>
         <li>Short posture breaks, breathing exercises, and easy mobility sets</li>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — when joints feel “stuck”</li>
       </ul>
     </div>
   </details>
@@ -188,8 +204,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — head/eye coordination, balance, and graded movement</li>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — cervical/thoracic when appropriate and comfortable</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — head/eye coordination, balance, and graded movement</li>
         <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a> — calm irritation in sensitive tissues</li>
       </ul>
     </div>
@@ -220,9 +236,9 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — ease guarded joints so sensors send clearer signals</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — tune neck control and visual/vestibular inputs</li>
         <li>“Micro‑breaks,” breathing, and posture strategies</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — neck control and visual/vestibular inputs</li>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — when joints feel locked or guarded</li>
       </ul>
     </div>
   </details>
@@ -236,8 +252,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — to improve sensory input to restore comfortable motion</li>
         <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance &amp; Stability</a> — trackable risk‑of‑fall score and simple progressions</li>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — to restore comfortable motion</li>
         <li>Light strength and mobility “micro‑sets” tailored to you</li>
       </ul>
     </div>

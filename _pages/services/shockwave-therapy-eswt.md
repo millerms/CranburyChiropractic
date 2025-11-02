@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Overview
-Shockwave therapy (ESWT) delivers **pulsed acoustic energy** to a precise area to nudge a stalled tissue back into a healing pattern. It’s most often used when a problem hasn’t responded to rest or routine care and works best when paired with a simple, progressive loading plan.
+Shockwave therapy (ESWT) delivers **pulsed acoustic energy** to a precise area to nudge a stalled tissue back into a healing pattern. It’s most often used when a problem hasn’t responded to rest or routine care and works best when layered onto a neurologically informed chiropractic plan.
 {: .reveal .reveal--fade }
 
 ### How it works
@@ -17,13 +17,13 @@ The acoustic pulses create a small, controlled mechanical stimulus that can **in
 {: .reveal .reveal--fade }
 
 ### Why we use it
-ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion Achilles tendinopathy**. It can also be considered for other stubborn tendon or enthesis issues (e.g., lateral elbow, greater‑trochanter/hip) when exam findings fit. It’s **not** a replacement for active care—we use it to support progress alongside targeted exercises.
+ESWT is most consistently helpful for **upper and lower extremity tendon, fascial, and soft-tissue issues**. It’s often considered for other stubborn tendon problems (e.g., tennis elbow) when exam findings fit. It’s **not** a replacement for adjustments or active care—we use it to calm irritated tissue so the sensory signals feeding your brain clear up and motor control carries over between visits.
 {: .reveal .reveal--fade }
 
 ### When we use it
 - **Plantar fasciitis** (heel pain)
-- **Mid‑portion Achilles tendinopathy**
-- Lateral epicondyle (“tennis elbow”) and other persistent tendon/enthesis complaints
+- **Upper and lower extremity tendinopathy**
+- **Lateral epicondyle** (“tennis elbow”) and other persistent tendon/enthesis complaints
 - **Stubborn spots** that haven’t improved with rest or routine care
 - When you prefer a non‑invasive option before considering injections or surgery
 {: .reveal .reveal--fade }
@@ -31,10 +31,9 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
 ### What to expect
 1. **Evaluate** — confirm ESWT is a good fit for your case  
 2. **Treatment** — a tapping/pulsing sensation for a few minutes; intensity is matched to comfort  
-3. **Series** — many people do best with **3–6 sessions**, usually spaced **about a week apart**  
-4. **Pair with activity** — we combine ESWT with a short list of exercises so the change “sticks”  
-5. **Aftercare** — mild soreness or redness is possible for 24–48 hours; we’ll give simple do’s and don’ts  
-6. **Track** — quick rechecks guide any adjustments to the plan
+3. **Series** — many people do best with **3–10 sessions**  
+4. **Pair with chiropractic care and exercises** — we combine ESWT with adjustments and a short list of exercises so neurologic gains “stick”  
+5. **Track** — quick rechecks guide any adjustments to the plan
 {: .reveal .reveal--fade }
 
 ### How we measure progress
@@ -59,7 +58,7 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
   <details class="reveal reveal--up">
     <summary>Is there research to support it?</summary>
     <div class="faq__content">
-      Yes. ESWT shows the strongest, most consistent benefit for <strong>plantar fasciitis</strong> and <strong>mid‑portion Achilles tendinopathy</strong>. Outcomes vary by condition and treatment settings, which is why we pair ESWT with an active plan. A few examples:
+      Yes. ESWT shows the strongest, most consistent benefit for <strong>plantar fasciitis</strong> and <strong>tendinopathy</strong>. Outcomes vary by condition and treatment settings, which is why we pair ESWT with a treatment plan. A few examples:
       <ul>
         <li>Lippi L, Folli A, Moalli S, Turco A, Ammendolia A, de Sire A, Invernizzi M. Efficacy and tolerability of extracorporeal shock wave therapy in patients with plantar fasciopathy: a systematic review with meta-analysis and meta-regression. Eur J Phys Rehabil Med. 2024 Oct. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11561739/" target="_blank" rel="noopener">PubMed 39257331</a></li>
         <li>Feeney KM. The Effectiveness of Extracorporeal Shockwave Therapy for Midportion Achilles Tendinopathy: A Systematic Review. Cureus. 2022 Jul. <a href="https://pubmed.ncbi.nlm.nih.gov/35989757/" target="_blank" rel="noopener">PubMed 35989757</a></li>
@@ -71,7 +70,7 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
   <details class="reveal reveal--up">
     <summary>How many sessions will I need?</summary>
     <div class="faq__content">
-      It varies by condition, but a short series (often <strong>3–6 sessions</strong>) is common. We reassess each visit and adjust as needed.
+      It varies by condition, but a short series (often <strong>3–10 sessions</strong>) is common. We reassess each visit and adjust as needed.
     </div>
   </details>
 
@@ -79,13 +78,6 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
     <summary>Can I combine it with other care?</summary>
     <div class="faq__content">
       Yes — ESWT pairs well with adjustments, manual therapy, and a simple loading plan. That combination is often what makes results last.
-    </div>
-  </details>
-
-  <details class="reveal reveal--up">
-    <summary>Does it replace exercise?</summary>
-    <div class="faq__content">
-      No. ESWT is an add‑on to active care. We’ll give you brief, targeted drills so improvements carry over into daily life.
     </div>
   </details>
 
@@ -99,7 +91,7 @@ ESWT is most consistently helpful for **plantar fasciitis** and **mid‑portion 
   <details class="reveal reveal--up">
     <summary>What if I need a referral?</summary>
     <div class="faq__content">
-      We’ll coordinate with the right specialist (PT, orthopedics, etc.) if needed. The goal is the best result for you.
+      We’ll refer you to the right specialist (PT, orthopedics, etc.) if needed. The goal is the best result for you.
     </div>
   </details>
 </div>

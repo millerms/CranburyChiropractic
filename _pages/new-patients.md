@@ -17,20 +17,12 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 
 ## Before Your Visit
 {: .reveal .reveal--up }
-- **Forms:** After you schedule, we’ll email you simple intake forms. Prefer paper? You can print them and bring them in:
+- **Forms:** You can print them and bring them in or fill them out in the office before your first visit:
   - [New Patient Intake (PDF)](/assets/pdfs/intake-forms.pdf){: .btn }
 - **What to bring:** A list of medications/supplements, any recent imaging or reports (if you have them), and your questions/goals.
 - **Insurance/fees:** We’ll provide itemized receipts upon request. Call us with any questions about current fees.
 - **Arrival:** Please arrive 10-15 minutes early to complete any remaining paperwork.
-- **Parking:** Free parking is available in front of the building and along the street.
-{: .reveal .reveal--up }
-
-### Quick tips
-{: .reveal .reveal--up }
-- **What to wear:** Comfortable clothing that lets you move (e.g., shorts/leggings for lower-body checks, a t‑shirt or tank for shoulder checks).
-- **Timing:** First visits are typically **45–60 minutes**; follow‑ups are shorter.
-- **Insurance snapshot:** See [Insurance & Pricing]({{ '/insurance/' | relative_url }}) for current networks and how benefits work.
-- **Hours:** Mon/Wed/Fri 8:00–1:00 & 3:00–6:00; Sat 8:00–11:00.
+- **Parking:** Ample parking is free and available in the lot behind the building.
 {: .reveal .reveal--up }
 
 ---
@@ -38,18 +30,30 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 ## What to Expect on Your First Visit
 {: .reveal .reveal--up }
 
-We’ll start by finding your **limiter**—the mobility, control, or tissue-irritability pattern most holding you back—then match care to it.
+Your first visit typically lasts about 45 minutes. We usually run on time, so if you arrive 10-15 minutes early you shouldn’t have to wait.
 {: .reveal .reveal--up }
 
-That exam walks through the sensory → brain → motor loop: gather input from your eyes, inner ear, skin, and joints; see how your brain is modeling that information; then match care and home drills that help you produce clearer movement and steadier blood-vessel tone.
+We start by identifying the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back. The exam follows the **sensory → brain → motor** loop: we test how your sensory systems (spine, eyes, inner ears, peripheral joints, skin) talk to your brain, update that map with precise input, and reinforce motor output so movement, comfort, steadiness, and even muscle and blood-vessel tone improve.
 {: .reveal .reveal--up }
 
-1. **Evaluate** — Conversation and history, plus focused movement and balance checks.  
-2. **Map the limiter** — Mobility, control, or tissue irritability.  
-3. **Plan** — Clear options; we’ll decide together on a right‑sized plan.  
-4. **Treat** — Precise adjustments, soft‑tissue work, and simple exercises. <a href="{{ '/services/laser-therapy/' | relative_url }}">Class III cold laser</a> or <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">ESWT shockwave</a> when helpful.  
-5. **Home plan** — Brief “micro‑sets” you can fit into your day.  
-6. **Track & next steps** — What progress should look like and how often to check in.
+## What to Expect
+{: .reveal .reveal--up }
+**Evaluate:** We thoroughly review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for proprioception, eyes, and inner ears.
+{: .reveal .reveal--up }
+
+**Map the cause:** We connect findings to the cause (mobility, control, or tissue irritability) so care stays focused and practical.
+{: .reveal .reveal--up }
+
+**Plan:** We build a right‑sized plan—adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
+{: .reveal .reveal--up }
+
+**Treat:** Visits are concise and matched to your comfort. You’re always in control.
+{: .reveal .reveal--up }
+
+**Track:** We recheck simple measures (range, function, steadiness) to confirm what’s helping and adjust as you go.
+{: .reveal .reveal--up }
+
+**Referral:** If chiropractic isn’t the right fit after your initial evaluation, we’ll refer you to an appropriate provider.
 {: .reveal .reveal--up }
 
 > You are always in control. We explain options, match care to your comfort, and adjust as we go.
@@ -68,16 +72,16 @@ That exam walks through the sensory → brain → motor loop: gather input from 
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Neurologic Screen</strong></summary>
+    <summary><strong>Neurologic Exam</strong></summary>
     <div class="faq__content">
-      Eye movements and head/eye coordination, simple balance tests (eyes open/closed, single‑leg stance), reflexes, and light strength checks. We’re mapping input → output.
+      Thorough neurologic exam including eye movements and head/eye coordination, simple balance tests (eyes open/closed, single‑leg stance), reflexes, and strength checks. We’re mapping input → output.
     </div>
   </details>
 
   <details class="reveal reveal--up">
-    <summary><strong>Orthopedic Checks</strong></summary>
+    <summary><strong>Orthopedic Exam</strong></summary>
     <div class="faq__content">
-      Range‑of‑motion and position tests that help confirm or rule out common joint/tendon issues. Always scaled to comfort.
+      Orthopedic checks including range‑of‑motion and position tests that help confirm or rule out common disc, joint, and tendon issues. Always scaled to comfort.
     </div>
   </details>
 

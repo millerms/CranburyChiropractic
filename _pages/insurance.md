@@ -24,7 +24,7 @@ Welcome! This page explains the plans we accept, how to use your benefits, and w
   <div class="card"><strong>UnitedHealthcare Oxford</strong> <br><small>(Formerly Oxford)</small></div>
 </div>
 
-> **Networks can change.** Individual plan benefits vary. We’ll verify benefits as a courtesy; the most accurate details come from your plan.
+> **Network benefits can change.** Individual plan benefits vary. We’ll verify benefits as a courtesy; the most accurate details come from your plan.
 {: .notice--primary }
 
 ---
@@ -35,14 +35,14 @@ Welcome! This page explains the plans we accept, how to use your benefits, and w
 - **Copay** or **coinsurance** for chiropractic services
 - **Visit limits** or authorization requirements
 - Whether **modalities** (e.g., therapeutic exercise, Class III cold laser, ESWT shockwave) are covered
-- Rules for **out‑of‑network** or **secondary** plans (e.g., Medicare supplement)
+- Rules for **out‑of‑network** or **secondary** plans (if applicable)
 {: .reveal .reveal--up }
 
 ---
 
 ## Out‑of‑Network & Self‑Pay
 {: .reveal .reveal--up }
-If your plan isn’t in‑network or you prefer not to use insurance, we offer straightforward self‑pay options. We can provide an **itemized receipt (superbill)** you can submit to your plan for possible reimbursement. **HSA/FSA** cards are welcome.
+If your plan isn’t in‑network or you prefer not to use insurance, we offer straightforward self‑pay options provided prior to care. We can submit charges to your plan for possible out-of-network reimbursement. **HSA/FSA** cards are welcome.
 {: .reveal .reveal--up }
 
 ---
@@ -54,7 +54,7 @@ We keep costs transparent and explain them in advance. Typical structure:
 
 - **First visit** — Consultation, targeted exam, and treatment when appropriate.
 - **Follow‑up visits** — Shorter, focused sessions to reinforce progress.
-- **Adjunct options** — Class III cold laser and/or shockwave (ESWT) when they’re a good fit.
+- **Adjunct options** — Therapeutic exercise, class III cold laser, and/or shockwave (ESWT) when they’re a good fit.
 {: .reveal .reveal--up }
 
 > Coverage for exams and adjunct therapies varies by plan (for example, Medicare generally covers spinal manipulation but not exams or adjunct therapies). We’ll review your options before care.
@@ -96,7 +96,7 @@ We keep costs transparent and explain them in advance. Typical structure:
   <details class="reveal reveal--up">
     <summary>What if I’m out‑of‑network?</summary>
     <div class="faq__content">
-      You can self‑pay and we’ll provide a <strong>superbill</strong> you can submit to your plan. Many patients receive partial reimbursement depending on their out‑of‑network benefits.
+      You can self‑pay and we’ll submit charges to your plan. Many patients receive partial reimbursement depending on their out‑of‑network benefits.
     </div>
   </details>
 </div>

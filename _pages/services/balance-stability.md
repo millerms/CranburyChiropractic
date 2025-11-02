@@ -2,25 +2,26 @@
 layout: single
 title: "Balance & Stability"
 permalink: /services/balance-stability/
-description: "Focused balance care: visual, vestibular, and proprioceptive exercises matched to your limiter, plus a trackable risk-of-fall score."
+description: "Focused balance care: visual, vestibular, and proprioceptive exercises matched to your cause, plus a trackable risk-of-fall score."
 sidebar:
   nav: "services"
 classes: wide
 ---
 
 ## Overview
-If you don’t feel steady, we’ll figure out why and build a simple plan that fits your day. We look at three systems that drive balance:
+If you don’t feel steady or your world feels “floaty,” we’ll figure out why and build a simple plan that fits your day. We look at three sensory systems that feed your brain the balance information it needs:
 {: .reveal .reveal--fade }
 
 - **Visual** (eyes) — where you are in space  
 - **Vestibular** (inner ear) — head movement and position  
-- **Proprioceptive** (joints/muscles) — body position feedback
+- **Proprioceptive** (joints/muscles, especially the neck) — body-position feedback
 {: .reveal .reveal--up }
 
-When one system lags, you compensate. We pinpoint the limiter, match exercises to it, and track progress you can see.
+When the neck is restricted or an inner-ear glitch occurs, "noisy" data from that system provides conflicting input with the visual or vestibular systems and this information mismatch confuses the brain into a temporary state of dizziness. When one sensory system lags, you compensate. We try to identify the cause and use adjustments and targeted exercises to retrain the system that’s behind it, helping you feel steadier.
 {: .reveal .reveal--fade }
 
 ### When it may help
+- **Dizziness or lightheadedness** with head movement or position changes
 - **Hesitation on stairs or curbs**, or avoiding uneven ground  
 - **Fear of falling** or feeling “wobbly” when you close your eyes  
 - Post-injury balance that **hasn’t felt the same**  
@@ -30,9 +31,8 @@ When one system lags, you compensate. We pinpoint the limiter, match exercises t
 ### What to expect
 1. **Evaluate** — standing tests (eyes open/closed), head turns, single‑leg stance  
 2. **Tracker** — computerized balance score you can follow over time  
-3. **Plan** — gaze stabilization, head/eye work, stance progressions, foot/ankle work  
+3. **Plan** — cervical/thoracic adjusting plus gaze, vestibular, and stance drills that match the cause  
 4. **Home plan** — brief, right‑sized sets at home  
-5. **Track** — see changes in sway and confidence over time
 {: .reveal .reveal--up }
 
 ### How we measure progress
@@ -56,7 +56,7 @@ When one system lags, you compensate. We pinpoint the limiter, match exercises t
   <details class="reveal reveal--up">
     <summary>Why isn’t “just strengthening” enough?</summary>
     <div class="faq__content">
-      Strength helps, but balance depends on how your brain processes input from your eyes, inner ear, and joints. We target the specific system that’s lagging so the whole pattern improves.
+      Strength helps, but balance depends on how your brain coordinates input from your joints, eyes, and inner ear. We target the specific system that’s lagging so the whole pattern improves.
     </div>
   </details>
 
@@ -77,7 +77,7 @@ When one system lags, you compensate. We pinpoint the limiter, match exercises t
   <details class="reveal reveal--up">
     <summary>Referral if needed?</summary>
     <div class="faq__content">
-      If another specialist is the better fit, we’ll coordinate with PT, orthopedics, or other providers. Your result comes first.
+      If another specialist is the better fit, we’ll refer to PT, orthopedics, or other providers. Your result comes first.
     </div>
   </details>
 </div>

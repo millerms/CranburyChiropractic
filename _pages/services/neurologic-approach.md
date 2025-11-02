@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Overview
-This lens guides every visit. We check how your **eyes (visual)**, **inner ear (vestibular)**, and **joints/muscles (proprioception)** talk to your brain, then match care to the limiter we find—the mobility, control, or tissue-irritability pattern most holding you back. Clearer sensory input paired with better joint motion helps your brain coordinate movement with less effort, so the plan stays practical and fits your day.
+This lens guides every visit. We check how your **eyes (visual)**, **inner ear (vestibular)**, and **joints/muscles (proprioception)** talk to your brain, then match care to the underlying cause we find—the mobility, control, or tissue-irritability pattern most holding you back. Cleaner sensory input paired with better joint motion helps your brain coordinate movement with less effort, so the plan stays practical and fits your day.
 {: .reveal .reveal--fade }
 
 ### What we assess
@@ -33,7 +33,7 @@ This lens guides every visit. We check how your **eyes (visual)**, **inner ear (
 
 ### What to expect
 1. **Evaluate** — quick eye, balance, and joint motion checks, plus simple functional tasks  
-2. **Map the limiter** — clarify whether input, output, or both are limiting progress  
+2. **Map the cause** — clarify whether input, output, or both are limiting progress  
 3. **Plan** — chiropractic adjustments and targeted exercises as appropriate; add Class III laser or ESWT only if it fits  
 4. **Home plan** — short, doable sets you can fit into your day  
 5. **Track** — quick rechecks to confirm what’s helping and adjust as needed

@@ -32,26 +32,26 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Neurologic Approach"
     title: "Neurologic Approach"
-    excerpt: "We map how sensory systems (eyes, inner ear, joints) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
+    excerpt: "We map how sensory systems (spine, eyes, inner ear, joints) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
     url: "/services/neurologic-approach/"
     btn_label: "See how we help"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Full-Spine & Extremities"
     title: "Full-Spine & Extremities"
-    excerpt: "Joint-specific adjustments restore clean sensory input from the spine and limbs so your brain can drive smoother motor output. We pair each visit with focused drills that help gains stick."
+    excerpt: "Joint-specific adjustments restore cleaner sensory input from the spine and limbs so your brain can drive smoother motor output. We pair each visit with focused drills that helps change stick."
     url: "/services/full-spine-extremities/"
     btn_label: "See details"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Balance and Posture Testing"
     title: "Balance and Posture Testing"
-    excerpt: "We identify how vision, vestibular input, and proprioception synchronize (or don’t), then tailor sensory drills and motor progressions that boost stability, reduce fall risk, and keep you active."
+    excerpt: "We identify how proprioception, vision, and vestibular input synchronize (or don’t), then tailor sensory drills and motor progressions that boost stability, reduce fall risk, and keep you active."
     url: "/services/balance-stability/"
     btn_label: "How do we test?"
     btn_class: "btn--primary"
   - title: "Diversified Technique"
-    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise adjustments — not one‑size‑fits‑all — to restore motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
+    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise sequences of adjustments — not one‑size‑fits‑all — to improve motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
     url: "/services/diversified-technique/"
     btn_label: "Learn about the technique"
     btn_class: "btn--primary"
@@ -65,7 +65,7 @@ feature_row:
   - #image_path: /assets/images/feature-family.jpg
     alt: "Shockwave Therapy (ESWT)"
     title: "Shockwave Therapy (ESWT)"
-    excerpt: "Shockwave (ESWT) delivers pulsed acoustic energy that can prompt a local repair response—best supported for plantar fasciitis and mid‑portion Achilles tendinopathy. We pair it with a simple loading plan."
+    excerpt: "Shockwave (ESWT) delivers pulsed acoustic energy that can prompt a local repair response—best supported for upper and lower extremity tendon, fascial, and soft tissue issues. We often pair it with a simple chiropractic treatment plan."
     url: "/services/shockwave-therapy-eswt/"
     btn_label: "Explore shockwave care"
     btn_class: "btn--primary"
@@ -73,12 +73,12 @@ feature_row:
 
 
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, or other mechanical pain, we take a practical, neurologic approach: precise adjustments, short targeted exercises, and modern tools like Class III cold laser and ESWT shockwave when they’re a good fit. 
+Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, **dizziness**, or other mechanical pain, we take a practical, neurologic approach: thorough history exam, precise adjustments, short targeted exercises, and modern tools like Class III cold laser, Balance Tracker, or ESWT shockwave when they’re a good fit.
 
-We start by mapping your **limiter**—the mobility, control, or tissue-irritability pattern most holding you back—then build a plan that respects your goals and schedule. The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sports. We care for people of all ages; many of our patients are seniors.
+We start by mapping the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back—then build a plan that respects your goals and schedule. The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sports. We care for people of all ages; many of our patients are seniors.
 </div>
 
-**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (eyes, inner ear, joints, skin) talk to your brain, update that map with precise input, and reinforce motor output so movement, steadiness, and even blood-vessel tone respond with less effort.
+**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (spine, eyes, inner ear, peripheral joints) talk to your brain, update that map with more precise input, and reinforce motor output so movement, pain, steadiness, and even muscle and blood-vessel tone improves.
 {: .reveal .reveal--up }
 
 
@@ -132,10 +132,10 @@ We start by mapping your **limiter**—the mobility, control, or tissue-irritabi
 
 ## What to Expect
 {: .reveal .reveal--up }
-**Evaluate:** We review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for eyes, inner ear, and proprioception—so we understand what’s limiting you.
+**Evaluate:** We thoroughly review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for proprioception, eyes, and inner ear.
 {: .reveal .reveal--up }
 
-**Map the limiter:** We connect findings to a clear limiter (e.g., mobility, control, or tissue irritability) so care is focused and practical.
+**Map the cause:** We try to connect findings to a clear cause (e.g., mobility, control, or tissue irritability) so care is focused and practical.
 {: .reveal .reveal--up }
 
 **Plan:** We build a right‑sized plan—adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
@@ -147,7 +147,7 @@ We start by mapping your **limiter**—the mobility, control, or tissue-irritabi
 **Track:** We recheck simple measures (range, function, steadiness) to confirm what’s helping and adjust as you go.
 {: .reveal .reveal--up }
 
-**Referral:** If chiropractic isn’t the right fit after your initial evaluation, we’ll connect you with the appropriate provider.
+**Referral:** If chiropractic isn’t the right fit after your initial evaluation, we’ll refer you to an appropriate provider.
 {: .reveal .reveal--up }
 
 ## Location & Hours
@@ -196,7 +196,7 @@ We start by mapping your **limiter**—the mobility, control, or tissue-irritabi
               </tr>
               <tr>
                 <th scope="row">FRI</th>
-                <td>8:00 &ndash; 1:00</td>
+                <td>9:00 &ndash; 1:00</td>
                 <td>3:00 &ndash; 6:00</td>
               </tr>
               <tr>

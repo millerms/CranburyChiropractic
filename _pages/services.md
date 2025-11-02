@@ -23,7 +23,7 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 
 ## How Your Visit Works
 - **Listen & history** — your goals and story guide the plan.
-- **Targeted screen** — quick checks to map the **limiter** (the mobility, control, or tissue-irritability pattern most holding you back).
+- **Targeted screen** — quick checks to uncover the underlying **cause** (the mobility, control, or tissue-irritability pattern most holding you back).
 - **Evaluate** — how input (eyes, inner ear, joints) connects to output (coordination, strength, confidence).
 - **Plan** — a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
 - **Treat** — precise, comfortable techniques matched to your preferences.
@@ -75,7 +75,7 @@ We’re always working that sensory → brain → motor loop: clarify input from
 ---
 
 ## Not sure where to start?
-- Start with the **Neurologic Approach** to see how we map your limiter and shape care.
+- Start with the **Neurologic Approach** to see how we pinpoint the cause and shape care.
 - If steadiness is the main concern, go to **Balance & Stability**. If you’re after joint work, see **Full‑Spine & Extremities**.
 - For persistent tendon/fascia spots, compare **Shockwave (ESWT)** and **Cold Laser (Class III)**—we’ll help you choose what fits your case and goals.
 {: .reveal .reveal--up }
