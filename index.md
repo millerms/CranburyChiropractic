@@ -32,7 +32,7 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Neurologic Approach"
     title: "Neurologic Approach"
-    excerpt: "We map how sensory systems (spine, eyes, inner ear, joints) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
+    excerpt: "We map how sensory systems (spine and other joints, eyes, inner ear) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
     url: "/services/neurologic-approach/"
     btn_label: "See how we help"
     btn_class: "btn--primary"
@@ -78,7 +78,7 @@ Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lowe
 We start by mapping the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back—then build a plan that respects your goals and schedule. The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sports. We care for people of all ages; many of our patients are seniors.
 </div>
 
-**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (spine, eyes, inner ear, peripheral joints) talk to your brain, update that map with more precise input, and reinforce motor output so movement, pain, steadiness, and even muscle and blood-vessel tone improves.
+**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (spine and other joints, eyes, inner ear) talk to your brain, update that map with more precise input, and reinforce motor output so movement, pain, steadiness, and even muscle and blood-vessel tone improves.
 {: .reveal .reveal--up }
 
 

@@ -33,7 +33,7 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 Your first visit typically lasts about 45 minutes. We usually run on time, so if you arrive 10-15 minutes early you shouldn’t have to wait.
 {: .reveal .reveal--up }
 
-We start by identifying the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back. The exam follows the **sensory → brain → motor** loop: we test how your sensory systems (spine, eyes, inner ears, peripheral joints, skin) talk to your brain, update that map with precise input, and reinforce motor output so movement, comfort, steadiness, and even muscle and blood-vessel tone improve.
+We start by identifying the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back. The exam follows the **sensory → brain → motor** loop: we test how your sensory systems (spine and other joints, eyes, and inner ears) talk to your brain, update that map with precise input, and reinforce motor output so movement, comfort, steadiness, and even muscle and blood-vessel tone improve.
 {: .reveal .reveal--up }
 
 ## What to Expect

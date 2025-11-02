@@ -2,7 +2,7 @@
 layout: single
 title: "Balance & Stability"
 permalink: /services/balance-stability/
-description: "Focused balance care: visual, vestibular, and proprioceptive exercises matched to your cause, plus a trackable risk-of-fall score."
+description: "Focused balance care: proprioceptive, visual, and vestibular exercises matched to your cause, plus a trackable risk-of-fall score."
 sidebar:
   nav: "services"
 classes: wide
@@ -12,9 +12,9 @@ classes: wide
 If you don’t feel steady or your world feels “floaty,” we’ll figure out why and build a simple plan that fits your day. We look at three sensory systems that feed your brain the balance information it needs:
 {: .reveal .reveal--fade }
 
+- **Proprioceptive** (joints/muscles, especially the neck) — body-position feedback  
 - **Visual** (eyes) — where you are in space  
 - **Vestibular** (inner ear) — head movement and position  
-- **Proprioceptive** (joints/muscles, especially the neck) — body-position feedback
 {: .reveal .reveal--up }
 
 When the neck is restricted or an inner-ear glitch occurs, "noisy" data from that system provides conflicting input with the visual or vestibular systems and this information mismatch confuses the brain into a temporary state of dizziness. When one sensory system lags, you compensate. We try to identify the cause and use adjustments and targeted exercises to retrain the system that’s behind it, helping you feel steadier.

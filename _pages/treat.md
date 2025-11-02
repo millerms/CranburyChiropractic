@@ -17,14 +17,14 @@ A quick guide to the most common issues we see — and how we match care to your
 
 ## How we match care to your case
 {: .reveal .reveal--up }
-- **Neurologic lens:** we’ll check how your brain and body communicate (visual, vestibular, proprioceptive) and target the cause—the mobility, control, or tissue-irritability pattern most holding you back.
+- **Neurologic lens:** we’ll check how your brain and body communicate (proprioceptive, visual, vestibular) and target the cause—the mobility, control, or tissue-irritability pattern most holding you back.
 - **Precise joint care:** full‑spine and extremity adjustments when appropriate—never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
 - **Progress you can feel:** quick rechecks so you know what’s helping.
 {: .reveal .reveal--up }
 
-At every visit we roll through the same sensory → brain → motor loop: test how vision, inner ear, skin, and joints are talking to your brain, restore clearer input, then reinforce motor output so motion, steadiness, and circulation respond with less effort.
+At every visit we roll through the same sensory → brain → motor loop: test how joints/muscles, eyes, inner ear, and skin are talking to your brain, restore clearer input, then reinforce motor output so motion, steadiness, and circulation respond with less effort.
 {: .reveal .reveal--up }
 
 > New here? See **[Services]({{ '/services/' | relative_url }})** for more detailed information, the **[New Patients]({{ '/new-patients/' | relative_url }})** page for onboarding steps, and insurance details on **[Insurance & Pricing]({{ '/insurance/' | relative_url }})**.
@@ -46,7 +46,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Cervical Adjusting</a> — restore clean joint input from the neck</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — sensory retraining and gaze stabilization</li>
-        <li>Home drills to sync visual, vestibular, and proprioceptive cues</li>
+        <li>Home drills to sync proprioceptive, visual, and vestibular cues</li>
       </ul>
     </div>
   </details>
@@ -124,7 +124,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Cervical Adjusting</a> — restore clean input from the neck to support balance</li>
-        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — visual/vestibular/proprioceptive exercises with tracking</li>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — proprioceptive/visual/vestibular exercises with tracking</li>
         <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — map input → output; risk‑of‑fall score with balance tracker</li>
       </ul>
     </div>
@@ -237,7 +237,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <em>What often helps:</em>
       <ul>
         <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — ease guarded joints so sensors send clearer signals</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — tune neck control and visual/vestibular inputs</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — tune neck control and proprioceptive, visual, and vestibular inputs</li>
         <li>“Micro‑breaks,” breathing, and posture strategies</li>
       </ul>
     </div>

@@ -14,7 +14,7 @@ header:
   overlay_image: "/assets/images/spine.webp"
 ---
 ## Our Approach to Care
-At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
+At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **proprioceptive** (joints & muscles), **visual** (eyes), and **vestibular** (inner ear) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
 
 We keep it practical, explain each step, and build a plan that fits your goals and schedule.
 {: .reveal .reveal--up }
@@ -24,14 +24,14 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 ## How Your Visit Works
 - **Listen & history** — your goals and story guide the plan.
 - **Targeted screen** — quick checks to uncover the underlying **cause** (the mobility, control, or tissue-irritability pattern most holding you back).
-- **Evaluate** — how input (eyes, inner ear, joints) connects to output (coordination, strength, confidence).
+- **Evaluate** — how input (joints/muscles, eyes, inner ear) connects to output (coordination, strength, confidence).
 - **Plan** — a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
 - **Treat** — precise, comfortable techniques matched to your preferences.
 - **Home micro‑sets** — brief exercises you can actually do.
 - **Track & reassess** — quick rechecks so you know what’s working.
 {: .reveal .reveal--up }
 
-We’re always working that sensory → brain → motor loop: clarify input from eyes, inner ear, and joints, help your brain update the map, and reinforce motor output so movement and vessel tone feel easier.
+We’re always working that sensory → brain → motor loop: clarify input from joints/muscles, eyes, and inner ear, help your brain update the map, and reinforce motor output so movement and vessel tone feel easier.
 {: .reveal .reveal--up }
 
 > We’re here to help you move better, recover faster, and stay active. If you have questions or need assistance, don’t hesitate to reach out.
@@ -43,7 +43,7 @@ We’re always working that sensory → brain → motor loop: clarify input from
 <ul class="services-index">
   <li class="reveal reveal--up">
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
-    A practical brain–body lens: align sensory input (eyes, inner ear, joints) with motor control so movement feels clearer and steadier.
+    A practical brain–body lens: align sensory input (joints/muscles, eyes, inner ear) with motor control so movement feels clearer and steadier.
   </li>
 
   <li class="reveal reveal--up">
