@@ -71,6 +71,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+> **New website:** You're viewing Cranbury Chiropractic's brand-new site at [cranburychiropractic.com](https://cranburychiropractic.com). Please let us know if you spot anything that needs polish while we finish the launch checklist.
+{: .notice--info .launch-note }
+
 
 <div class="page__lead" markdown="1">
 Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, **dizziness**, or other mechanical pain, we take a practical, neurologic approach: thorough history exam, precise adjustments, short targeted exercises, and modern tools like Class III cold laser, Balance Tracker, or ESWT shockwave when they’re a good fit.
