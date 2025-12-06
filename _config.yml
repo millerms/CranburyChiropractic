@@ -71,6 +71,7 @@ keywords:
   - Whiplash
   - Auto Accident
 
+# Google Analytics / gtag.js
 analytics:
   provider: "google-gtag"
   google:
