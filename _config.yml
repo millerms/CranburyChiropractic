@@ -75,7 +75,7 @@ keywords:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-HJQTGLHQ02"
+    tracking_id: "G-DNM0EDLTF4"
     anonymize_ip: true
 
 # LocalBusiness / Organization schema (used by _includes/head/custom.html)
