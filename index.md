@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Neurology‑informed chiropractic care with precise adjustments, practical protocols, and modern tools (Class III cold laser, Balance Tracker, ESWT shockwave). We tailor plans to your goals so you can move better, recover faster, and stay active, based in Norwalk, CT." 
+excerpt: "Chiropractic care grounded in modern neuroscience and decades of clinical experience. Clear evaluation, precise adjustments, simple at‑home drills, and optional tools (Class III cold laser, Balance Tracker, ESWT shockwave) when they’re a good fit—based in Norwalk, CT."
 image: "/assets/images/biking-italy.webp"
 classes: hero-home
 permalink: /
@@ -32,14 +32,14 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Neurologic Approach"
     title: "Neurologic Approach"
-    excerpt: "We map how sensory systems (spine and other joints, eyes, inner ear) talk to your brain, update that map with precise input, and reinforce motor output so movement and steadiness feel clearer. Tracking your response shows what’s working."
+    excerpt: "We look at how your spine and other joints, vision, and inner ear send information to your brain. Then we use precise input (adjustments + drills) to improve coordination, steadiness, and comfort—and we track your response so we know what’s working."
     url: "/services/neurologic-approach/"
     btn_label: "See how we help"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Full-Spine & Extremities"
     title: "Full-Spine & Extremities"
-    excerpt: "Joint-specific adjustments restore cleaner sensory input from the spine and limbs so your brain can drive smoother motor output. We pair each visit with focused drills that helps change stick."
+    excerpt: "Joint-specific adjustments can restore cleaner sensory input from the spine and limbs so your brain can drive smoother movement. We pair care with a small set of drills so the changes actually stick."
     url: "/services/full-spine-extremities/"
     btn_label: "See details"
     btn_class: "btn--primary"
@@ -71,19 +71,22 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-> **New website:** You're viewing Cranbury Chiropractic's brand-new site at [cranburychiropractic.com](https://cranburychiropractic.com). Please let us know if you spot anything that needs polish while we finish the launch checklist.
-{: .notice--info .launch-note }
-
-
 <div class="page__lead" markdown="1">
-Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **lower back or neck pain**, **sciatica**, **headaches**, **balance concerns**, **dizziness**, or other mechanical pain, we take a practical, neurologic approach: thorough history exam, precise adjustments, short targeted exercises, and modern tools like Class III cold laser, Balance Tracker, or ESWT shockwave when they’re a good fit.
+Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **back or neck pain**, **sciatica**, **headaches**, **balance concerns**, **dizziness**, or other mechanical pain, we’ll help you understand what’s going on and what to do next.
 
-We start by mapping the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back—then build a plan that respects your goals and schedule. The goal is steady, meaningful change so you can move confidently, sleep better, and get back to work or sports. We care for people of all ages; many of our patients are seniors.
+Our approach is practical and personalized: a thorough history and exam, **precise joint-specific adjustments**, a few **simple exercises** you can actually stick with, and modern tools like **Class III cold laser**, **Balance Tracker**, or **ESWT shockwave** when they’re a good fit.
+
+You don’t need to “believe” in anything or memorize anatomy. We’ll explain the plan in plain language, track what’s improving, and adjust as we go—so you can move more confidently, sleep better, and get back to work, sports, and daily life.
 </div>
 
-**Sensory → brain → motor:** Every visit reinforces the same loop. We test how your sensory systems (spine and other joints, eyes, inner ear) talk to your brain, update that map with more precise input, and reinforce motor output so movement, pain, steadiness, and even muscle and blood-vessel tone improves.
-{: .reveal .reveal--up }
+<div class="reveal reveal--up" markdown="1">
 
+**New here?** Most first visits follow a simple pattern: evaluate → treat → give you a small home plan → recheck progress. If chiropractic isn’t the right fit after your evaluation, we’ll help point you toward the right next step.
+
+</div>
+
+**How we think about results:** Pain and movement are influenced by how your brain interprets input from joints, muscles, vision, and the inner ear. Our care aims to improve that signal—so motion feels easier, steadiness improves, and irritated tissues have a better chance to settle.
+{: .reveal .reveal--up }
 
 > “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  
 > ~ **Dr. Paul Miller**
@@ -135,22 +138,22 @@ We start by mapping the underlying **cause**—the mobility, control, or tissue-
 
 ## What to Expect
 {: .reveal .reveal--up }
-**Evaluate:** We thoroughly review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for proprioception, eyes, and inner ear.
+**Step 1 — Evaluate:** We review your history and check movement, joint motion, posture/balance, and a few simple neurologic screens.
 {: .reveal .reveal--up }
 
-**Map the cause:** We try to connect findings to a clear cause (e.g., mobility, control, or tissue irritability) so care is focused and practical.
+**Step 2 — Find the key limitation:** We connect your symptoms to a clear driver (mobility, control/coordination, or tissue irritability) so care stays focused.
 {: .reveal .reveal--up }
 
-**Plan:** We build a right‑sized plan—adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
+**Step 3 — Make a right‑sized plan:** Adjustments + a small home routine. Tools like laser or shockwave only when useful.
 {: .reveal .reveal--up }
 
-**Treat:** Visits are concise and matched to your comfort. You’re always in control.
+**Step 4 — Treat with comfort in mind:** Visits are concise, and you’re always in control.
 {: .reveal .reveal--up }
 
-**Track:** We recheck simple measures (range, function, steadiness) to confirm what’s helping and adjust as you go.
+**Step 5 — Track and adjust:** We recheck simple measures (range, function, steadiness) to confirm what’s helping.
 {: .reveal .reveal--up }
 
-**Referral:** If chiropractic isn’t the right fit after your initial evaluation, we’ll refer you to an appropriate provider.
+**Step 6 — Refer when appropriate:** If chiropractic isn’t the best next step, we’ll point you to the right provider.
 {: .reveal .reveal--up }
 
 ## Location & Hours
