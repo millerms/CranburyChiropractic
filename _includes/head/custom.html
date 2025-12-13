@@ -1,3 +1,9 @@
+{% if site.favicon %}
+  <link rel="icon" type="image/svg+xml" href="{{ site.favicon | relative_url }}">
+  <link rel="alternate icon" href="{{ site.favicon | relative_url }}">
+  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
+{% endif %}
+
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <script src="{{ 'assets/js/faq.js' | relative_url }}" defer data-turbo-track="reload"></script>

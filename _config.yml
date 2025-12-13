@@ -14,7 +14,7 @@ tagline: "Cranbury Chiropractic Center, LLC"
 # Use for Open Graph/Twitter cards and favicon fallbacks
 logo: ""
 #logo_width: 34   # adjust to taste
-#favicon: "/assets/images/favicon.ico"   # add a file at this path when ready
+favicon: "/assets/images/favicon-cc.svg"
 logo_alt: "Cranbury Chiropractic Logo"
 logo_text: "Cranbury Chiropractic"
 
