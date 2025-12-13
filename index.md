@@ -81,7 +81,7 @@ You don’t need to “believe” in anything or memorize anatomy. We’ll expla
 
 <div class="reveal reveal--up" markdown="1">
 
-**New here?** Most first visits follow a simple pattern: evaluate → treat → give you a small home plan → recheck progress. If chiropractic isn’t the right fit after your evaluation, we’ll help point you toward the right next step.
+**New here?** Most first visits follow a simple pattern: evaluate → treat → recheck progress. Care is focused and goal‑oriented—not open‑ended. If chiropractic isn’t the right fit after your evaluation, we’ll help point you toward the right next step.
 
 </div>
 
@@ -144,7 +144,7 @@ You don’t need to “believe” in anything or memorize anatomy. We’ll expla
 **Step 2 — Find the key limitation:** We connect your symptoms to a clear driver (mobility, control/coordination, or tissue irritability) so care stays focused.
 {: .reveal .reveal--up }
 
-**Step 3 — Make a right‑sized plan:** Adjustments + a small home routine. Tools like laser or shockwave only when useful.
+**Step 3 — Make a right‑sized plan:** Care is designed to match your needs and goals—not to keep you coming forever. When helpful, we may use tools like laser or shockwave to support recovery.
 {: .reveal .reveal--up }
 
 **Step 4 — Treat with comfort in mind:** Visits are concise, and you’re always in control.
