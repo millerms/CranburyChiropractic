@@ -33,18 +33,18 @@ Welcome! If you’re new here, this page walks you through how your first visit 
 Your first visit typically lasts about 45 minutes. We usually run on time, so if you arrive 10-15 minutes early you shouldn’t have to wait.
 {: .reveal .reveal--up }
 
-We start by identifying the underlying **cause**—the mobility, control, or tissue-irritability pattern most holding you back. The exam follows the **sensory → brain → motor** loop: we test how your sensory systems (spine and other joints, eyes, and inner ears) talk to your brain, update that map with precise input, and reinforce motor output so movement, comfort, steadiness, and even muscle and blood-vessel tone improve.
+We start by identifying the underlying **cause**, the mobility, control, or tissue-irritability pattern most holding you back. The exam follows the **sensory → brain → motor** loop: we test how your sensory systems (spine and other joints, eyes, and inner ears) talk to your brain, update that map with precise input, and reinforce motor output so movement, comfort, steadiness, and even muscle and blood-vessel tone improve.
 {: .reveal .reveal--up }
 
 ## What to Expect
 {: .reveal .reveal--up }
-**Evaluate:** We thoroughly review your history and check key systems—movement, joint motion, balance, and simple neurologic screens for proprioception, eyes, and inner ears.
+**Evaluate:** We thoroughly review your history and check key systems, including movement, joint motion, balance, and simple neurologic screens for proprioception, eyes, and inner ears.
 {: .reveal .reveal--up }
 
 **Map the cause:** We connect findings to the cause (mobility, control, or tissue irritability) so care stays focused and practical.
 {: .reveal .reveal--up }
 
-**Plan:** We build a right‑sized plan—adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
+**Plan:** We build a right‑sized plan with adjustments, simple exercises, and add‑ons like laser or shockwave when useful. We explain why each step helps.
 {: .reveal .reveal--up }
 
 **Treat:** Visits are concise and matched to your comfort. You’re always in control.
@@ -115,14 +115,14 @@ Follow‑ups are typically shorter than the first visit. We recheck key measures
   <details class="reveal reveal--up">
     <summary>Will I be adjusted on the first visit?</summary>
     <div class="faq__content">
-      Often, yes—if it’s appropriate and safe. If something else is a better first step, we’ll explain why and offer options.
+      Often, yes, if it’s appropriate and safe. If something else is a better first step, we’ll explain why and offer options.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Does it hurt?</summary>
     <div class="faq__content">
-      Care is gentle and matched to your comfort. You’re always in control—tell us your preferences.
+      Care is gentle and matched to your comfort. You’re always in control, so tell us your preferences.
     </div>
   </details>
 

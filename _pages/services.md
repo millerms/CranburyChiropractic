@@ -4,7 +4,7 @@ title: "All Services"
 image: "/assets/images/spine.webp"
 classes: wide hero-services
 permalink: /services/
-description: "Overview of chiropractic care at Cranbury Chiropractic — neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."
+description: "Overview of chiropractic care at Cranbury Chiropractic, including neurologic approach, balance & stability, full-spine and extremity adjusting, laser therapy, and shockwave (ESWT)."
 excerpt: ""
 sidebar:
   nav: "services"
@@ -14,7 +14,7 @@ header:
   overlay_image: "/assets/images/spine.webp"
 ---
 ## Our Approach to Care
-At Cranbury Chiropractic, care is **tailored to you**—not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **proprioceptive** (joints & muscles), **visual** (eyes), and **vestibular** (inner ear) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
+At Cranbury Chiropractic, care is **tailored to you**, not a one-size-fits-all routine. We use a **neurologic approach** as our lens for every plan, looking at how your brain and body communicate (sensory input → motor output). That means we consider the **visual** (eyes), **vestibular** (inner ear), and **proprioceptive** (joints & muscles) systems, alongside joint motion, soft tissue, breathing, and how you move in daily life.
 
 We keep it practical, explain each step, and build a plan that fits your goals and schedule.
 {: .reveal .reveal--up }
@@ -22,16 +22,16 @@ We keep it practical, explain each step, and build a plan that fits your goals a
 ---
 
 ## How Your Visit Works
-- **Listen & history** — your goals and story guide the plan.
-- **Targeted screen** — quick checks to uncover the underlying **cause** (the mobility, control, or tissue-irritability pattern most holding you back).
-- **Evaluate** — how input (joints/muscles, eyes, inner ear) connects to output (coordination, strength, confidence).
-- **Plan** — a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
-- **Treat** — precise, comfortable techniques matched to your preferences.
-- **Home micro‑sets** — brief exercises you can actually do.
-- **Track & reassess** — quick rechecks so you know what’s working.
+- **Listen & history:** your goals and story guide the plan.
+- **Targeted screen:** quick checks to uncover the underlying **cause** (the mobility, control, or tissue-irritability pattern most holding you back).
+- **Evaluate:** how input (spine, eyes, inner ear, joints) connects to output (coordination, strength, confidence).
+- **Plan:** a right‑sized mix of adjustments and simple drills; when helpful we add **Class III cold laser** or **ESWT**.
+- **Treat:** precise, comfortable techniques matched to your preferences.
+- **Home micro‑sets:** brief exercises you can actually do.
+- **Track & reassess:** quick rechecks so you know what’s working.
 {: .reveal .reveal--up }
 
-We’re always working that sensory → brain → motor loop: clarify input from joints/muscles, eyes, and inner ear, help your brain update the map, and reinforce motor output so movement and vessel tone feel easier.
+We’re always working that sensory → brain → motor loop: clarify input from eyes, inner ear, and joints, help your brain update the map, and reinforce motor output so movement and vessel tone feel easier.
 {: .reveal .reveal--up }
 
 > We’re here to help you move better, recover faster, and stay active. If you have questions or need assistance, don’t hesitate to reach out.
@@ -43,7 +43,7 @@ We’re always working that sensory → brain → motor loop: clarify input from
 <ul class="services-index">
   <li class="reveal reveal--up">
     <a href="{{ '/services/neurologic-approach/' | relative_url }}"><strong>Neurologic Approach</strong></a><br>
-    A practical brain–body lens: align sensory input (joints/muscles, eyes, inner ear) with motor control so movement feels clearer and steadier.
+    A practical brain–body lens: align sensory input (eyes, inner ear, joints) with motor control so movement feels clearer and steadier.
   </li>
 
   <li class="reveal reveal--up">
@@ -53,22 +53,22 @@ We’re always working that sensory → brain → motor loop: clarify input from
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/full-spine-extremities/' | relative_url }}"><strong>Full‑Spine & Extremities</strong></a><br>
-    Precise, joint‑specific adjustments for the spine and limbs—paired with straightforward exercises when helpful.
+    Precise, joint‑specific adjustments for the spine and limbs, paired with straightforward exercises when helpful.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/laser-therapy/' | relative_url }}"><strong>Cold Laser Therapy (Class III)</strong></a><br>
-    Class III photobiomodulation used <em>selectively</em> to help calm irritation and support recovery—always alongside an active plan.
+    Class III photobiomodulation used <em>selectively</em> to help calm irritation and support recovery, always alongside an active plan.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}"><strong>Shockwave Therapy (ESWT)</strong></a><br>
-    Pulsed acoustic energy that prompts a local repair signal—best supported for plantar fasciitis and mid‑portion Achilles; paired with a simple loading plan.
+    Pulsed acoustic energy that prompts a local repair signal, best supported for plantar fasciitis and mid‑portion Achilles; paired with a simple loading plan.
   </li>
 
   <li class="reveal reveal--up">
     <a href="{{ '/services/diversified-technique/' | relative_url }}"><strong>Diversified Technique</strong></a><br>
-    A widely used, hands‑on method for precise, joint‑specific adjustments—often integrated within Full‑Spine care when it fits your exam and goals.
+    A widely used, hands‑on method for precise, joint‑specific adjustments, often integrated within Full‑Spine care when it fits your exam and goals.
   </li>
 </ul>
 
@@ -77,7 +77,7 @@ We’re always working that sensory → brain → motor loop: clarify input from
 ## Not sure where to start?
 - Start with the **Neurologic Approach** to see how we pinpoint the cause and shape care.
 - If steadiness is the main concern, go to **Balance & Stability**. If you’re after joint work, see **Full‑Spine & Extremities**.
-- For persistent tendon/fascia spots, compare **Shockwave (ESWT)** and **Cold Laser (Class III)**—we’ll help you choose what fits your case and goals.
+- For persistent tendon/fascia spots, compare **Shockwave (ESWT)** and **Cold Laser (Class III)**. We’ll help you choose what fits your case and goals.
 {: .reveal .reveal--up }
 
 ---

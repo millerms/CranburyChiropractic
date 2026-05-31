@@ -2,7 +2,7 @@
 layout: splash
 title: "Cranbury Chiropractic Center"
 author_profile: false
-excerpt: "Chiropractic care grounded in modern neuroscience and decades of clinical experience. Clear evaluation, precise adjustments, simple at‑home drills, and optional tools (Class III cold laser, Balance Tracker, ESWT shockwave) when they’re a good fit—based in Norwalk, CT."
+excerpt: "Chiropractic care grounded in modern neuroscience and decades of clinical experience. Clear evaluation, precise adjustments, simple at‑home drills, and optional tools (Class III cold laser, Balance Tracker, ESWT shockwave) when they’re a good fit, based in Norwalk, CT."
 image: "/assets/images/biking-italy.webp"
 classes: hero-home
 permalink: /
@@ -32,7 +32,7 @@ feature_row:
   - #image_path: /assets/images/feature-back.jpg
     alt: "Neurologic Approach"
     title: "Neurologic Approach"
-    excerpt: "We look at how your spine and other joints, vision, and inner ear send information to your brain. Then we use precise input (adjustments + drills) to improve coordination, steadiness, and comfort—and we track your response so we know what’s working."
+    excerpt: "We look at how your spine and other joints, vision, and inner ear send information to your brain. Then we use precise input (adjustments + drills) to improve coordination, steadiness, and comfort, and we track your response so we know what’s working."
     url: "/services/neurologic-approach/"
     btn_label: "See how we help"
     btn_class: "btn--primary"
@@ -51,21 +51,21 @@ feature_row:
     btn_label: "How do we test?"
     btn_class: "btn--primary"
   - title: "Diversified Technique"
-    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise sequences of adjustments — not one‑size‑fits‑all — to improve motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
+    excerpt: "A widely used, hands‑on chiropractic method. Dr. Miller uses precise sequences of adjustments, not one‑size‑fits‑all, to improve motion in specific joints. Expect gentle positioning and a quick, controlled thrust that often produces immediate relief and freer movement."
     url: "/services/diversified-technique/"
     btn_label: "Learn about the technique"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-sport.jpg
     alt: "Cold Laser Therapy"
     title: "Cold Laser Therapy"
-    excerpt: "Class III ‘cold’ laser (photobiomodulation) uses specific light to help calm irritation and support recovery in some tendon and plantar‑fascia problems—used selectively and alongside an active plan."
+    excerpt: "Class III ‘cold’ laser (photobiomodulation) uses specific light to help calm irritation and support recovery in some tendon and plantar‑fascia problems, used selectively and alongside an active plan."
     url: "/services/laser-therapy/"
     btn_label: "How does it work?"
     btn_class: "btn--primary"
   - #image_path: /assets/images/feature-family.jpg
     alt: "Shockwave Therapy (ESWT)"
     title: "Shockwave Therapy (ESWT)"
-    excerpt: "Shockwave (ESWT) delivers pulsed acoustic energy that can prompt a local repair response—best supported for upper and lower extremity tendon, fascial, and soft tissue issues. We often pair it with a simple chiropractic treatment plan."
+    excerpt: "Shockwave (ESWT) delivers pulsed acoustic energy that can prompt a local repair response, best supported for upper and lower extremity tendon, fascial, and soft tissue issues. We often pair it with a simple chiropractic treatment plan."
     url: "/services/shockwave-therapy-eswt/"
     btn_label: "Explore shockwave care"
     btn_class: "btn--primary"
@@ -76,19 +76,19 @@ Welcome to Cranbury Chiropractic in Norwalk, CT. If you’re dealing with **back
 
 Our approach is practical and personalized: a thorough history and exam, **precise joint-specific adjustments**, a few **simple exercises** you can actually stick with, and modern tools like **Class III cold laser**, **Balance Tracker**, or **ESWT shockwave** when they’re a good fit.
 
-You don’t need to “believe” in anything or memorize anatomy. We’ll explain the plan in plain language, track what’s improving, and adjust as we go—so you can move more confidently, sleep better, and get back to work, sports, and daily life.
+You don’t need to “believe” in anything or memorize anatomy. We’ll explain the plan in plain language, track what’s improving, and adjust as we go, so you can move more confidently, sleep better, and get back to work, sports, and daily life.
 </div>
 
 <div class="reveal reveal--up" markdown="1">
 
-**New here?** Most first visits follow a simple pattern: evaluate → treat → recheck progress. Care is focused and goal‑oriented—not open‑ended. If chiropractic isn’t the right fit after your evaluation, we’ll help point you toward the right next step.
+**New here?** Most first visits follow a simple pattern: evaluate → treat → recheck progress. Care is focused and goal‑oriented, not open‑ended. If chiropractic isn’t the right fit after your evaluation, we’ll help point you toward the right next step.
 
 </div>
 
-**How we think about results:** Pain and movement are influenced by how your brain interprets input from joints, muscles, vision, and the inner ear. Our care aims to improve that signal—so motion feels easier, steadiness improves, and irritated tissues have a better chance to settle.
+**How we think about results:** Pain and movement are influenced by how your brain interprets input from joints, muscles, vision, and the inner ear. Our care aims to improve that signal, so motion feels easier, steadiness improves, and irritated tissues have a better chance to settle.
 {: .reveal .reveal--up }
 
-> “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”  
+> “My care is guided by neurology. I closely monitor how your nervous system is functioning and how it changes with care. When we find the key restriction or imbalance and address it, the body often does what it’s designed to do - heal and stabilize.”
 > ~ **Dr. Paul Miller**
 {: .notice--primary .reveal .reveal--fade }
 
@@ -138,22 +138,22 @@ You don’t need to “believe” in anything or memorize anatomy. We’ll expla
 
 ## What to Expect
 {: .reveal .reveal--up }
-**Step 1 — Evaluate:** We review your history and check movement, joint motion, posture/balance, and a few simple neurologic screens.
+**Step 1: Evaluate:** We review your history and check movement, joint motion, posture/balance, and a few simple neurologic screens.
 {: .reveal .reveal--up }
 
-**Step 2 — Find the key limitation:** We connect your symptoms to a clear driver (mobility, control/coordination, or tissue irritability) so care stays focused.
+**Step 2: Find the key limitation:** We connect your symptoms to a clear driver (mobility, control/coordination, or tissue irritability) so care stays focused.
 {: .reveal .reveal--up }
 
-**Step 3 — Make a right‑sized plan:** Care is designed to match your needs and goals—not to keep you coming forever. When helpful, we may use tools like laser or shockwave to support recovery.
+**Step 3: Make a right‑sized plan:** Care is designed to match your needs and goals, not to keep you coming forever. When helpful, we may use tools like laser or shockwave to support recovery.
 {: .reveal .reveal--up }
 
-**Step 4 — Treat with comfort in mind:** Visits are concise, and you’re always in control.
+**Step 4: Treat with comfort in mind:** Visits are concise, and you’re always in control.
 {: .reveal .reveal--up }
 
-**Step 5 — Track and adjust:** We recheck simple measures (range, function, steadiness) to confirm what’s helping.
+**Step 5: Track and adjust:** We recheck simple measures (range, function, steadiness) to confirm what’s helping.
 {: .reveal .reveal--up }
 
-**Step 6 — Refer when appropriate:** If chiropractic isn’t the best next step, we’ll point you to the right provider.
+**Step 6: Refer when appropriate:** If chiropractic isn’t the best next step, we’ll point you to the right provider.
 {: .reveal .reveal--up }
 
 ## Location & Hours
@@ -161,7 +161,7 @@ You don’t need to “believe” in anything or memorize anatomy. We’ll expla
 <div class="reveal reveal--up">
   <section class="contact-hours">
     <div class="map">
-      {% include map/lazy-map.html 
+      {% include map/lazy-map.html
          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12017.780646219726!2d-73.43573584758363!3d41.14663669559827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e81d06e09b8725%3A0x6a009dd40432130c!2s488%20Main%20Ave%2C%20Norwalk%2C%2006851!5e0!3m2!1sen!2sus!4v1755148035773!5m2!1sen!2sus"
          title="Google Map: Cranbury Chiropractic Center, 488 Main Ave, Norwalk, CT"
          load="visible"

@@ -2,7 +2,7 @@
 layout: single
 title: "Shockwave Therapy (ESWT)"
 permalink: /services/shockwave-therapy-eswt/
-description: "Pulsed acoustic waves for stubborn tendon and fascia problems—paired with an active plan."
+description: "Pulsed acoustic waves for stubborn tendon and fascia problems, paired with an active plan."
 sidebar:
   nav: "services"
 classes: wide
@@ -17,7 +17,7 @@ The acoustic pulses create a small, controlled mechanical stimulus that can **in
 {: .reveal .reveal--fade }
 
 ### Why we use it
-ESWT is most consistently helpful for **upper and lower extremity tendon, fascial, and soft-tissue issues**. It’s often considered for other stubborn tendon problems (e.g., tennis elbow) when exam findings fit. It’s **not** a replacement for adjustments or active care—we use it to calm irritated tissue so the sensory signals feeding your brain clear up and motor control carries over between visits.
+ESWT is most consistently helpful for **upper and lower extremity tendon, fascial, and soft-tissue issues**. It’s often considered for other stubborn tendon problems (e.g., tennis elbow) when exam findings fit. It’s **not** a replacement for adjustments or active care. We use it to calm irritated tissue so the sensory signals feeding your brain clear up and motor control carries over between visits.
 {: .reveal .reveal--fade }
 
 ### When we use it
@@ -29,16 +29,16 @@ ESWT is most consistently helpful for **upper and lower extremity tendon, fascia
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Evaluate** — confirm ESWT is a good fit for your case  
-2. **Treatment** — a tapping/pulsing sensation for a few minutes; intensity is matched to comfort  
-3. **Series** — many people do best with **3–10 sessions**  
-4. **Pair with chiropractic care and exercises** — we combine ESWT with adjustments and a short list of exercises so neurologic gains “stick”  
-5. **Track** — quick rechecks guide any adjustments to the plan
+1. **Evaluate:** confirm ESWT is a good fit for your case
+2. **Treatment:** a tapping/pulsing sensation for a few minutes; intensity is matched to comfort
+3. **Series:** many people do best with **3–10 sessions**
+4. **Pair with chiropractic care and exercises:** we combine ESWT with adjustments and a short list of exercises so neurologic gains “stick”
+5. **Track:** quick rechecks guide any adjustments to the plan
 {: .reveal .reveal--fade }
 
 ### How we measure progress
-- Pain/irritation changes during daily tasks  
-- Function: walking tolerance (minutes or step count), stairs, grip strength, reach distance  
+- Pain/irritation changes during daily tasks
+- Function: walking tolerance (minutes or step count), stairs, grip strength, reach distance
 - Tissue tolerance and range‑of‑motion rechecks
 {: .reveal .reveal--fade }
 
@@ -77,7 +77,7 @@ ESWT is most consistently helpful for **upper and lower extremity tendon, fascia
   <details class="reveal reveal--up">
     <summary>Can I combine it with other care?</summary>
     <div class="faq__content">
-      Yes — ESWT pairs well with adjustments, manual therapy, and a simple loading plan. That combination is often what makes results last.
+      Yes, ESWT pairs well with adjustments, manual therapy, and a simple loading plan. That combination is often what makes results last.
     </div>
   </details>
 
@@ -95,7 +95,7 @@ ESWT is most consistently helpful for **upper and lower extremity tendon, fascia
     </div>
   </details>
 </div>
-  
+
 ---
 
 <div class="contact-actions reveal reveal--up">

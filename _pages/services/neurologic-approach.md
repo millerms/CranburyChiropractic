@@ -9,13 +9,13 @@ classes: wide
 ---
 
 ## Overview
-This lens guides every visit. We check how your **joints/muscles (proprioception)**, **eyes (visual)**, and **inner ear (vestibular)** talk to your brain, then match care to the underlying cause we find—the mobility, control, or tissue-irritability pattern most holding you back. Cleaner sensory input paired with better joint motion helps your brain coordinate movement with less effort, so the plan stays practical and fits your day.
+This lens guides every visit. We check how your **joints/muscles (proprioception)**, **eyes (visual)**, and **inner ear (vestibular)** talk to your brain, then match care to the underlying cause we find: the mobility, control, or tissue-irritability pattern most holding you back. Cleaner sensory input paired with better joint motion helps your brain coordinate movement with less effort, so the plan stays practical and fits your day.
 {: .reveal .reveal--fade }
 
 ### What we assess
-- Sensory input: how joint/muscle, eye, and inner-ear feedback agree—or do not
+- Sensory input: how joint/muscle, eye, and inner-ear feedback agree, or do not
 - Motor control: timing, coordination, and joint control under load
-- Functional tasks: reach, rotate, stairs, gait—scaled to what you need
+- Functional tasks: reach, rotate, stairs, gait, scaled to what you need
 - Recovery factors: breathing mechanics and tolerance to effort/positions
 - Context: your goals, history, and day-to-day demands
 {: .reveal .reveal--fade }
@@ -32,22 +32,22 @@ This lens guides every visit. We check how your **joints/muscles (proprioception
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Evaluate** — quick joint motion, eye, and balance checks, plus simple functional tasks  
-2. **Map the cause** — clarify whether input, output, or both are limiting progress  
-3. **Plan** — chiropractic adjustments and targeted exercises as appropriate; add Class III laser or ESWT only if it fits  
-4. **Home plan** — short, doable sets you can fit into your day  
-5. **Track** — quick rechecks to confirm what’s helping and adjust as needed
+1. **Evaluate:** quick joint motion, eye, and balance checks, plus simple functional tasks
+2. **Map the cause:** clarify whether input, output, or both are limiting progress
+3. **Plan:** chiropractic adjustments and targeted exercises as appropriate; add Class III laser or ESWT only if it fits
+4. **Home plan:** short, doable sets you can fit into your day
+5. **Track:** quick rechecks to confirm what’s helping and adjust as needed
 {: .reveal .reveal--fade }
 
 ### How we measure progress
-- Functional wins you notice—easier stairs, steadier reach, smoother rotation
-- Objective checks when useful—range, coordination timing, or task reps
+- Functional wins you notice: easier stairs, steadier reach, smoother rotation
+- Objective checks when useful: range, coordination timing, or task reps
 - Your report of effort, confidence, and symptom change during daily life
 - Tissue tolerance and range-of-motion rechecks that confirm durability
 {: .reveal .reveal--fade }
 
 ### Evidence snapshot
-- Major back and neck pain guidelines recommend **non-pharmacologic care first**—education, exercise, and manual therapy when appropriate (ACP 2017; NICE NG59 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
+- Major back and neck pain guidelines recommend **non-pharmacologic care first**, including education, exercise, and manual therapy when appropriate (ACP 2017; NICE NG59 2020). <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP</a> · <a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener">NICE NG59</a>
 - **Vestibular rehabilitation** is effective and safe for unilateral peripheral vestibular dysfunction, which supports the balance and drills we recommend. <a href="https://pubmed.ncbi.nlm.nih.gov/25581507/" target="_blank" rel="noopener">Cochrane 2015</a>
 - **Exercise protocols reduce falls** in community settings when balance and functional training are part of the plan (Sherrington 2020; Ng 2019). <a href="https://pubmed.ncbi.nlm.nih.gov/31792067/" target="_blank" rel="noopener">Sherrington 2020</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/31908838/" target="_blank" rel="noopener">Ng 2019</a>
 - Combining **targeted exercise** with **manual therapy** is widely recommended for many musculoskeletal complaints, reinforcing our blended approach. <a href="https://pubmed.ncbi.nlm.nih.gov/28192789/" target="_blank" rel="noopener">ACP 2017</a>

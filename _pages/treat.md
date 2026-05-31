@@ -10,15 +10,15 @@ header:
 excerpt: "Common reasons people see us and how our approach fits each case."
 ---
 
-A quick guide to the most common issues we see — and how we match care to your goals. If you don’t see your exact situation, reach out. We’ll let you know if it’s a fit or help you find the right place.
+A quick guide to the most common issues we see and how we match care to your goals. If you don’t see your exact situation, reach out. We’ll let you know if it’s a fit or help you find the right place.
 {: .reveal .reveal--up }
 
 ---
 
 ## How we match care to your case
 {: .reveal .reveal--up }
-- **Neurologic lens:** we’ll check how your brain and body communicate (proprioceptive, visual, vestibular) and target the cause—the mobility, control, or tissue-irritability pattern most holding you back.
-- **Precise joint care:** full‑spine and extremity adjustments when appropriate—never one‑size‑fits‑all.
+- **Neurologic lens:** we’ll check how your brain and body communicate (proprioceptive, visual, vestibular) and target the cause: the mobility, control, or tissue-irritability pattern most holding you back.
+- **Precise joint care:** full‑spine and extremity adjustments when appropriate, never one‑size‑fits‑all.
 - **Practical exercises:** short “micro‑sets” you can actually do.
 - **Modern tools:** **Class III cold laser** and **shockwave (ESWT)** when they’re a good fit.
 - **Progress you can feel:** quick rechecks so you know what’s helping.
@@ -44,8 +44,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Cervical Adjusting</a> — restore clean joint input from the neck</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — sensory retraining and gaze stabilization</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Cervical Adjusting</a>: restore clean joint input from the neck</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: sensory retraining and gaze stabilization</li>
         <li>Home drills to sync proprioceptive, visual, and vestibular cues</li>
       </ul>
     </div>
@@ -60,9 +60,9 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — specific joint work to restore motion and comfort</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — timing/coordination and input → output</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — calm irritation and support recovery</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a>: specific joint work to restore motion and comfort</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: timing/coordination and input → output</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a>: calm irritation and support recovery</li>
       </ul>
     </div>
   </details>
@@ -76,7 +76,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Upper Cervical and Jaw</a> — gentle, precise adjustments</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Upper Cervical and Jaw</a>: gentle, precise adjustments</li>
         <li>Simple posture exercises & micro‑break strategies</li>
       </ul>
     </div>
@@ -91,9 +91,9 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Extremity Adjusting</a> — shoulder, elbow, wrist, hand</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — tissue calm + circulation</li>
-        <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a> — stubborn tendon spots</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Extremity Adjusting</a>: shoulder, elbow, wrist, hand</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a>: tissue calm + circulation</li>
+        <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a>: stubborn tendon spots</li>
       </ul>
     </div>
   </details>
@@ -107,9 +107,9 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Extremity Adjusting</a> — hip, knee, ankle, foot</li>
-        <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a> — plantar fascia, Achilles, chronic tendons</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — support tissue recovery</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Extremity Adjusting</a>: hip, knee, ankle, foot</li>
+        <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a>: plantar fascia, Achilles, chronic tendons</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a>: support tissue recovery</li>
       </ul>
     </div>
   </details>
@@ -123,9 +123,9 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Cervical Adjusting</a> — restore clean input from the neck to support balance</li>
-        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a> — proprioceptive/visual/vestibular exercises with tracking</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — map input → output; risk‑of‑fall score with balance tracker</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Cervical Adjusting</a>: restore clean input from the neck to support balance</li>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance & Stability</a>: proprioceptive/visual/vestibular exercises with tracking</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: map input → output; risk‑of‑fall score with balance tracker</li>
       </ul>
     </div>
   </details>
@@ -139,11 +139,11 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — restore local joint motion and nerve glide</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — clarify input, improve control</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — support calming irritated tissue</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a>: restore local joint motion and nerve glide</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: clarify input, improve control</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a>: support calming irritated tissue</li>
       </ul>
-      <p><strong>Urgent referral:</strong> new or progressive weakness, loss of bowel/bladder control, saddle anesthesia, unexplained severe pain — please seek emergency care.</p>
+      <p><strong>Urgent referral:</strong> new or progressive weakness, loss of bowel/bladder control, saddle anesthesia, unexplained severe pain. Please seek emergency care.</p>
     </div>
   </details>
 
@@ -156,8 +156,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — restore motion where it matters</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — timing/coordination</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a>: restore motion where it matters</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: timing/coordination</li>
         <li><a href="{{ '/services/shockwave-therapy-eswt/' | relative_url }}">Shockwave (ESWT)</a> or <a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a> when appropriate</li>
       </ul>
     </div>
@@ -172,10 +172,10 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — precise joint work to restore motion</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — improve timing/coordination so motion “sticks”</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a>: precise joint work to restore motion</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: improve timing/coordination so motion “sticks”</li>
         <li>Targeted mobility exercises & light isometrics you can do at home</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a> — support tissue recovery when irritable</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser (Class III)</a>: support tissue recovery when irritable</li>
       </ul>
     </div>
   </details>
@@ -189,7 +189,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a> — free up joints that feel “stuck” from long days</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Full‑Spine & Extremities</a>: free up joints that feel “stuck” from long days</li>
         <li>Short posture breaks, breathing exercises, and easy mobility sets</li>
       </ul>
     </div>
@@ -198,15 +198,15 @@ At every visit we roll through the same sensory → brain → motor loop: test h
   <details class="reveal reveal--up">
     <summary><span class="term">Auto Accidents &amp; Whiplash</span><span class="desc">neck/back soreness, stiffness, post‑impact discomfort</span></summary>
     <div class="faq__content">
-      After medical clearance, we focus on gentle, progressive care to restore comfortable motion and control.  
+      After medical clearance, we focus on gentle, progressive care to restore comfortable motion and control.
       <br><br>
       <em>Why it helps:</em> Graded sensory, balance, and joint work respects irritated tissues while rebuilding confidence in movement.
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — cervical/thoracic when appropriate and comfortable</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — head/eye coordination, balance, and graded movement</li>
-        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a> — calm irritation in sensitive tissues</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a>: cervical/thoracic when appropriate and comfortable</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: head/eye coordination, balance, and graded movement</li>
+        <li><a href="{{ '/services/laser-therapy/' | relative_url }}">Cold Laser</a>: calm irritation in sensitive tissues</li>
       </ul>
     </div>
   </details>
@@ -220,7 +220,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — pelvis, low back, and ribs as appropriate</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a>: pelvis, low back, and ribs as appropriate</li>
         <li>Breathing and position strategies for daily activities</li>
         <li>Short mobility and stability exercises that feel good</li>
       </ul>
@@ -236,8 +236,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a> — ease guarded joints so sensors send clearer signals</li>
-        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a> — tune neck control and proprioceptive, visual, and vestibular inputs</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Precise Adjusting</a>: ease guarded joints so sensors send clearer signals</li>
+        <li><a href="{{ '/services/neurologic-approach/' | relative_url }}">Neurologic Approach</a>: tune neck control and proprioceptive, visual, and vestibular inputs</li>
         <li>“Micro‑breaks,” breathing, and posture strategies</li>
       </ul>
     </div>
@@ -252,8 +252,8 @@ At every visit we roll through the same sensory → brain → motor loop: test h
       <br><br>
       <em>What often helps:</em>
       <ul>
-        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a> — to improve sensory input to restore comfortable motion</li>
-        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance &amp; Stability</a> — trackable risk‑of‑fall score and simple progressions</li>
+        <li><a href="{{ '/services/full-spine-extremities/' | relative_url }}">Gentle Adjusting</a>: to improve sensory input to restore comfortable motion</li>
+        <li><a href="{{ '/services/balance-stability/' | relative_url }}">Balance &amp; Stability</a>: trackable risk‑of‑fall score and simple progressions</li>
         <li>Light strength and mobility “micro‑sets” tailored to you</li>
       </ul>
     </div>
@@ -267,7 +267,7 @@ At every visit we roll through the same sensory → brain → motor loop: test h
 If we think another provider is a better first step (e.g., imaging, medication, specialty vestibular therapy, orthopedic or neurologic evaluation), we’ll tell you and help coordinate care. Your safety and best outcome always come first.
 {: .reveal .reveal--up }
 
-> **Emergencies:** If you are experiencing chest pain, severe shortness of breath, sudden severe headache, new neurological deficits (face droop, trouble speaking, one‑sided weakness), major trauma, fever with severe back pain — please seek emergency care immediately.
+> **Emergencies:** If you are experiencing chest pain, severe shortness of breath, sudden severe headache, new neurological deficits (face droop, trouble speaking, one‑sided weakness), major trauma, or fever with severe back pain, please seek emergency care immediately.
 {: .notice--primary .reveal .reveal--up }
 
 ---

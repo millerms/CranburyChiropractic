@@ -1,4 +1,4 @@
-# Cranbury Chiropractic — Performance Audit (Jekyll / Minimal Mistakes)
+# Cranbury Chiropractic: Performance Audit (Jekyll / Minimal Mistakes)
 
 This report highlights Core Web Vitals risks and ships safe P0 fixes with GitHub Pages–compatible patches.
 
@@ -80,4 +80,3 @@ done
 ## Validation Notes
 - All patches are GitHub Pages–safe (no extra plugins). Paths use `relative_url`.
 - Keep an eye on CI results from Lighthouse CI. Adjust `lighthouse/budgets.json` over time.
-

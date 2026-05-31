@@ -29,7 +29,7 @@ Welcome! This page explains the plans we accept, how to use your benefits, and w
 
 ---
 
-## Using Your Benefits — What to Ask Your Plan
+## Using Your Benefits: What to Ask Your Plan
 {: .reveal .reveal--up }
 - **Deductible** remaining for the year
 - **Copay** or **coinsurance** for chiropractic services
@@ -52,9 +52,9 @@ If your plan isn’t in‑network or you prefer not to use insurance, we offer s
 We keep costs transparent and explain them in advance. Typical structure:
 {: .reveal .reveal--up }
 
-- **First visit** — Consultation, targeted exam, and treatment when appropriate.
-- **Follow‑up visits** — Shorter, focused sessions to reinforce progress.
-- **Adjunct options** — Therapeutic exercise, class III cold laser, and/or shockwave (ESWT) when they’re a good fit.
+- **First visit:** Consultation, targeted exam, and treatment when appropriate.
+- **Follow‑up visits:** Shorter, focused sessions to reinforce progress.
+- **Adjunct options:** Therapeutic exercise, class III cold laser, and/or shockwave (ESWT) when they’re a good fit.
 {: .reveal .reveal--up }
 
 > Coverage for exams and adjunct therapies varies by plan (for example, Medicare generally covers spinal manipulation but not exams or adjunct therapies). We’ll review your options before care.
@@ -68,7 +68,7 @@ We keep costs transparent and explain them in advance. Typical structure:
   <details class="reveal reveal--up">
     <summary>Do you verify my benefits?</summary>
     <div class="faq__content">
-      Yes — we check benefits as a <strong>courtesy</strong> so you have a clear estimate. Final responsibility rests with the member, so we also recommend calling the number on your card for the most accurate details.
+      Yes, we check benefits as a <strong>courtesy</strong> so you have a clear estimate. Final responsibility rests with the member, so we also recommend calling the number on your card for the most accurate details.
     </div>
   </details>
 

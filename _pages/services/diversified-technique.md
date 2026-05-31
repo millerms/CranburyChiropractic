@@ -2,14 +2,14 @@
 layout: single
 title: "Diversified Technique"
 permalink: /services/diversified-technique/
-description: "A widely used, hands‑on chiropractic adjustment—precise, quick, and tailored to your comfort for spine or extremity joints."
+description: "A widely used, hands‑on chiropractic adjustment, precise, quick, and tailored to your comfort for spine or extremity joints."
 sidebar:
   nav: "services"
 classes: wide
 ---
 
 ## Overview
-Diversified is a precise, hands-on adjustment. We position you comfortably, take up slack in a specific joint, and deliver a quick, controlled thrust to restore motion. We use it for the **spine** and, when appropriate, for **extremity joints** such as the ankle, knee, shoulder, or wrist. A brief pop is normal—that’s gas releasing inside the joint, like cracking a knuckle.
+Diversified is a precise, hands-on adjustment. We position you comfortably, take up slack in a specific joint, and deliver a quick, controlled thrust to restore motion. We use it for the **spine** and, when appropriate, for **extremity joints** such as the ankle, knee, shoulder, or wrist. A brief pop is normal. That’s gas releasing inside the joint, like cracking a knuckle.
 {: .reveal .reveal--fade }
 
 ### When it may help
@@ -20,11 +20,11 @@ Diversified is a precise, hands-on adjustment. We position you comfortably, take
 {: .reveal .reveal--up }
 
 ### Why it works
-Joints are rich in mechanoreceptors that signal your brain about position and motion; restoring input often improves coordination and comfort. Diversified is widely used and not one-size-fits-all—we choose it when precise, joint-specific motion is the goal.
+Joints are rich in mechanoreceptors that signal your brain about position and motion; restoring input often improves coordination and comfort. Diversified is widely used and not one-size-fits-all. We choose it when precise, joint-specific motion is the goal.
 {: .reveal .reveal--up }
 
 ### When we choose something else
-- You prefer to avoid thrust adjustments—totally fine
+- You prefer to avoid thrust adjustments, which is totally fine
 - There’s a medical reason to avoid them
 - Another option is a better first step (joint mobilization, instrument-assisted work, soft-tissue, or targeted exercise)
 {: .reveal .reveal--up }
@@ -37,10 +37,10 @@ Joints are rich in mechanoreceptors that signal your brain about position and mo
 {: .reveal .reveal--up }
 
 ### What to expect
-1. **Examine & explain** — thorough history, orthopedic, neurologic, and chiropractic exams; we discuss options and answer questions  
-2. **Setup** — comfortable positioning and clear instructions so you know what to expect  
-3. **Adjustment** — a quick, small-amplitude thrust to a specific joint; a pop may or may not occur  
-4. **Recheck** — confirm changes in motion and comfort, and plan next steps  
+1. **Examine & explain:** thorough history, orthopedic, neurologic, and chiropractic exams; we discuss options and answer questions
+2. **Setup:** comfortable positioning and clear instructions so you know what to expect
+3. **Adjustment:** a quick, small-amplitude thrust to a specific joint; a pop may or may not occur
+4. **Recheck:** confirm changes in motion and comfort, and plan next steps
 {: .reveal .reveal--fade }
 
 ### How we measure progress
@@ -70,14 +70,14 @@ Joints are rich in mechanoreceptors that signal your brain about position and mo
   <details class="reveal reveal--up">
     <summary>Will it hurt? What’s the pop?</summary>
     <div class="faq__content">
-      Discomfort, which is uncommon, is minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space—like popping a knuckle.
+      Discomfort, which is uncommon, is minimal and brief. The pop (if you hear one) is just gas releasing inside the joint space, like popping a knuckle.
     </div>
   </details>
 
   <details class="reveal reveal--up">
     <summary>Can you adjust ankles, knees, or shoulders?</summary>
     <div class="faq__content">
-      Yes—when it’s appropriate and aligned with your goals.
+      Yes, when it’s appropriate and aligned with your goals.
     </div>
   </details>
 
@@ -89,7 +89,7 @@ Joints are rich in mechanoreceptors that signal your brain about position and mo
   </details>
 </div>
 
-> You’re in control—tell us your comfort level and preferences. Results vary.
+> You’re in control. Tell us your comfort level and preferences. Results vary.
 {: .reveal .reveal--fade }
 
 ---

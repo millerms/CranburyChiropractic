@@ -12,9 +12,9 @@ classes: wide
 If you don’t feel steady or your world feels “floaty,” we’ll figure out why and build a simple plan that fits your day. We look at three sensory systems that feed your brain the balance information it needs:
 {: .reveal .reveal--fade }
 
-- **Proprioceptive** (joints/muscles, especially the neck) — body-position feedback  
-- **Visual** (eyes) — where you are in space  
-- **Vestibular** (inner ear) — head movement and position  
+- **Proprioceptive** (joints/muscles, especially the neck): body-position feedback
+- **Visual** (eyes): where you are in space
+- **Vestibular** (inner ear): head movement and position
 {: .reveal .reveal--up }
 
 When the neck is restricted or an inner-ear glitch occurs, "noisy" data from that system provides conflicting input with the visual or vestibular systems and this information mismatch confuses the brain into a temporary state of dizziness. When one sensory system lags, you compensate. We try to identify the cause and use adjustments and targeted exercises to retrain the system that’s behind it, helping you feel steadier.
@@ -22,22 +22,22 @@ When the neck is restricted or an inner-ear glitch occurs, "noisy" data from tha
 
 ### When it may help
 - **Dizziness or lightheadedness** with head movement or position changes
-- **Hesitation on stairs or curbs**, or avoiding uneven ground  
-- **Fear of falling** or feeling “wobbly” when you close your eyes  
-- Post-injury balance that **hasn’t felt the same**  
+- **Hesitation on stairs or curbs**, or avoiding uneven ground
+- **Fear of falling** or feeling “wobbly” when you close your eyes
+- Post-injury balance that **hasn’t felt the same**
 - You want more **confidence** for daily life or sport
 {: .reveal .reveal--up }
 
 ### What to expect
-1. **Evaluate** — standing tests (eyes open/closed), head turns, single‑leg stance  
-2. **Tracker** — computerized balance score you can follow over time  
-3. **Plan** — cervical/thoracic adjusting plus gaze, vestibular, and stance drills that match the cause  
-4. **Home plan** — brief, right‑sized sets at home  
+1. **Evaluate:** standing tests (eyes open/closed), head turns, single‑leg stance
+2. **Tracker:** computerized balance score you can follow over time
+3. **Plan:** cervical/thoracic adjusting plus gaze, vestibular, and stance drills that match the cause
+4. **Home plan:** brief, right‑sized sets at home
 {: .reveal .reveal--up }
 
 ### How we measure progress
-- Tracker sway metrics and risk-of-fall trend  
-- Functional wins: smoother turns, easier stairs, less drift  
+- Tracker sway metrics and risk-of-fall trend
+- Functional wins: smoother turns, easier stairs, less drift
 - Timed stances (tandem, single-leg) and task tolerance
 {: .reveal .reveal--up }
 
@@ -49,7 +49,7 @@ When the neck is restricted or an inner-ear glitch occurs, "noisy" data from tha
   <details class="reveal reveal--up">
     <summary>Do I need to be athletic?</summary>
     <div class="faq__content">
-      No — balance work is for everyone. We tailor exercises to your level and goals.
+      No, balance work is for everyone. We tailor exercises to your level and goals.
     </div>
   </details>
 
@@ -70,7 +70,7 @@ When the neck is restricted or an inner-ear glitch occurs, "noisy" data from tha
   <details class="reveal reveal--up">
     <summary>Home plan?</summary>
     <div class="faq__content">
-      Yes. You’ll get brief, clear routines that fit your schedule — no long workouts or complex exercises.
+      Yes. You’ll get brief, clear routines that fit your schedule, with no long workouts or complex exercises.
     </div>
   </details>
 

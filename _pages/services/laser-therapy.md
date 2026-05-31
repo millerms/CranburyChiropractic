@@ -2,18 +2,18 @@
 layout: single
 title: "Cold Laser Therapy (Class III)"
 permalink: /services/laser-therapy/
-description: "Class III low‑level (\"cold\") laser—photobiomodulation used alongside active care to help calm irritation and support recovery."
+description: "Class III low‑level (\"cold\") laser, photobiomodulation used alongside active care to help calm irritation and support recovery."
 sidebar:
   nav: "services"
 classes: wide
 ---
 
 ## Overview
-Class III “cold” laser uses specific light to support your body’s recovery. We use it **selectively**—mainly for irritable tendon or fascia problems—and almost always **alongside an active plan** (adjustments, simple drills, and loading) so improvements carry over into daily life. It’s called “cold” because treatment is non‑thermal and usually feels comfortable.
+Class III “cold” laser uses specific light to support your body’s recovery. We use it **selectively**, mainly for irritable tendon or fascia problems, and almost always **alongside an active plan** (adjustments, simple drills, and loading) so improvements carry over into daily life. It’s called “cold” because treatment is non‑thermal and usually feels comfortable.
 {: .reveal .reveal--fade }
 
 ### How it works
-Cold laser (photobiomodulation—the use of specific light to support cellular processes) is absorbed by tissue and can influence **mitochondrial energy (ATP)**, **local circulation**, and **pain‑modulating signals**. Results hinge on the delivered dose (wavelength, energy, time, and target depth), not device hype. Treatments are non‑invasive.
+Cold laser (photobiomodulation, the use of specific light to support cellular processes) is absorbed by tissue and can influence **mitochondrial energy (ATP)**, **local circulation**, and **pain‑modulating signals**. Results hinge on the delivered dose (wavelength, energy, time, and target depth), not device hype. Treatments are non‑invasive.
 {: .reveal .reveal--fade }
 
 ### When we use it
@@ -28,16 +28,16 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
 {: .reveal .reveal--fade }
 
 ### What to expect
-1. **Evaluate** — confirm cold laser fits your goals and findings  
-2. **Treatment** — typically **5–15 minutes**; most feel little to no sensation (sometimes mild warmth)  
-3. **Series** — many people benefit from a short series (**3–10 sessions**)  
-4. **No downtime** — you can resume your day; we’ll pair it with simple drills  
-5. **Track** — quick rechecks guide any adjustments to the plan
+1. **Evaluate:** confirm cold laser fits your goals and findings
+2. **Treatment:** typically **5–15 minutes**; most feel little to no sensation (sometimes mild warmth)
+3. **Series:** many people benefit from a short series (**3–10 sessions**)
+4. **No downtime:** you can resume your day; we’ll pair it with simple drills
+5. **Track:** quick rechecks guide any adjustments to the plan
 {: .reveal .reveal--fade }
 
 ### How we measure progress
-- Comfort during activities and daily tasks  
-- Range‑of‑motion and functional milestones  
+- Comfort during activities and daily tasks
+- Range‑of‑motion and functional milestones
 - Your own report of “how it feels” over time
 {: .reveal .reveal--fade }
 
@@ -57,7 +57,7 @@ Cold laser isn’t a cure‑all. For example, it hasn’t shown meaningful benef
   <details class="reveal reveal--up">
     <summary>Is there research to support it?</summary>
     <div class="faq__content">
-      Yes—especially for some tendon and plantar-fascia problems when dosing is appropriate and care is paired with exercise. Evidence is mixed elsewhere, which is why we match the tool to the case. Representative sources:
+      Yes, especially for some tendon and plantar-fascia problems when dosing is appropriate and care is paired with exercise. Evidence is mixed elsewhere, which is why we match the tool to the case. Representative sources:
       <ul>
         <li>Naterstad IF, Joensen J, Bjordal JM, Couppé C, Lopes-Martins RAB, Stausholm MB. Efficacy of low-level laser therapy in patients with lower extremity tendinopathy or plantar fasciitis: systematic review and meta-analysis of randomised controlled trials. BMJ Open. 2022 Sep. <a href="https://pubmed.ncbi.nlm.nih.gov/36171024/" target="_blank" rel="noopener">PubMed 36171024</a></li>
         <li>Tomazoni SS, Almeida MO, Bjordal JM, Stausholm MB, Machado CDSM, Leal-Junior ECP, Costa LOP. Photobiomodulation therapy does not decrease pain and disability in people with non-specific low back pain: a systematic review. J Physiother. 2020 Jul. <a href="https://pubmed.ncbi.nlm.nih.gov/32680739/" target="_blank" rel="noopener">PubMed 32680739</a></li>
