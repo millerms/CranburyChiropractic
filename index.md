@@ -202,8 +202,8 @@ You don’t need to “believe” in anything or memorize anatomy. We’ll expla
               </tr>
               <tr>
                 <th scope="row">FRI</th>
-                <td>9:00 &ndash; 1:00</td>
-                <td>3:00 &ndash; 6:00</td>
+                <td>8:00 &ndash; 1:00</td>
+                <td>Closed</td>
               </tr>
               <tr>
                 <th scope="row">SAT</th>
